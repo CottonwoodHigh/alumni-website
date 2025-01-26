@@ -26,6 +26,10 @@ export default defineConfig({
 					label: 'Class Pages',
 					autogenerate: { directory: 'classes' },
 				},
+				{
+					label: 'Reference',
+					autogenerate: { directory: 'reference' },
+				},
 			],
 		}),
 	],
