@@ -16,15 +16,15 @@ export default defineConfig({
 			favicon: 'favicon.png',
 			sidebar: [
 				{
-					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
-					],
+					label: 'Introduction',
+          items: [
+              // Each item here is one entry in the navigation menu.
+              { label: 'Getting Started', slug: 'guides/getting-started' },
+          ],
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'Class Pages',
+					autogenerate: { directory: 'classes' },
 				},
 			],
 		}),
