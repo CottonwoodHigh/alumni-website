@@ -10,7 +10,6 @@ export default defineConfig({
 			social: {
 				instagram: 'https://www.instagram.com/CWOODCOLTS/',
 				linkedin: 'https://www.linkedin.com/groups/13573495/',
-				github: 'https://github.com/lukehsiao/cottonwood',
 				email: 'mailto:admin@cottonwoodhigh.school',
 			},
 			sidebar: [
