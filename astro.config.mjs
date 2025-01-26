@@ -13,6 +13,7 @@ export default defineConfig({
 				linkedin: 'https://www.linkedin.com/groups/13573495/',
 				email: 'mailto:admin@cottonwoodhigh.school',
 			},
+			favicon: 'favicon.png',
 			sidebar: [
 				{
 					label: 'Guides',
