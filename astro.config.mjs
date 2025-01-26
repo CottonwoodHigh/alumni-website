@@ -6,9 +6,12 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'Cottonwood Alumni',
 			social: {
-				github: 'https://github.com/withastro/starlight',
+				instagram: 'https://www.instagram.com/CWOODCOLTS/',
+				linkedin: 'https://www.linkedin.com/groups/13573495/',
+				github: 'https://github.com/lukehsiao/cottonwood',
+				email: 'mailto:admin@cottonwoodhigh.school',
 			},
 			sidebar: [
 				{
