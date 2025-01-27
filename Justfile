@@ -14,7 +14,7 @@ typos:
 # Run a lychee-based link check
 link-check *FLAGS:
     npm run build
-    -lychee --insecure --base https://alumni.cottonwoodhigh.school --accept '100..=103,200..=299' --cache --cache-exclude-status='401,403,429' --max-cache-age 7d -E {{FLAGS}} 'dist/**/*.html'
+    -lychee --insecure --base https://alumni.cottonwoodhigh.school --accept '100..=103,200..=299' --cache --cache-exclude-status='401,403,404,429' --max-cache-age 7d -E {{FLAGS}} 'dist/**/*.html'
     rm -r dist/
 
 # Serve the site locally
