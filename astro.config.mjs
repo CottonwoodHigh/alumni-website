@@ -9,6 +9,9 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Cottonwood Alumni',
+			components: {
+				SocialIcons: './src/components/SocialIcons.astro',
+			},
 			social: {
 				instagram: 'https://www.instagram.com/CWOODCOLTS/',
 				linkedin: 'https://www.linkedin.com/groups/13573495/',
