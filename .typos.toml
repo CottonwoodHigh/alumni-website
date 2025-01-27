@@ -6,3 +6,4 @@ extend-ignore-re = ["\\w{51,}"]
 
 [default.extend-words]
 alumi = "alumni"
+conttonwood = "cottonwood"
