@@ -14,6 +14,9 @@ export default defineConfig({
 				linkedin: 'https://www.linkedin.com/groups/13573495/',
 				email: 'mailto:admin@cottonwoodhigh.school',
 			},
+			editLink: {
+				baseUrl: 'https://github.com/lukehsiao/cottonwood-alumni/edit/main/',
+			},
 			favicon: 'favicon.png',
 			plugins: [starlightImageZoom()],
 			sidebar: [
