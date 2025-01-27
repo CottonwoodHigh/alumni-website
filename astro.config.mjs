@@ -24,10 +24,10 @@ export default defineConfig({
 			plugins: [starlightImageZoom()],
 			sidebar: [
 				{
-					label: 'Introduction',
+					label: 'Start Here',
           items: [
               // Each item here is one entry in the navigation menu.
-              { label: 'Getting Started', slug: 'guides/getting-started' },
+              { label: 'Introduction', slug: 'guides/introduction' },
           ],
 				},
 				{
