@@ -12,6 +12,9 @@ export default defineConfig({
 			components: {
 				SocialIcons: './src/components/SocialIcons.astro',
 			},
+			customCss: [
+				'./src/styles/custom.css',
+			],
 			social: {
 				instagram: 'https://www.instagram.com/CWOODCOLTS/',
 				linkedin: 'https://www.linkedin.com/groups/13573495/',
