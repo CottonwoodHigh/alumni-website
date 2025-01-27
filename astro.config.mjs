@@ -16,7 +16,9 @@ export default defineConfig({
 				'./src/styles/custom.css',
 			],
 			social: {
+				'x.com': 'https://x.com/cwoodcolts',
 				instagram: 'https://www.instagram.com/CWOODCOLTS/',
+				facebook: 'https://www.facebook.com/cwoodcolts',
 				linkedin: 'https://www.linkedin.com/groups/13573495/',
 				email: 'mailto:admin@cottonwoodhigh.school',
 			},
