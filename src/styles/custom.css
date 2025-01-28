@@ -12,6 +12,7 @@
 	--sl-color-gray-6: #272727;
 	--sl-color-black: #181818;
 }
+
 /* Light mode colors. */
 :root[data-theme='light'] {
 	--sl-color-accent-low: #dfd7b8;
@@ -41,17 +42,22 @@
 	background:
 		linear-gradient(215deg, var(--overlay-blur), transparent 40%),
 		radial-gradient(var(--overlay-blur), transparent 40%) no-repeat -60vw -40vh / 105vw 200vh,
-		radial-gradient(var(--overlay-blur), transparent 65%) no-repeat 50% calc(100% + 20rem) /
-			60rem 30rem;
+		radial-gradient(var(--overlay-blur), transparent 65%) no-repeat 50% calc(100% + 20rem) / 60rem 30rem;
 }
 
 [data-has-hero] header {
 	border-bottom: 1px solid transparent;
 	background-color: transparent;
-	-webkit-backdrop-filter: blur(16px);
-	backdrop-filter: blur(16px);
 }
 
-[data-has-hero] .hero > img {
+[data-has-hero] .header-backdrop {
+	backdrop-filter: blur(16px);
+	-webkit-backdrop-filter: blur(16px);
+	mask-image: linear-gradient(to bottom, black 0% 50%, transparent 50% 100%);
+	-webkit-mask-image: linear-gradient(to bottom, black 0% 50%, transparent 50% 100%);
+	z-index: -1;
+}
+
+[data-has-hero] .hero>img {
 	filter: drop-shadow(0 0 3rem var(--overlay-blur));
 }

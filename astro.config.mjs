@@ -11,6 +11,7 @@ export default defineConfig({
 			title: 'Cottonwood Alumni',
 			components: {
 				SocialIcons: './src/components/SocialIcons.astro',
+				Header: './src/components/Header.astro',
 			},
 			customCss: [
 				'./src/styles/custom.css',
