@@ -52,6 +52,7 @@ export default defineConfig({
 					autogenerate: { directory: 'reference' },
 				},
 			],
+			lastUpdated: true,
 			credits: true,
 		}),
 	],

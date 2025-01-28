@@ -5,7 +5,7 @@ _list:
 
 # Create a new class page
 new-class YEAR:
-    today=$(date +%Y-%m-%d) && echo -e "---\ntitle: '{{YEAR}}'\ndescription: 'Class page for the graduating class of {{YEAR}} of Cottonwood High School.'\nlastUpdated: ${today}\n---" > src/content/docs/classes/{{YEAR}}.mdx
+    echo -e "---\ntitle: '{{YEAR}}'\ndescription: 'Class page for the graduating class of {{YEAR}} of Cottonwood High School.'\n---" > src/content/docs/classes/{{YEAR}}.mdx
 
 # Check for typos
 typos:
