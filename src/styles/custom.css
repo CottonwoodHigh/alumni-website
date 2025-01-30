@@ -51,8 +51,8 @@
 }
 
 [data-has-hero] .header-backdrop {
-	-webkit-backdrop-filter: blur(12px);
-	backdrop-filter: blur(12px);
+	-webkit-backdrop-filter: blur(10px);
+	backdrop-filter: blur(10px);
 	background: linear-gradient(to bottom,
 			var(--sl-color-gray-6),
 			transparent 50%);
