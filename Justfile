@@ -9,7 +9,7 @@ new-class YEAR:
 
 # Check for typos
 typos:
-    typos src/
+    typos 
 
 # Run a lychee-based link check
 link-check *FLAGS:
