@@ -7,9 +7,14 @@ description: 'Class page for the graduating class of 1984 of Cottonwood High Sch
 
 ### 2014 (30-year)
 
-import { YouTube } from 'astro-embed';
+import YouTubeGrid from '../../../components/youtube-grid.astro';
 
-<YouTube
-  id="kWRycDVykJc"
-  title="Cottonwood High School - The Class of 1984!!!"
+<YouTubeGrid
+	videos={[
+		{
+			href: 'kWRycDVykJc',
+			title: "Cottonwood High School",
+			description: "The Class of 1984!!!",
+		},
+	]}
 />

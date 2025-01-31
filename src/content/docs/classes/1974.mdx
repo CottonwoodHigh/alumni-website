@@ -7,9 +7,14 @@ description: 'Class page for the graduating class of 1974 of Cottonwood High Sch
 
 ### 2024 (50-year)
 
-import { YouTube } from 'astro-embed';
+import YouTubeGrid from '../../../components/youtube-grid.astro';
 
-<YouTube
-  id="Y3mDUQByGCw"
-  title="Cottonwood High School Memorial -Class of '74 Slideshow"
+<YouTubeGrid
+	videos={[
+		{
+			href: 'Y3mDUQByGCw',
+			title: "Cottonwood High School Memorial",
+			description: "Class of '74 Slideshow",
+		},
+	]}
 />

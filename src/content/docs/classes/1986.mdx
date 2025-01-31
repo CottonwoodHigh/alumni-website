@@ -11,14 +11,19 @@ description: 'Class page for the graduating class of 1986 of Cottonwood High Sch
 
 ### 2016 (30-year)
 
-import { YouTube } from 'astro-embed';
+import YouTubeGrid from '../../../components/youtube-grid.astro';
 
-<YouTube
-  id="A0N-fjg30SE"
-  title="Reunion for Facebook (part 1)"
+<YouTubeGrid
+	videos={[
+		{
+			href: 'A0N-fjg30SE',
+			title: "Reunion for Facebook",
+			description: "Part 1",
+		},
+		{
+			href: 'SXP_lhqk34c',
+			title: "Reunion for Facebook",
+			description: "Part 2",
+		},
+	]}
 />
-<YouTube
-  id="SXP_lhqk34c"
-  title="Reunion for Facebook (part 2)"
-/>
-

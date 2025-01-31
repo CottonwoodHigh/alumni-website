@@ -21,9 +21,14 @@ import { CardGrid, LinkCard } from '@astrojs/starlight/components';
 
 ## Media
 
-import { YouTube } from 'astro-embed';
+import YouTubeGrid from '../../../components/youtube-grid.astro';
 
-<YouTube
-  id="xmQ9GhxJXrw"
-  title="Cottonwood High Madrigals - 1988"
+<YouTubeGrid
+	videos={[
+		{
+			href: 'xmQ9GhxJXrw',
+			title: "Cottonwood High Madrigals",
+			description: "Class of 1988",
+		},
+	]}
 />

@@ -30,13 +30,19 @@ import { LinkCard, CardGrid } from '@astrojs/starlight/components';
 
 ### 2022 (50-year)
 
-import { YouTube } from 'astro-embed';
+import YouTubeGrid from '../../../components/youtube-grid.astro';
 
-<YouTube
-  id="LA0bkQ72cmg"
-  title="Cottonwood Colts Memorial Video - 50 Year Reunion - 27 August 2022"
-/>
-<YouTube
-  id="ivXZ-P5MH6s"
-  title="Cottonwood Colts Memorial Ver 2 June 2023"
+<YouTubeGrid
+	videos={[
+		{
+			href: 'LA0bkQ72cmg',
+			title: 'Cottonwood Colts Memorial Video',
+			description: '50 Year Reunion - 27 August 2022',
+		},
+		{
+			href: 'ivXZ-P5MH6s',
+			title: 'Cottonwood Colts Memorial Video',
+			description: 'Version 2 June 2023',
+		},
+	]}
 />

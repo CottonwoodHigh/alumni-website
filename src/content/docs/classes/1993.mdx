@@ -7,9 +7,14 @@ description: 'Class page for the graduating class of 1993 of Cottonwood High Sch
 
 ### 2013 (20-year)
 
-import { YouTube } from 'astro-embed';
+import YouTubeGrid from '../../../components/youtube-grid.astro';
 
-<YouTube
-  id="-XjlNZnGtQE"
-  title="Cottonwood High School Class of 1993 20th Reunion Video"
+<YouTubeGrid
+	videos={[
+		{
+			href: '-XjlNZnGtQE',
+			title: "Cottonwood High School Class of 1993",
+			description: "20th Reunion Video",
+		},
+	]}
 />

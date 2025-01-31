@@ -7,21 +7,29 @@ description: 'Class page for the graduating class of 1994 of Cottonwood High Sch
 
 ### 2014 (20-year)
 
-import { YouTube } from 'astro-embed';
+import YouTubeGrid from '../../../components/youtube-grid.astro';
 
-<YouTube
-  id="65Ia0fk6qMQ"
-  title="Cottonwood High School, Class of '94 - Student Body Officers"
-/>
-<YouTube
-  id="ybA09ArH4ik"
-  title="Plans after Graduation- Cottonwood High School Class of '94"
-/>
-<YouTube
-  id="33TIcQWOiGY"
-  title="20th Reunion- Cottonwood High School. Y'all ready for this?"
-/>
-<YouTube
-  id="pXcvDISa36k"
-  title="Cottonwood High School- Class of '94 | Spirit week"
+<YouTubeGrid
+	videos={[
+		{
+			href: "65Ia0fk6qMQ",
+			title: "Cottonwood High School, Class of '94",
+			description: "Student Body Officers",
+		},
+		{
+			href: "ybA09ArH4ik",
+			title: "Cottonwood High School, Class of '94",
+			description: "Plans after Graduation",
+		},
+		{
+			href: "33TIcQWOiGY",
+			title: "Cottonwood High School, Class of '94",
+			description: "20th Reunion, Y'all ready for this?",
+		},
+		{
+			href: "pXcvDISa36k",
+			title: "Cottonwood High School, Class of '94",
+			description: "Spirit Week",
+		},
+	]}
 />
