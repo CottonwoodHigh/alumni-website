@@ -3,7 +3,7 @@
   X-Content-Type-Options: nosniff
   X-XSS-Protection: 1; mode=block
   Referrer-Policy: strict-origin-when-cross-origin
-  Content-Security-Policy: default-src 'self'; object-src 'self'; media-src 'self'; img-src 'self' https: data:; script-src 'self' 'wasm-unsafe-eval' 'unsafe-inline' static.cloudflareinsights.com; connect-src 'self' cloudflareinsights.com; style-src 'self' 'unsafe-inline'; form-action 'none'; frame-ancestors 'none'; base-uri 'none'; manifest-src 'self'; frame-src youtube-nobookie.com www.youtube-nocookie.com youtube.com www.youtube.com; font-src 'self';
+  Content-Security-Policy: default-src 'self'; object-src 'self'; media-src 'self'; img-src 'self' https: data:; script-src 'self' 'wasm-unsafe-eval' 'unsafe-inline' static.cloudflareinsights.com; connect-src 'self' cloudflareinsights.com; style-src 'self' 'unsafe-inline'; form-action 'none'; frame-ancestors 'none'; base-uri 'none'; manifest-src 'self'; frame-src youtube-nocookie.com www.youtube-nocookie.com youtube.com www.youtube.com; font-src 'self';
   Strict-Transport-Security: max-age=31536000; includeSubDomains
   Permissions-Policy: accelerometer=(self "https://www.youtube-nocookie.com" "https://www.youtube.com"),autoplay=(self "https://www.youtube-nocookie.com" "https://www.youtube.com"),camera=(),display-capture=(),encrypted-media=(self "https://www.youtube-nocookie.com" "https://www.youtube.com"),fullscreen=(),gamepad=(),geolocation=(),gyroscope=(self "https://www.youtube-nocookie.com" "https://www.youtube.com"),magnetometer=(),microphone=(),midi=(),payment=(),picture-in-picture=(self "https://www.youtube-nocookie.com" "https://www.youtube.com"),publickey-credentials-get=(),sync-xhr=(self),usb=(),screen-wake-lock=(),xr-spatial-tracking=() 
 
