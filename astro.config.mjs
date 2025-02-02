@@ -10,7 +10,6 @@ export default defineConfig({
 		starlight({
 			title: 'Cottonwood Alumni',
 			components: {
-				SocialIcons: './src/components/SocialIcons.astro',
 				Header: './src/components/Header.astro',
 			},
 			customCss: [
