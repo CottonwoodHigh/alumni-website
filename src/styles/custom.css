@@ -73,3 +73,48 @@
 [data-has-hero] .hero>img {
 	filter: drop-shadow(0 0 3rem var(--overlay-blur));
 }
+
+.sl-markdown-content table {
+	margin: 15px 0;
+	border-collapse: separate;
+	width: auto;
+	padding: 0;
+}
+
+.sl-markdown-content table :is(th:first-child, td:first-child) {
+	padding: 2px 4px;
+}
+
+.sl-markdown-content :is(th:last-child, td:last-child):not(:where(.not-content *)) {
+	padding: 2px 4px;
+}
+
+.sl-markdown-content :is(th, td):not(:where(.not-content *)) {
+	border-bottom: none;
+	vertical-align: baseline;
+}
+
+.sl-markdown-content table code {
+	background-color: inherit;
+}
+
+.sl-markdown-content table > :is(thead, tbody) > tr > :is(th, td) {
+	padding: 3px 6px;
+}
+
+.sl-markdown-content table > thead > tr > :is(th, td) {
+	background-color: var(--sl-color-gray-5);
+	border-top: 2px solid var(--sl-color-gray-3);
+}
+
+.sl-markdown-content table > tbody > tr:last-child > :is(th, td) {
+	border-bottom: 2px solid var(--sl-color-gray-3);
+}
+
+.sl-markdown-content table tr {
+	background-color: var(--sl-color-gray-6);
+}
+
+.sl-markdown-content table tr:nth-child(2n) {
+	background-color: var(--sl-color-black);
+}
