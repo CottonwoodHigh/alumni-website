@@ -85,6 +85,8 @@
 .sl-markdown-content table {
 	margin: 15px 0;
 	border-collapse: separate;
+	max-width: fit-content;
+	margin-inline: auto;
 	width: auto;
 	padding: 0;
 }
