@@ -25,9 +25,6 @@ export default defineConfig({
 			editLink: {
 				baseUrl: 'https://github.com/lukehsiao/cottonwood-alumni/edit/main/',
 			},
-			logo: {
-				src: './src/assets/colt.png',
-			},
 			favicon: 'favicon.png',
 			plugins: [starlightImageZoom()],
 			sidebar: [
