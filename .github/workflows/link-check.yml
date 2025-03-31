@@ -33,6 +33,6 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           fail: true
-          args: --insecure --base https://alumni.cottonwoodhigh.school -E --verbose --no-progress './**/*.md' './**/*.html'
+          args: --insecure --base https://alumni.cottonwoodhigh.school -E --verbose --no-progress 'dist/**/*.html'
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
