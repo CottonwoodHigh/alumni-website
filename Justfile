@@ -19,7 +19,7 @@ link-check *FLAGS:
 
 # Update all dependencies
 upgrade:
-    pnpm up --recursive --latest
+    pnpm up --recursive
     pnpm install
     
 # Serve the site locally
