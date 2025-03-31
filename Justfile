@@ -13,15 +13,15 @@ typos:
 
 # Run a lychee-based link check
 link-check *FLAGS:
-    npm run build
+    pnpm run build
     -lychee --insecure --base https://alumni.cottonwoodhigh.school --accept '100..=103,200..=299' --cache --cache-exclude-status='401,403,404,429' --max-cache-age 7d -E {{FLAGS}} 'dist/**/*.html'
     rm -r dist/
 
 # Update all dependencies
 upgrade:
-    npx npm-check-updates -u
-    npm install
+    pnpm up --recursive --latest
+    pnpm install
     
 # Serve the site locally
 watch *FLAGS:
-    npm run dev {{FLAGS}}
+    pnpm run dev {{FLAGS}}
