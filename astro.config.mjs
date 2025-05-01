@@ -15,13 +15,13 @@ export default defineConfig({
 			customCss: [
 				'./src/styles/custom.css',
 			],
-			social: {
-				'x.com': 'https://x.com/cwoodcolts',
-				instagram: 'https://www.instagram.com/CWOODCOLTS/',
-				facebook: 'https://www.facebook.com/cwoodcolts',
-				linkedin: 'https://www.linkedin.com/groups/13573495/',
-				email: 'mailto:admin@cottonwoodhigh.school',
-			},
+			social: [
+				{ icon: 'x.com', label: 'x.com', href: 'https://x.com/cwoodcolts'},
+				{ icon: 'instagram', label: 'Instagram', href: 'https://www.instagram.com/CWOODCOLTS/'},
+				{ icon: 'facebook', label: 'Facebook', href: 'https://www.facebook.com/cwoodcolts'},
+				{ icon: 'linkedin', label: 'LinkedIn', href: 'https://www.linkedin.com/groups/13573495/'},
+				{ icon: 'email', label: 'Email', href: 'mailto:admin@cottonwoodhigh.school'},
+			],
 			editLink: {
 				baseUrl: 'https://github.com/lukehsiao/cottonwood-alumni/edit/main/',
 			},
