@@ -1,17 +1,22 @@
 @font-face {
   font-family: 'Berkeley Mono Variable';
-  src: url('./BerkeleyMonoVariable-Regular.woff2') format('woff2'),
-       url('./BerkeleyMonoVariable-Regular.woff') format('woff');
-  font-weight: 100 900;
+  src:
+    url('./BerkeleyMonoVariable-Regular.woff2') format('woff2'),
+    url('./BerkeleyMonoVariable-Regular.woff') format('woff');
+  font-weight: 100 150;
   font-style: normal;
   font-display: swap;
+  font-variant-ligatures: contextual;
+  font-feature-settings: calt;
 }
 
 @font-face {
   font-family: 'Berkeley Mono Variable';
   src: url('./BerkeleyMonoVariable-Italic.woff2') format('woff2'),
        url('./BerkeleyMonoVariable-Italic.woff') format('woff');
-  font-weight: 100 900;
+  font-weight: 100 150;
   font-style: italic;
   font-display: swap;
+  font-variant-ligatures: contextual;
+  font-feature-settings: calt;
 }
