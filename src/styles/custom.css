@@ -32,7 +32,7 @@
 :root {
 	--gold-hsl: 51, 100%, 50%;
 	--overlay-blur: hsla(var(--gold-hsl), 0.2);
-	--sl-font-mono: "Commit Mono", monospace;
+	--sl-font-mono: "Berkeley Mono Variable", monospace;
 }
 
 :root[data-theme='light'] {

@@ -14,8 +14,7 @@ export default defineConfig({
 			},
 			customCss: [
 				'./src/styles/custom.css',
-				'@fontsource/commit-mono/400.css',
-				'@fontsource/commit-mono/600.css',
+				'./src/fonts/font-face.css',
 			],
 			social: [
 				{ icon: 'x.com', label: 'x.com', href: 'https://x.com/cwoodcolts'},
