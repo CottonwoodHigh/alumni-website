@@ -33,6 +33,7 @@
 	--gold-hsl: 51, 100%, 50%;
 	--overlay-blur: hsla(var(--gold-hsl), 0.2);
 	--sl-font-mono: "Berkeley Mono", monospace;
+	--sl-font: "Atkinson Hyperlegible Next", sans-serif;
 }
 
 :root[data-theme='light'] {
