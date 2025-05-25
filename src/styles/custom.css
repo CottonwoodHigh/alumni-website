@@ -132,3 +132,8 @@
 .sl-markdown-content table tr:nth-child(2n) {
 	background-color: var(--sl-color-black);
 }
+
+em {
+	font-variation-settings: "ital" 1;
+	font-synthesis: none;
+}
