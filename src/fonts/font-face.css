@@ -3,7 +3,6 @@
     src: url('./BerkeleyMonoVariable.woff2') format('woff2');
     font-stretch: 60 100;
     font-weight: 100 900;
-    font-style: oblique -16deg 0deg;
     font-feature-settings: calt;
     font-variant-ligatures: contextual;
 }
@@ -12,5 +11,4 @@
     font-family: 'Atkinson Hyperlegible Next';
     src: url('./AtkinsonHyperlegibleNextVF-Variable.woff2') format('woff2');
     font-weight: 100 900;
-    font-style: oblique -16deg 0deg;
 }
