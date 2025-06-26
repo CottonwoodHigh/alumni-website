@@ -19,6 +19,7 @@ link-check *FLAGS:
 
 # Update all dependencies
 upgrade:
+    pnpm dlx @astrojs/upgrade
     pnpm up --recursive
     pnpm install
     
