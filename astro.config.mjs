@@ -106,7 +106,7 @@ export default defineConfig({
               	label: '2010s',
               	collapsed: true,
 								items: [
-									{ label: "2010", slug: "classes/2010"},
+									{ label: "2010", slug: "classes/2010", badge: { text: "reunion!", variant: 'success' } },
 									{ label: "2011", slug: "classes/2011"},
 									// { label: "2012", slug: "classes/2012"},
 									{ label: "2013", slug: "classes/2013"},
