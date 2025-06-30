@@ -9,6 +9,9 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Cottonwood Alumni',
+			expressiveCode: {
+				themes: ['catppuccin-mocha', 'catppuccin-latte'],
+			},
 			components: {
 				Header: './src/components/Header.astro',
 			},
