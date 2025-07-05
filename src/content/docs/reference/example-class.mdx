@@ -3,7 +3,7 @@ title: Example Class Page
 description: An example class page with reunion information and other links
 ---
 
-import { Badge, LinkCard, CardGrid } from '@astrojs/starlight/components';
+import { Badge, LinkButton, LinkCard, CardGrid } from '@astrojs/starlight/components';
 
 Welcome to the official page for the Class of 2014!
 Here you'll find updates, contact information, reunion details, and more.
@@ -34,22 +34,33 @@ Stay connected and celebrate our shared history!
 
 ### 2028 (10-Year Reunion) <Badge text="upcoming" variant="note" size="large"/>
 
-- **Location:** Sunset Event Hall, 123 Main Street, Hometown, USA
-- **Date & Time:** Saturday, July 20, 2028, at 6:00 PM
-- **Price:** $15/adult, $5/kid (age \<=12)
-- **Parking:** Free parking available in the adjacent lot.
-  Overflow parking is available at the Community Center two blocks away.
-
 Join us for an unforgettable evening as we celebrate our 10-year reunion! Reconnect with old friends, enjoy a catered dinner, and dance the night away with live music from The Retro Beats.
 There will also be a slideshow of memories, a photo booth, and a raffle with exciting prizes. Don’t miss it!
 Report allergen information in the RSVP form.
 
+- **Date:** Saturday, 30 Aug 2028
+- **Time:** 11:00am–2:00pm (come and go as you please)
+- **Location:** Sunset Event Hall, 123 Main Street, Hometown, USA
+- **Dress code:** Casual, we're at the park!
+- **Price:** $15/adult, $5/kid (age \<=12)
+- **Parking:** Free parking available in the adjacent lot.
+  Overflow parking is available at the Community Center two blocks away.
+
 :::note[Please RSVP!]
 
-- **RSVP Deadline:** June 15, 2028
-- **RSVP Link:** [RSVP Here](https://example.com/rsvp2014)
+  - **RSVP Deadline:** Saturday, 23 Aug 2028
+  - **RSVP Link:** https://forms.gle/this-is-fake
 
 :::
+
+<div style="text-align: center">
+  <LinkButton
+    href="https://www.google.com/calendar/render?action=TEMPLATE&text=Cottonwood%2010-yr%20Reunion&dates=20280830T170000Z/20280830T200000Z&details=See%20https://alumni.cottonwoodhigh.school/reference/example-class/&location=Sunset%20Event%20Hall%2C%20123%20Main%20Street%2C%20Hometown%2C%20USA"
+  >
+    Add to Google Calendar
+  </LinkButton>
+</div>
+
 
 ### 2023 (5-Year Reunion)
 
