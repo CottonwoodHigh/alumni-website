@@ -3,9 +3,21 @@ title: '1986'
 description: 'Class page for the graduating class of 1986 of Cottonwood High School.'
 ---
 
+import { LinkCard, CardGrid } from '@astrojs/starlight/components';
+
 ## Contact
 
 [Lara Robertson](mailto:lrmullen3@mac.com)
+
+## Links
+
+<CardGrid>
+  <LinkCard
+    title="Class of '86 Homepage"
+    href="https://cottonwoodclassof1986.weebly.com"
+    description="Homepage for reunion information."
+  />
+</CardGrid>
 
 ## Reunions
 
@@ -27,3 +39,5 @@ import YouTubeGrid from '../../../components/youtube-grid.astro';
 		},
 	]}
 />
+
+See https://cottonwoodclassof1986.weebly.com
