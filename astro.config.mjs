@@ -25,6 +25,7 @@ export default defineConfig({
 				{ icon: 'facebook', label: 'Facebook', href: 'https://www.facebook.com/cwoodcolts'},
 				{ icon: 'linkedin', label: 'LinkedIn', href: 'https://www.linkedin.com/groups/13573495/'},
 				{ icon: 'email', label: 'Email', href: 'mailto:admin@cottonwoodhigh.school'},
+				{ icon: 'github', label: 'GitHub', href: 'https://github.com/lukehsiao/cottonwood-alumni'},
 			],
 			editLink: {
 				baseUrl: 'https://github.com/lukehsiao/cottonwood-alumni/edit/main/',
