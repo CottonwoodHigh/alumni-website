@@ -7,5 +7,10 @@
   Strict-Transport-Security: max-age=31536000; includeSubDomains
   Permissions-Policy: accelerometer=(self "https://www.youtube-nocookie.com" "https://www.youtube.com"),autoplay=(self "https://www.youtube-nocookie.com" "https://www.youtube.com"),camera=(),display-capture=(),encrypted-media=(self "https://www.youtube-nocookie.com" "https://www.youtube.com"),fullscreen=(self "https://www.youtube-nocookie.com" "https://www.youtube.com"),gamepad=(),geolocation=(),gyroscope=(self "https://www.youtube-nocookie.com" "https://www.youtube.com"),magnetometer=(),microphone=(),midi=(),payment=(),picture-in-picture=(self "https://www.youtube-nocookie.com" "https://www.youtube.com"),publickey-credentials-get=(),sync-xhr=(self),usb=(),screen-wake-lock=(),xr-spatial-tracking=() 
 
+/_astro/*
+  Cache-Control: public    
+  Cache-Control: max-age=604800
+  Cache-Control: immutable
+
 https://cottonwoodalumni.pages.dev/*
   X-Robots-Tag: noindex, nofollow
