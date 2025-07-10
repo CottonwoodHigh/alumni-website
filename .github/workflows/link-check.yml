@@ -28,10 +28,26 @@ jobs:
       - name: Build Docs
         run: pnpm run build
 
+      - name: Restore lychee cache
+        id: restore-cache
+        uses: actions/cache@v4
+        with:
+          path: .lycheecache
+          key: cache-lychee-${{ github.sha }}
+          restore-keys: cache-lychee-
+
       - name: Link Checker
         uses: lycheeverse/lychee-action@v2
         with:
           fail: true
-          args: --insecure --base https://alumni.cottonwoodhigh.school -E --verbose --no-progress 'dist/**/*.html'
+          args: --insecure --base https://alumni.cottonwoodhigh.school -E --cache --max-cache-age 1d --no-progress 'dist/**/*.html'
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+
+
+      - name: Save lychee cache
+        uses: actions/cache/save@v4
+        if: always()
+        with:
+          path: .lycheecache
+          key: ${{ steps.restore-cache.outputs.cache-primary-key }}
