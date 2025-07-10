@@ -7,7 +7,7 @@
 </div>
 <br>
 <div align="center">
-  <a href="https://github.com/lukehsiao/cottonwood-alumni/blob/main/LICENSE.md">
+  <a href="https://github.com/CottonwoodHigh/alumni-website/blob/main/LICENSE.md">
     <img src="https://img.shields.io/badge/license-BlueOak--1.0.0-blue?style=flat" alt="License">
   </a>
   <a href="https://starlight.astro.build">
