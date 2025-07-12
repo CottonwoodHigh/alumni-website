@@ -31,7 +31,7 @@
 
 :root {
 	--gold-hsl: 51, 100%, 50%;
-	--overlay-blur: hsla(var(--gold-hsl), 0.2);
+	--overlay-blur: hsla(var(--gold-hsl), 0.15);
 	--sl-font-mono: "Berkeley Mono", monospace;
 	--sl-font-system-mono: "Berkeley Mono", monospace;
 	--sl-font: "Atkinson Hyperlegible Next", sans-serif;
@@ -39,7 +39,7 @@
 
 :root[data-theme='light'] {
 	--gold-hsl: 51, 100%, 50%;
-	--overlay-blur: hsla(var(--gold-hsl), 0.3);
+	--overlay-blur: hsla(var(--gold-hsl), 0.25);
 }
 
 [data-has-hero] .page {
