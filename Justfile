@@ -23,6 +23,11 @@ upgrade:
     pnpm up --recursive
     pnpm install
     
-# Serve the site locally
+# Serve the site locally for development
 watch *FLAGS:
     pnpm run dev {{FLAGS}}
+
+# Preview a production build of the site
+preview:
+    pnpm build
+    pnpm preview
