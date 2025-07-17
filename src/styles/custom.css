@@ -134,3 +134,7 @@
 .sl-markdown-content table tr:nth-child(2n) {
 	background-color: var(--sl-color-black);
 }
+
+.card {
+	border-radius: 0.5rem;
+}
