@@ -14,7 +14,7 @@ typos:
 # Run a lychee-based link check
 link-check *FLAGS:
     pnpm run build
-    -lychee --insecure --base-url https://alumni.cottonwoodhigh.school --accept '100..=103,200..=299' --cache --cache-exclude-status='401,403,404,429' --max-cache-age 7d -E {{FLAGS}} 'dist/**/*.html'
+    -lychee --insecure --root-dir {{ justfile_directory() }}/dist --accept '100..=103,200..=299' --cache --cache-exclude-status='401,403,404,429' --max-cache-age 7d -E {{FLAGS}} 'dist/**/*.html'
     rm -r dist/
 
 # Update all dependencies
