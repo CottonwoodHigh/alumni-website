@@ -11,6 +11,7 @@ export default defineConfig({
 			title: 'Cottonwood Alumni',
 			expressiveCode: {
 				themes: ['catppuccin-mocha', 'catppuccin-latte'],
+		    styleOverrides: { borderRadius: '0.5rem' },
 			},
 			components: {
 				Header: './src/components/Header.astro',
