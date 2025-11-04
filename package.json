@@ -12,8 +12,8 @@
   "dependencies": {
     "@astro-community/astro-embed-youtube": "^0.5.7",
     "@astrojs/starlight": "^0.36.2",
-    "astro": "^5.15.3",
-    "sharp": "^0.34.4",
+    "astro": "^5.15.4",
+    "sharp": "^0.34.5",
     "starlight-image-zoom": "^0.13.2"
   }
 }
