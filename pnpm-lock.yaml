@@ -10,19 +10,19 @@ importers:
     dependencies:
       '@astro-community/astro-embed-youtube':
         specifier: ^0.5.9
-        version: 0.5.9(astro@5.16.2(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2))
+        version: 0.5.9(astro@5.16.3(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2))
       '@astrojs/starlight':
         specifier: ^0.37.0
-        version: 0.37.0(astro@5.16.2(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2))
+        version: 0.37.0(astro@5.16.3(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2))
       astro:
-        specifier: ^5.16.2
-        version: 5.16.2(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2)
+        specifier: ^5.16.3
+        version: 5.16.3(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2)
       sharp:
         specifier: ^0.34.5
         version: 0.34.5
       starlight-image-zoom:
         specifier: ^0.13.2
-        version: 0.13.2(@astrojs/starlight@0.37.0(astro@5.16.2(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2)))
+        version: 0.13.2(@astrojs/starlight@0.37.0(astro@5.16.3(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2)))
 
 packages:
 
@@ -683,8 +683,8 @@ packages:
     peerDependencies:
       astro: ^4.0.0-beta || ^5.0.0-beta || ^3.3.0
 
-  astro@5.16.2:
-    resolution: {integrity: sha512-NFXqhB1UgBvleF5rLZ7a31Qzprf1lSch+k8o2XTvsw1d97gxGrjVVeWa8AnZUFtirz84YPW6+5NbLVNzS2y+uQ==}
+  astro@5.16.3:
+    resolution: {integrity: sha512-KzDk41F9Dspf5fM/Ls4XZhV4/csjJcWBrlenbnp5V3NGwU1zEaJz/HIyrdKdf5yw+FgwCeD2+Yos1Xkx9gnI0A==}
     engines: {node: 18.20.8 || ^20.3.0 || >=22.0.0, npm: '>=9.6.5', pnpm: '>=7.1.0'}
     hasBin: true
 
@@ -1854,9 +1854,9 @@ packages:
 
 snapshots:
 
-  '@astro-community/astro-embed-youtube@0.5.9(astro@5.16.2(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2))':
+  '@astro-community/astro-embed-youtube@0.5.9(astro@5.16.3(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2))':
     dependencies:
-      astro: 5.16.2(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2)
+      astro: 5.16.3(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2)
       lite-youtube-embed: 0.3.4
 
   '@astrojs/compiler@2.13.0': {}
@@ -1889,12 +1889,12 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@astrojs/mdx@4.3.12(astro@5.16.2(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2))':
+  '@astrojs/mdx@4.3.12(astro@5.16.3(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2))':
     dependencies:
       '@astrojs/markdown-remark': 6.3.9
       '@mdx-js/mdx': 3.1.1
       acorn: 8.15.0
-      astro: 5.16.2(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2)
+      astro: 5.16.3(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2)
       es-module-lexer: 1.7.0
       estree-util-visit: 2.0.0
       hast-util-to-html: 9.0.5
@@ -1918,17 +1918,17 @@ snapshots:
       stream-replace-string: 2.0.0
       zod: 3.25.76
 
-  '@astrojs/starlight@0.37.0(astro@5.16.2(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2))':
+  '@astrojs/starlight@0.37.0(astro@5.16.3(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2))':
     dependencies:
       '@astrojs/markdown-remark': 6.3.9
-      '@astrojs/mdx': 4.3.12(astro@5.16.2(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2))
+      '@astrojs/mdx': 4.3.12(astro@5.16.3(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2))
       '@astrojs/sitemap': 3.6.0
       '@pagefind/default-ui': 1.4.0
       '@types/hast': 3.0.4
       '@types/js-yaml': 4.0.9
       '@types/mdast': 4.0.4
-      astro: 5.16.2(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2)
-      astro-expressive-code: 0.41.3(astro@5.16.2(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2))
+      astro: 5.16.3(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2)
+      astro-expressive-code: 0.41.3(astro@5.16.3(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2))
       bcp-47: 2.1.0
       hast-util-from-html: 2.0.3
       hast-util-select: 6.0.4
@@ -2433,12 +2433,12 @@ snapshots:
 
   astring@1.9.0: {}
 
-  astro-expressive-code@0.41.3(astro@5.16.2(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2)):
+  astro-expressive-code@0.41.3(astro@5.16.3(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2)):
     dependencies:
-      astro: 5.16.2(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2)
+      astro: 5.16.3(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2)
       rehype-expressive-code: 0.41.3
 
-  astro@5.16.2(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2):
+  astro@5.16.3(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2):
     dependencies:
       '@astrojs/compiler': 2.13.0
       '@astrojs/internal-helpers': 0.7.5
@@ -3943,9 +3943,9 @@ snapshots:
 
   space-separated-tokens@2.0.2: {}
 
-  starlight-image-zoom@0.13.2(@astrojs/starlight@0.37.0(astro@5.16.2(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2))):
+  starlight-image-zoom@0.13.2(@astrojs/starlight@0.37.0(astro@5.16.3(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2))):
     dependencies:
-      '@astrojs/starlight': 0.37.0(astro@5.16.2(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2))
+      '@astrojs/starlight': 0.37.0(astro@5.16.3(@types/node@24.10.1)(rollup@4.53.3)(typescript@5.8.2))
       mdast-util-mdx-jsx: 3.2.0
       rehype-raw: 7.0.0
       unist-util-visit: 5.0.0
