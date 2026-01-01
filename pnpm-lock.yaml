@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@astro-community/astro-embed-youtube':
-        specifier: ^0.5.9
-        version: 0.5.9(astro@5.16.6(@types/node@25.0.3)(rollup@4.54.0)(typescript@5.8.2))
+        specifier: ^0.5.10
+        version: 0.5.10
       '@astrojs/starlight':
         specifier: ^0.37.1
         version: 0.37.1(astro@5.16.6(@types/node@25.0.3)(rollup@4.54.0)(typescript@5.8.2))
@@ -26,10 +26,8 @@ importers:
 
 packages:
 
-  '@astro-community/astro-embed-youtube@0.5.9':
-    resolution: {integrity: sha512-8Uk2SKbyZVb+jxwqSAMoEpQo+063XYwCI3yRy9cbkyHpu09mDabGZNTF5XrL8CKr3NtR5haBkeYK/kSuKUkJ/g==}
-    peerDependencies:
-      astro: ^2.0.0 || ^3.0.0-beta || ^4.0.0-beta || ^5.0.0-beta
+  '@astro-community/astro-embed-youtube@0.5.10':
+    resolution: {integrity: sha512-hVlx77KQLjKzElVQnrU5znQ5/E60keVSAPrhuWvQQHuqva5auJtt8YBpOThkwDMuEKXjQybEF1/3C07RZ8MAOQ==}
 
   '@astrojs/compiler@2.13.0':
     resolution: {integrity: sha512-mqVORhUJViA28fwHYaWmsXSzLO9osbdZ5ImUfxBarqsYdMlPbqAqGJCxsNzvppp1BEzc1mJNjOVvQqeDN8Vspw==}
@@ -1832,8 +1830,8 @@ packages:
     resolution: {integrity: sha512-CzhO+pFNo8ajLM2d2IW/R93ipy99LWjtwblvC1RsoSUMZgyLbYFr221TnSNT7GjGdYui6P459mw9JH/g/zW2ug==}
     engines: {node: '>=18'}
 
-  zod-to-json-schema@3.25.0:
-    resolution: {integrity: sha512-HvWtU2UG41LALjajJrML6uQejQhNJx+JBO9IflpSja4R03iNWfKXrj6W2h7ljuLyc1nKS+9yDyL/9tD1U/yBnQ==}
+  zod-to-json-schema@3.25.1:
+    resolution: {integrity: sha512-pM/SU9d3YAggzi6MtR4h7ruuQlqKtad8e9S0fmxcMi+ueAK5Korys/aWcV9LIIHTVbj01NdzxcnXSN+O74ZIVA==}
     peerDependencies:
       zod: ^3.25 || ^4
 
@@ -1851,9 +1849,8 @@ packages:
 
 snapshots:
 
-  '@astro-community/astro-embed-youtube@0.5.9(astro@5.16.6(@types/node@25.0.3)(rollup@4.54.0)(typescript@5.8.2))':
+  '@astro-community/astro-embed-youtube@0.5.10':
     dependencies:
-      astro: 5.16.6(@types/node@25.0.3)(rollup@4.54.0)(typescript@5.8.2)
       lite-youtube-embed: 0.3.4
 
   '@astrojs/compiler@2.13.0': {}
@@ -2498,7 +2495,7 @@ snapshots:
       yargs-parser: 21.1.1
       yocto-spinner: 0.2.3
       zod: 3.25.76
-      zod-to-json-schema: 3.25.0(zod@3.25.76)
+      zod-to-json-schema: 3.25.1(zod@3.25.76)
       zod-to-ts: 1.2.0(typescript@5.8.2)(zod@3.25.76)
     optionalDependencies:
       sharp: 0.34.5
@@ -4166,7 +4163,7 @@ snapshots:
 
   yoctocolors@2.1.2: {}
 
-  zod-to-json-schema@3.25.0(zod@3.25.76):
+  zod-to-json-schema@3.25.1(zod@3.25.76):
     dependencies:
       zod: 3.25.76
 
