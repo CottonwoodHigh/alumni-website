@@ -1,5 +1,7 @@
+<div align="center">
+  <img height="150" src="./src/assets/colt.png" alt="Cottonwood Colts logo"/>
+</div>
 <h1 align="center">
-    🐎<br>
     cottonwood-alumni
 </h1>
 <div align="center">
