@@ -147,7 +147,11 @@ export default defineConfig({
 				},
 				{
 					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+          items: [
+              'reference/booking-cottonwood',
+              'reference/example-class',
+              { label: 'Authoring Content in Markdown', link: 'https://starlight.astro.build/guides/authoring-content/' },
+          ],
 				},
 			],
 			lastUpdated: true,
