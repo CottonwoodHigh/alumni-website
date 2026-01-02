@@ -150,7 +150,15 @@ export default defineConfig({
           items: [
               'reference/booking-cottonwood',
               'reference/example-class',
-              { label: 'Authoring Content in Markdown', link: 'https://starlight.astro.build/guides/authoring-content/' },
+              {
+              		label: 'Authoring Content in Markdown ↗',
+              		link: 'https://starlight.astro.build/guides/authoring-content/',
+            		  attrs: {
+            		  		target: '_blank',
+            		  		rel: 'noopener noreferrer',
+		  		            'aria-label': "Starlight's markdown guide (opens in new tab)",
+            		  },
+              },
           ],
 				},
 			],
