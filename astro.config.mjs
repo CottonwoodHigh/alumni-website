@@ -153,11 +153,6 @@ export default defineConfig({
               {
               		label: 'Authoring Content in Markdown ↗',
               		link: 'https://starlight.astro.build/guides/authoring-content/',
-            		  attrs: {
-            		  		target: '_blank',
-            		  		rel: 'noopener noreferrer',
-		  		            'aria-label': "Starlight's markdown guide (opens in new tab)",
-            		  },
               },
           ],
 				},
