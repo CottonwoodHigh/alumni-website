@@ -15,6 +15,11 @@ link-check *FLAGS:
     -lychee --insecure --root-dir {{ justfile_directory() }}/dist --accept '100..=103,200..=299' --cache --cache-exclude-status='401,403,404,429' --max-cache-age 7d -E {{FLAGS}} 'dist/**/*.html'
     rm -r dist/
 
+# Install all dependencies
+[group('build')]
+install:
+    pnpm install
+
 # Update all dependencies
 [group('build')]
 upgrade:
