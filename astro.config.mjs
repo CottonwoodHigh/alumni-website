@@ -3,12 +3,32 @@ import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import starlightImageZoom from 'starlight-image-zoom';
 
+const googleAnalyticsId = 'G-7HX3RTN97F'
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://alumni.cottonwoodhigh.school',
 	integrations: [
 		starlight({
 			title: 'Cottonwood Alumni',
+			head: [
+				{
+					tag: 'script',
+					attrs: {
+						src: `https://www.googletagmanager.com/gtag/js?id=${googleAnalyticsId}`,
+						async: true
+					},
+				},
+				{
+					tag: 'script',
+					content: `
+				  window.dataLayer = window.dataLayer || [];
+				  function gtag(){dataLayer.push(arguments);}
+				  gtag('js', new Date());
+
+				  gtag('config', '${googleAnalyticsId}');
+					`,
+				}
+			],
 			expressiveCode: {
 				themes: ['catppuccin-mocha', 'catppuccin-latte'],
 		    styleOverrides: { borderRadius: '0.5rem' },
