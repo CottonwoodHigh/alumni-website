@@ -133,7 +133,7 @@ export default defineConfig({
 									{ label: "2023", slug: "classes/2023" },
 									{ label: "2024", slug: "classes/2024" },
 									{ label: "2025", slug: "classes/2025" },
-									// { label: "2026", slug: "classes/2026" },
+									{ label: "2026", slug: "classes/2026" },
 									// { label: "2027", slug: "classes/2027" },
 									// { label: "2028", slug: "classes/2028" },
 									// { label: "2029", slug: "classes/2029" },
