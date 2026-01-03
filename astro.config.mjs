@@ -148,12 +148,17 @@ export default defineConfig({
               		label: 'Authoring Content in Markdown ↗',
               		link: 'https://starlight.astro.build/guides/authoring-content/',
               },
+              'guides/booking-cottonwood',
               'guides/create-a-page',
           ],
 				},
 				{
 					label: 'Reference',
 					autogenerate: { directory: 'reference' },
+				},
+				{
+					label: 'Resources',
+					autogenerate: { directory: 'resources' },
 				},
 			],
 			lastUpdated: true,
