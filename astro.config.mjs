@@ -185,6 +185,7 @@ export default defineConfig({
 					label: 'Resources',
           items: [
               'resources/alumni-connections',
+              'resources/sponsor',
               {
               		label: 'Student Government Website ↗',
               		link: 'https://www.cwoodstampede.com/',
