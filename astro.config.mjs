@@ -178,7 +178,13 @@ export default defineConfig({
 				},
 				{
 					label: 'Resources',
-					autogenerate: { directory: 'resources' },
+          items: [
+              'resources/alumni-connections',
+              {
+              		label: 'Student Government Website ↗',
+              		link: 'https://www.cwoodstampede.com/',
+              },
+          ],
 				},
 			],
 			lastUpdated: true,
