@@ -1,0 +1,54 @@
+---
+import type { ImageMetadata } from 'astro';
+import { Image } from 'astro:assets';
+
+interface Props {
+	handle: string;
+	href: string;
+	name: string;
+}
+
+const { handle, href, name } = Astro.props;
+
+const logos = import.meta.glob<{ default: ImageMetadata }>('../assets/sponsors/*.svg');
+const logo = logos[`../assets/sponsors/${handle}.svg`];
+if (!logo) {
+	throw new Error(`Could not resolve sponsor logo for @${handle}`);
+}
+const src = (await logo()).default;
+---
+
+<li class="sponsor">
+	<div class="logo-wrap" aria-hidden="true">
+    <a href={href} aria-label=`${name} website`>
+  		<Image class="logo" {src} alt=`${name} logo` />
+    </a>
+	</div>
+  <div>
+    <p class="sponsor-name">{name}</p>
+  </div>
+</li>
+
+<style>
+	.sponsor {
+		display: flex;
+		flex-direction: column;
+		gap: 0.25em;
+    align-items: center;
+	}
+	.logo-wrap {
+		display: flex;
+		gap: 1rem;
+		align-items: center;
+	}
+	.logo {
+		width: 20em;
+		height: 5em;
+	}
+	.sponsor-name {
+		font-weight: 600;
+		font-size: var(--sl-text-h4);
+		color: var(--sl-color-white);
+		line-height: var(--sl-line-height-headings);
+	}
+</style>
