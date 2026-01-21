@@ -10,6 +10,11 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Cottonwood Alumni',
+		  logo: {
+		    light: './src/assets/light-logo.svg',
+		    dark: './src/assets/dark-logo.svg',
+		    replacesTitle: true,
+		  },
 			head: [
 				{
 					tag: 'script',
