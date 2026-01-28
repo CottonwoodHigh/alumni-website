@@ -5,7 +5,7 @@ import { Image } from 'astro:assets';
 interface Props {
 	handle: string;
 	href: string;
-	name: string;
+	name?: string;
 }
 
 const { handle, href, name } = Astro.props;
@@ -24,9 +24,11 @@ const src = (await logo()).default;
   		<Image class="logo" {src} alt=`${name} logo` />
     </a>
 	</div>
+	{name && (
   <div>
     <p class="sponsor-name">{name}</p>
   </div>
+	)}
 </li>
 
 <style>
