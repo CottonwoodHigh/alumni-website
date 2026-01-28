@@ -10,19 +10,38 @@ interface Props {
 
 const { handle, href, name } = Astro.props;
 
-const logos = import.meta.glob<{ default: ImageMetadata }>('../assets/sponsors/*.svg');
-const logo = logos[`../assets/sponsors/${handle}.svg`];
-if (!logo) {
-	throw new Error(`Could not resolve sponsor logo for @${handle}`);
+// match two files per sponsor: <handle>.light.svg and <handle>.dark.svg
+const logos = import.meta.glob<{ default: ImageMetadata }>('../assets/sponsors/*.{svg,svg}');
+const lightKey = `../assets/sponsors/${handle}.light.svg`;
+const darkKey = `../assets/sponsors/${handle}.dark.svg`;
+
+// fall back to single-file <handle>.svg if themed variants missing
+const fallbackKey = `../assets/sponsors/${handle}.svg`;
+
+const haveLight = Boolean(logos[lightKey]);
+const haveDark = Boolean(logos[darkKey]);
+const haveFallback = Boolean(logos[fallbackKey]);
+
+if (!haveLight && !haveDark && !haveFallback) {
+  throw new Error(`Could not resolve sponsor logo for @${handle}`);
 }
-const src = (await logo()).default;
+
+const load = async (key: string) => (logos[key] ? (await logos[key]()).default : null);
+
+const lightSrc = (haveLight ? await load(lightKey) : haveFallback ? await load(fallbackKey) : null);
+const darkSrc = (haveDark ? await load(darkKey) : haveFallback ? await load(fallbackKey) : null);
 ---
 
 <li class="sponsor">
 	<div class="logo-wrap" aria-hidden="true">
     <a href={href} aria-label=`${name} website`>
-  		<Image class="logo" {src} alt=`${name} logo` />
-    </a>
+      {lightSrc && darkSrc ? (
+        <Image class="logo dark:sl-hidden print:block" src={lightSrc} alt={name ? `${name} logo` : `${handle} logo`} />
+        <Image class="logo light:sl-hidden print:hidden" src={darkSrc} alt={name ? `${name} logo` : `${handle} logo`} />
+      ) : (
+        <Image class="logo print:block" src={lightSrc ?? darkSrc!} alt={name ? `${name} logo` : `${handle} logo`} />
+			)}
+		</a>
 	</div>
 	{name && (
   <div>
