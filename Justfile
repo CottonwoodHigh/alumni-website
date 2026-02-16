@@ -12,7 +12,7 @@ typos:
 [group('linting')]
 link-check *FLAGS:
     pnpm run build
-    -lychee --insecure --root-dir {{ justfile_directory() }}/dist --accept '100..=103,200..=299' --cache --cache-exclude-status='401,403,404,429' --max-cache-age 7d -E {{FLAGS}} 'dist/**/*.html'
+    -lychee {{FLAGS}} 'dist/**/*.html'
     rm -r dist/
 
 # Install all dependencies

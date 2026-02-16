@@ -1,0 +1,10 @@
+accept = [ "100..=103", "200..=299" ]
+archive = "wayback"
+cache_exclude_status = "401,403,404,429"
+cache = true
+exclude_all_private = true
+host_concurrency = 1
+insecure = true
+max_cache_age = "7d"
+root_dir = "./dist"
+suggest = true
