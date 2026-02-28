@@ -34,7 +34,7 @@ const darkSrc = (haveDark ? await load(darkKey) : haveFallback ? await load(fall
 
 <li class="sponsor">
 	<div class="logo-wrap" aria-hidden="true">
-    <a href={href} aria-label=`${name} website`>
+    <a href={href} aria-label=`${name} website` title={name ?? handle}>
       {lightSrc && darkSrc ? (
         <Image class="logo dark:sl-hidden print:block" src={lightSrc} alt={name ? `${name} logo` : `${handle} logo`} />
         <Image class="logo light:sl-hidden print:hidden" src={darkSrc} alt={name ? `${name} logo` : `${handle} logo`} />
@@ -43,11 +43,6 @@ const darkSrc = (haveDark ? await load(darkKey) : haveFallback ? await load(fall
 			)}
 		</a>
 	</div>
-	{name && (
-  <div>
-    <p class="sponsor-name">{name}</p>
-  </div>
-	)}
 </li>
 
 <style>
@@ -65,11 +60,5 @@ const darkSrc = (haveDark ? await load(darkKey) : haveFallback ? await load(fall
 	.logo {
 		width: 20em;
 		height: 5em;
-	}
-	.sponsor-name {
-		font-weight: 600;
-		font-size: var(--sl-text-h4);
-		color: var(--sl-color-white);
-		line-height: var(--sl-line-height-headings);
 	}
 </style>
