@@ -30,7 +30,7 @@
 }
 
 :root {
-	--gold-hsl: 51, 100%, 50%;
+	--gold-hsl: 46, 78.7%, 65.1%;
 	--overlay-blur: hsla(var(--gold-hsl), 0.15);
 	--sl-font-mono: "Berkeley Mono", monospace;
 	--sl-font-system-mono: "Berkeley Mono", monospace;
@@ -38,8 +38,8 @@
 }
 
 :root[data-theme='light'] {
-	--gold-hsl: 51, 100%, 50%;
-	--overlay-blur: hsla(var(--gold-hsl), 0.25);
+	--gold-hsl: 45, 98.1%, 20.2%;
+	--overlay-blur: hsla(var(--gold-hsl), 0.15);
 }
 
 [data-has-hero] .page {
