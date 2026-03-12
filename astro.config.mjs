@@ -170,8 +170,9 @@ export default defineConfig({
 					label: 'Guides',
           items: [
               {
-              		label: 'Authoring Content in Markdown ↗',
+              		label: 'Authoring Content in Markdown',
               		link: 'https://starlight.astro.build/guides/authoring-content/',
+              		attrs: { class: 'external-link' },
               },
               'guides/booking-cottonwood',
               'guides/create-a-page',
@@ -187,8 +188,9 @@ export default defineConfig({
               'resources/alumni-connections',
               'resources/sponsor',
               {
-              		label: 'Student Government Website ↗',
+              		label: 'Student Government Website',
               		link: 'https://www.cwoodstampede.com/',
+              		attrs: { class: 'external-link' },
               },
           ],
 				},

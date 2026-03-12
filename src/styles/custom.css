@@ -32,8 +32,8 @@
 :root {
 	--gold-hsl: 46, 78.7%, 65.1%;
 	--overlay-blur: hsla(var(--gold-hsl), 0.15);
-	--sl-font-mono: "Berkeley Mono", monospace;
-	--sl-font: "Atkinson Hyperlegible Next", sans-serif;
+	--sl-font-mono: "Berkeley Mono", ui-monospace, monospace;
+	--sl-font: "Atkinson Hyperlegible Next", ui-sans-serif, sans-serif;
 	font-variant-emoji: unicode;
 }
 
@@ -141,4 +141,21 @@
 
 aside {
 	border-radius: 0.5rem;
+}
+
+a.external-link::after {
+	content: '';
+	display: inline-block;
+	width: 1em;
+	height: 1em;
+	/* use an SVG icon as a mask or background */
+	mask-image: url('../assets/external-link.svg');
+	mask-size: contain;
+	margin-left: 0.25em;
+	vertical-align: -0.1em;
+	background: var(--sl-color-gray-4);
+}
+
+a.external-link:hover::after {
+	background: var(--sl-color-accent-high);
 }
