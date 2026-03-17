@@ -40,7 +40,7 @@ jobs:
         uses: lycheeverse/lychee-action@v2
         with:
           fail: true
-          args: --insecure --base https://alumni.cottonwoodhigh.school -E --cache --max-cache-age 1d --no-progress 'dist/**/*.html'
+          args: --insecure --base-url https://alumni.cottonwoodhigh.school -E --cache --max-cache-age 1d --no-progress 'dist/**/*.html'
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
