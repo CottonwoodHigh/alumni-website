@@ -12,17 +12,17 @@ importers:
         specifier: ^0.5.10
         version: 0.5.10
       '@astrojs/starlight':
-        specifier: ^0.38.1
-        version: 0.38.1(astro@6.0.6(@types/node@25.0.3)(rollup@4.59.0)(typescript@5.8.2))
+        specifier: ^0.38.2
+        version: 0.38.2(astro@6.0.8(@types/node@25.0.3)(rollup@4.59.0)(typescript@5.8.2))
       astro:
-        specifier: ^6.0.6
-        version: 6.0.6(@types/node@25.0.3)(rollup@4.59.0)(typescript@5.8.2)
+        specifier: ^6.0.8
+        version: 6.0.8(@types/node@25.0.3)(rollup@4.59.0)(typescript@5.8.2)
       sharp:
         specifier: ^0.34.5
         version: 0.34.5
       starlight-image-zoom:
-        specifier: ^0.13.2
-        version: 0.13.2(@astrojs/starlight@0.38.1(astro@6.0.6(@types/node@25.0.3)(rollup@4.59.0)(typescript@5.8.2)))
+        specifier: ^0.14.1
+        version: 0.14.1(@astrojs/starlight@0.38.2(astro@6.0.8(@types/node@25.0.3)(rollup@4.59.0)(typescript@5.8.2)))
 
 packages:
 
@@ -51,8 +51,8 @@ packages:
   '@astrojs/sitemap@3.7.1':
     resolution: {integrity: sha512-IzQqdTeskaMX+QDZCzMuJIp8A8C1vgzMBp/NmHNnadepHYNHcxQdGLQZYfkbd2EbRXUfOS+UDIKx8sKg0oWVdw==}
 
-  '@astrojs/starlight@0.38.1':
-    resolution: {integrity: sha512-CATPH4Dy44OYAJhoyUHh6NqpColWEVufanGVwnM0l/bcaNMo5V/rypwL0Vu0Edp+ZIXE7/1DA9CrNj5jmCVSLQ==}
+  '@astrojs/starlight@0.38.2':
+    resolution: {integrity: sha512-7AsrvG4EsXUmJT5uqiXJN4oZqKaY0wc/Ip7C6/zGnShHRVoTAA4jxeYIZ3wqbqA6zv4cnp9qk31vB2m2dUcmfg==}
     peerDependencies:
       astro: ^6.0.0
 
@@ -95,8 +95,8 @@ packages:
     resolution: {integrity: sha512-kzyuwOAQnXJNLS9PSyrk0CWk35nWJW/zl/6KvnTBMFK65gm7U1/Z5BqjxeapjZCIhQcM/DsrEmcbRwDyXyXK4A==}
     engines: {node: '>=14'}
 
-  '@emnapi/runtime@1.9.0':
-    resolution: {integrity: sha512-QN75eB0IH2ywSpRpNddCRfQIhmJYBCJ1x5Lb3IscKAL8bMnVAKnRg8dCoXbHzVLLH7P38N2Z3mtulB7W0J0FKw==}
+  '@emnapi/runtime@1.9.1':
+    resolution: {integrity: sha512-VYi5+ZVLhpgK4hQ0TAjiQiZ6ol0oe4mBx7mVv7IflsiEp0OWoVsp/+f9Vc1hOhE0TtkORVrI1GvzyreqpgWtkA==}
 
   '@esbuild/aix-ppc64@0.27.4':
     resolution: {integrity: sha512-cQPwL2mp2nSmHHJlCyoXgHGhbEPMrEEU5xhkcy3Hs/O7nGZqEpZ2sUtLaL9MORLtDfRvVl2/3PAuEkYZH0Ty8Q==}
@@ -657,8 +657,8 @@ packages:
   '@shikijs/vscode-textmate@10.0.2':
     resolution: {integrity: sha512-83yeghZ2xxin3Nj8z1NMd/NCuca+gsYXswywDy5bHvwlWL8tpTQmzGeUuHd9FC3E/SBEMvzJRwWEOz5gGes9Qg==}
 
-  '@types/debug@4.1.12':
-    resolution: {integrity: sha512-vIChWdVG3LG1SMxEvI/AK+FWJthlrqlTu7fbrlywTkkaONwk/UAGaULXRlf8vkzFBLVm0zkMdCquhL5aOjhXPQ==}
+  '@types/debug@4.1.13':
+    resolution: {integrity: sha512-KSVgmQmzMwPlmtljOomayoR89W4FynCAi3E8PPs7vmDVPe84hT+vGPKkJfThkmXs0x0jAaa9U8uW8bbfyS2fWw==}
 
   '@types/estree-jsx@1.0.5':
     resolution: {integrity: sha512-52CcUVNFyfb1A2ALocQw/Dd1BQFNmSdkuC3BkZ6iqhdMfQz7JWOFRuJFloOzjk+6WijU56m9oKXFAXc7o3Towg==}
@@ -738,8 +738,8 @@ packages:
     peerDependencies:
       astro: ^4.0.0-beta || ^5.0.0-beta || ^3.3.0 || ^6.0.0-beta
 
-  astro@6.0.6:
-    resolution: {integrity: sha512-Fg25tok0RF+ToCcfdfNdtkv7MutTfbE0Lc4UhZpQyoc8/iiTdAaNw1nHPxPD6Nfa/ql3lGAp9uOWaTTnnFY2Zg==}
+  astro@6.0.8:
+    resolution: {integrity: sha512-DCPeb8GKOoFWh+8whB7Qi/kKWD/6NcQ9nd1QVNzJFxgHkea3WYrNroQRq4whmBdjhkYPTLS/1gmUAl2iA2Es2g==}
     engines: {node: '>=22.12.0', npm: '>=9.6.5', pnpm: '>=7.1.0'}
     hasBin: true
 
@@ -984,8 +984,8 @@ packages:
   github-slugger@2.0.0:
     resolution: {integrity: sha512-IaOQ9puYtjrkq7Y0Ygl9KDZnrf/aiUJYUpVf89y8kyaxbRG7Y1SrX/jaumrv81vc61+kiMempujsM3Yw7w5qcw==}
 
-  h3@1.15.8:
-    resolution: {integrity: sha512-iOH6Vl8mGd9nNfu9C0IZ+GuOAfJHcyf3VriQxWaSWIB76Fg4BnFuk4cxBxjmQSSxJS664+pgjP6e7VBnUzFfcg==}
+  h3@1.15.9:
+    resolution: {integrity: sha512-H7UPnyIupUOYUQu7f2x7ABVeMyF/IbJjqn20WSXpMdnQB260luADUkSgJU7QTWLutq8h3tUayMQ1DdbSYX5LkA==}
 
   hast-util-embedded@3.0.0:
     resolution: {integrity: sha512-naH8sld4Pe2ep03qqULEtvYr7EjrLK2QHY8KJR6RJkTUjPGObe1vnx585uzem2hGra+s1q08DZZpfgDVYRbaXA==}
@@ -1540,11 +1540,11 @@ packages:
   space-separated-tokens@2.0.2:
     resolution: {integrity: sha512-PEGlAwrG8yXGXRjW32fGbg66JAlOAwbObuqVoJpv/mRgoWDQfgH1wDPvtzWyUSNAXBGSk8h755YDbbcEy3SH2Q==}
 
-  starlight-image-zoom@0.13.2:
-    resolution: {integrity: sha512-fDJrx+UZXhkbhEeXKoRogTKAYtrYVJPw6wmSUI3nHUTA0vuRM6EI//2Z8bzv3Ecvz0pHKD1vAxtS01mLyessBA==}
-    engines: {node: '>=18'}
+  starlight-image-zoom@0.14.1:
+    resolution: {integrity: sha512-HFY+/779bq65tiEgiQVk8XIH6HPP34PTxWDmdlIo9pwidLyJUUrSH030/1Iu/r+KjAD7W/jpPWjC8Nkn7+uPhw==}
+    engines: {node: '>=22.12.0'}
     peerDependencies:
-      '@astrojs/starlight': '>=0.32.0'
+      '@astrojs/starlight': '>=0.38.0'
 
   stream-replace-string@2.0.0:
     resolution: {integrity: sha512-TlnjJ1C0QrmxRNrON00JvaFFlNh5TTG00APw23j74ET7gkQpTASi6/L2fuiav8pzK715HXtUeClpBTw2NPSn6w==}
@@ -1833,12 +1833,12 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@astrojs/mdx@5.0.2(astro@6.0.6(@types/node@25.0.3)(rollup@4.59.0)(typescript@5.8.2))':
+  '@astrojs/mdx@5.0.2(astro@6.0.8(@types/node@25.0.3)(rollup@4.59.0)(typescript@5.8.2))':
     dependencies:
       '@astrojs/markdown-remark': 7.0.1
       '@mdx-js/mdx': 3.1.1
       acorn: 8.16.0
-      astro: 6.0.6(@types/node@25.0.3)(rollup@4.59.0)(typescript@5.8.2)
+      astro: 6.0.8(@types/node@25.0.3)(rollup@4.59.0)(typescript@5.8.2)
       es-module-lexer: 2.0.0
       estree-util-visit: 2.0.0
       hast-util-to-html: 9.0.5
@@ -1862,17 +1862,17 @@ snapshots:
       stream-replace-string: 2.0.0
       zod: 4.3.6
 
-  '@astrojs/starlight@0.38.1(astro@6.0.6(@types/node@25.0.3)(rollup@4.59.0)(typescript@5.8.2))':
+  '@astrojs/starlight@0.38.2(astro@6.0.8(@types/node@25.0.3)(rollup@4.59.0)(typescript@5.8.2))':
     dependencies:
       '@astrojs/markdown-remark': 7.0.1
-      '@astrojs/mdx': 5.0.2(astro@6.0.6(@types/node@25.0.3)(rollup@4.59.0)(typescript@5.8.2))
+      '@astrojs/mdx': 5.0.2(astro@6.0.8(@types/node@25.0.3)(rollup@4.59.0)(typescript@5.8.2))
       '@astrojs/sitemap': 3.7.1
       '@pagefind/default-ui': 1.4.0
       '@types/hast': 3.0.4
       '@types/js-yaml': 4.0.9
       '@types/mdast': 4.0.4
-      astro: 6.0.6(@types/node@25.0.3)(rollup@4.59.0)(typescript@5.8.2)
-      astro-expressive-code: 0.41.7(astro@6.0.6(@types/node@25.0.3)(rollup@4.59.0)(typescript@5.8.2))
+      astro: 6.0.8(@types/node@25.0.3)(rollup@4.59.0)(typescript@5.8.2)
+      astro-expressive-code: 0.41.7(astro@6.0.8(@types/node@25.0.3)(rollup@4.59.0)(typescript@5.8.2))
       bcp-47: 2.1.0
       hast-util-from-html: 2.0.3
       hast-util-select: 6.0.4
@@ -1938,7 +1938,7 @@ snapshots:
 
   '@ctrl/tinycolor@4.2.0': {}
 
-  '@emnapi/runtime@1.9.0':
+  '@emnapi/runtime@1.9.1':
     dependencies:
       tslib: 2.8.1
     optional: true
@@ -2130,7 +2130,7 @@ snapshots:
 
   '@img/sharp-wasm32@0.34.5':
     dependencies:
-      '@emnapi/runtime': 1.9.0
+      '@emnapi/runtime': 1.9.1
     optional: true
 
   '@img/sharp-win32-arm64@0.34.5':
@@ -2350,7 +2350,7 @@ snapshots:
 
   '@shikijs/vscode-textmate@10.0.2': {}
 
-  '@types/debug@4.1.12':
+  '@types/debug@4.1.13':
     dependencies:
       '@types/ms': 2.1.0
 
@@ -2418,12 +2418,12 @@ snapshots:
 
   astring@1.9.0: {}
 
-  astro-expressive-code@0.41.7(astro@6.0.6(@types/node@25.0.3)(rollup@4.59.0)(typescript@5.8.2)):
+  astro-expressive-code@0.41.7(astro@6.0.8(@types/node@25.0.3)(rollup@4.59.0)(typescript@5.8.2)):
     dependencies:
-      astro: 6.0.6(@types/node@25.0.3)(rollup@4.59.0)(typescript@5.8.2)
+      astro: 6.0.8(@types/node@25.0.3)(rollup@4.59.0)(typescript@5.8.2)
       rehype-expressive-code: 0.41.7
 
-  astro@6.0.6(@types/node@25.0.3)(rollup@4.59.0)(typescript@5.8.2):
+  astro@6.0.8(@types/node@25.0.3)(rollup@4.59.0)(typescript@5.8.2):
     dependencies:
       '@astrojs/compiler': 3.0.1
       '@astrojs/internal-helpers': 0.8.0
@@ -2757,7 +2757,7 @@ snapshots:
 
   github-slugger@2.0.0: {}
 
-  h3@1.15.8:
+  h3@1.15.9:
     dependencies:
       cookie-es: 1.2.2
       crossws: 0.3.5
@@ -3464,7 +3464,7 @@ snapshots:
 
   micromark@4.0.2:
     dependencies:
-      '@types/debug': 4.1.12
+      '@types/debug': 4.1.13
       debug: 4.4.3
       decode-named-character-reference: 1.3.0
       devlop: 1.1.0
@@ -3869,9 +3869,9 @@ snapshots:
 
   space-separated-tokens@2.0.2: {}
 
-  starlight-image-zoom@0.13.2(@astrojs/starlight@0.38.1(astro@6.0.6(@types/node@25.0.3)(rollup@4.59.0)(typescript@5.8.2))):
+  starlight-image-zoom@0.14.1(@astrojs/starlight@0.38.2(astro@6.0.8(@types/node@25.0.3)(rollup@4.59.0)(typescript@5.8.2))):
     dependencies:
-      '@astrojs/starlight': 0.38.1(astro@6.0.6(@types/node@25.0.3)(rollup@4.59.0)(typescript@5.8.2))
+      '@astrojs/starlight': 0.38.2(astro@6.0.8(@types/node@25.0.3)(rollup@4.59.0)(typescript@5.8.2))
       mdast-util-mdx-jsx: 3.2.0
       rehype-raw: 7.0.0
       unist-util-visit: 5.1.0
@@ -4004,7 +4004,7 @@ snapshots:
       anymatch: 3.1.3
       chokidar: 5.0.0
       destr: 2.0.5
-      h3: 1.15.8
+      h3: 1.15.9
       lru-cache: 11.2.7
       node-fetch-native: 1.6.7
       ofetch: 1.5.1
