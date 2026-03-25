@@ -96,14 +96,6 @@
 	padding: 0;
 }
 
-.sl-markdown-content table :is(th:first-child, td:first-child) {
-	padding: 2px 4px;
-}
-
-.sl-markdown-content :is(th:last-child, td:last-child):not(:where(.not-content *)) {
-	padding: 2px 4px;
-}
-
 .sl-markdown-content :is(th, td):not(:where(.not-content *)) {
 	border-bottom: none;
 	vertical-align: baseline;
@@ -112,6 +104,8 @@
 .sl-markdown-content table code {
 	background-color: inherit;
 	border: none;
+	padding: 0;
+	margin: 0;
 }
 
 .sl-markdown-content table> :is(thead, tbody)>tr> :is(th, td) {
