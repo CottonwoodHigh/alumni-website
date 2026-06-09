@@ -23,9 +23,6 @@ importers:
       sharp:
         specifier: ^0.34.5
         version: 0.34.5
-      starlight-image-zoom:
-        specifier: ^0.14.2
-        version: 0.14.2(@astrojs/starlight@0.40.0(@astrojs/markdown-satteri@0.3.0)(astro@6.4.5(@types/node@25.0.3)(rollup@4.61.1)))
     devDependencies:
       '@changesets/changelog-github':
         specifier: ^0.7.0
@@ -1965,12 +1962,6 @@ packages:
 
   sprintf-js@1.0.3:
     resolution: {integrity: sha512-D9cPgkvLlV3t3IzL0D0YLvGA9Ahk4PcvVwUbN0dSGr1aP0Nrt4AEnTUbuGvquEC0mA64Gqt1fzirlRs5ibXx8g==}
-
-  starlight-image-zoom@0.14.2:
-    resolution: {integrity: sha512-YBvE724gFMiVjObGtXmfIDi3zAxVBsvGukeRXOiWLNnESFOBZFfO9DpC/reHohrCxFrO+5ot0XR8EimbE0LpsA==}
-    engines: {node: '>=22.12.0'}
-    peerDependencies:
-      '@astrojs/starlight': '>=0.38.0'
 
   stream-replace-string@2.0.0:
     resolution: {integrity: sha512-TlnjJ1C0QrmxRNrON00JvaFFlNh5TTG00APw23j74ET7gkQpTASi6/L2fuiav8pzK715HXtUeClpBTw2NPSn6w==}
@@ -4779,16 +4770,6 @@ snapshots:
       signal-exit: 4.1.0
 
   sprintf-js@1.0.3: {}
-
-  starlight-image-zoom@0.14.2(@astrojs/starlight@0.40.0(@astrojs/markdown-satteri@0.3.0)(astro@6.4.5(@types/node@25.0.3)(rollup@4.61.1))):
-    dependencies:
-      '@astrojs/starlight': 0.40.0(@astrojs/markdown-satteri@0.3.0)(astro@6.4.5(@types/node@25.0.3)(rollup@4.61.1))
-      mdast-util-mdx-jsx: 3.2.0
-      rehype-raw: 7.0.0
-      unist-util-visit: 5.1.0
-      unist-util-visit-parents: 6.0.2
-    transitivePeerDependencies:
-      - supports-color
 
   stream-replace-string@2.0.0: {}
 

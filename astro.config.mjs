@@ -1,7 +1,6 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
-import starlightImageZoom from 'starlight-image-zoom';
 import { satteri } from '@astrojs/markdown-satteri';
 
 const googleAnalyticsId = 'G-7HX3RTN97F'
@@ -61,7 +60,6 @@ export default defineConfig({
 				baseUrl: 'https://github.com/CottonwoodHigh/alumni-website/edit/main/',
 			},
 			favicon: 'favicon.png',
-			plugins: [starlightImageZoom()],
 			sidebar: [
 				{
 					label: 'Start Here',
