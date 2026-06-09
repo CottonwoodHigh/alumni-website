@@ -2,11 +2,15 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 import starlightImageZoom from 'starlight-image-zoom';
+import { satteri } from '@astrojs/markdown-satteri';
 
 const googleAnalyticsId = 'G-7HX3RTN97F'
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://alumni.cottonwoodhigh.school',
+  markdown: {
+    processor: satteri(),
+  },
 	integrations: [
 		starlight({
 			title: 'Cottonwood Alumni',

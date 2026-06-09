@@ -3,7 +3,8 @@
   "changelog": [
     "@changesets/changelog-github",
     {
-      "repo": "CottonwoodHigh/alumni-website"
+      "repo": "CottonwoodHigh/alumni-website",
+      "disableThanks": true
     }
   ],
   "commit": false,
