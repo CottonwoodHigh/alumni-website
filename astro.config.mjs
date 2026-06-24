@@ -1,12 +1,19 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import { unified } from '@astrojs/markdown-remark';
 import starlightImageZoom from 'starlight-image-zoom';
 
 const googleAnalyticsId = 'G-7HX3RTN97F'
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://alumni.cottonwoodhigh.school',
+	// starlight-image-zoom does not support Astro's native satteri processor,
+	// so we opt back into the remark/rehype pipeline until it does.
+	// Ref: https://github.com/HiDeoo/starlight-image-zoom/issues/63
+	markdown: {
+		processor: unified(),
+	},
 	integrations: [
 		starlight({
 			title: 'Cottonwood Alumni',
