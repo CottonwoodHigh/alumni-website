@@ -5,35 +5,42 @@ on:
     branches:
       - main
 
-concurrency: ${{ github.workflow }}-${{ github.ref }}
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  # Never interrupt an in-flight publish; a cancelled release can leave tags and
+  # the registry in an inconsistent state.
+  cancel-in-progress: false
 
-permissions:
-  actions: write
-  contents: write
-  pull-requests: write
+permissions: {}
 
 jobs:
   release:
     name: Release
     runs-on: ubuntu-latest
+    permissions:
+      contents: write # push the release commit and version tags
+      pull-requests: write # open and update the release pull request
     outputs:
       published: ${{ steps.changesets.outputs.published }}
       publishedPackages: ${{ steps.changesets.outputs.publishedPackages }}
     steps:
-      - uses: actions/checkout@v7
+      - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
         with:
           fetch-depth: 0
-      - uses: pnpm/action-setup@v6
+          # changesets/action@v1.9.0 pushes tags and the release branch using the
+          # credentials persisted by checkout, so they must stay available here.
+          persist-credentials: true # zizmor: ignore[artipacked]
+      - uses: pnpm/action-setup@0ebf47130e4866e96fce0953f49152a61190b271 # v6.0.9
         with:
           version: latest
           cache: true
-      - uses: taiki-e/install-action@v2
+      - uses: taiki-e/install-action@16b05812d776ae1dfaabc8277e421fb6d2506419 # v2.82.7
         with:
           tool: just,jaq,sd,git-stats
       - run: just install
       - name: Create Release Pull Request or Tag
         id: changesets
-        uses: changesets/action@v1
+        uses: changesets/action@a45c4d594aa4e2c509dc14a9f2b3b67ba3780d0d # v1.9.0
         with:
           version: just version
           publish: pnpm changeset publish
