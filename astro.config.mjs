@@ -118,7 +118,7 @@ export default defineConfig({
 									{ label: "1993", slug: "classes/1993" },
 									{ label: "1994", slug: "classes/1994" },
 									{ label: "1995", slug: "classes/1995" },
-									{ label: "1996", slug: "classes/1996", badge: 'reunion' },
+									{ label: "1996", slug: "classes/1996" },
 									// { label: "1997", slug: "classes/1997" },
 									{ label: "1998", slug: "classes/1998" },
 									{ label: "1999", slug: "classes/1999" },
