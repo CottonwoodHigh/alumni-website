@@ -1,0 +1,12 @@
+---
+import FluidGrid from './fluid-grid.astro';
+import VimeoCard, { type Props as CardProps } from './vimeo-card.astro';
+
+interface Props {
+	videos: CardProps[];
+}
+---
+
+<FluidGrid minColumnWidth="16rem">
+	{Astro.props.videos.map((video) => <VimeoCard {...video} />)}
+</FluidGrid>
