@@ -149,7 +149,7 @@ export default defineConfig({
 									{ label: "2013", slug: "classes/2013" },
 									{ label: "2014", slug: "classes/2014" },
 									// { label: "2015", slug: "classes/2015" },
-									{ label: "2016", slug: "classes/2016" },
+									// { label: "2016", slug: "classes/2016" },
 									// { label: "2017", slug: "classes/2017" },
 									// { label: "2018", slug: "classes/2018" },
 									// { label: "2019", slug: "classes/2019" },
