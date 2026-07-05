@@ -14,7 +14,6 @@ Where an obituary implies a cohort (birth year, "graduated ~30 years ago", etc.)
 - [Robert Ray Porter](https://www.dignitymemorial.com/obituaries/millcreek-ut/robert-porter-11206046), 13 Mar 2023 (age 62) — a search snippet said "graduated from Cottonwood High School," but the fetchable obituary has no school mention.
 - [Kelli D. Timmerman Jensen](https://www.legacy.com/us/obituaries/saltlaketribune/name/kelli-jensen-obituary?id=16222509), 15 Jul 2011 (age 56) — graduated, no year; born 1955 and maiden name Timmerman, plausibly class of ~1973 and related to Randy Timmerman ('73).
 - [Ryan Todd Pendley](https://jenkins-soffe.com/obituaries/ryan-pendley), 23 Aug 2013 (age 49) — graduated, no year (b. 1964, ~1982); not the Robert Pendley on the 1973 page, likely a relative.
-- [Christopher John Holyoak](https://www.legacy.com/us/obituaries/saltlaketribune/name/christopher-holyoak-obituary?id=27859872), 14 May 2010 (age 49) — graduated, played trumpet, no year (b. 1960, ~1979); not the Scott Holyoak on the 1974 page.
 - Dix Kell Waddell, d. 17 Feb 2012 (age 44) and Darrell Weekes — Facebook memorial posts claim class of '85 and class of '73 respectively, but no obituaries exist. Excluded from the site pending obituary-grade evidence.
 
 ## Graduated from Cottonwood, class year not stated
@@ -70,7 +69,6 @@ Where an obituary implies a cohort (birth year, "graduated ~30 years ago", etc.)
 - [Deidre Jo Hoar Smith](https://www.deseretnews.com/article/700167102/Obituary-SMITH-DEIDRE.html), 25 Jul 2011 (age 49, b. 1961)
 - [Steven Langlois](https://www.deseret.com/2011/3/9/20715073/obituary-langlois-steven), 5 Mar 2011 (age 51)
 - [Cindy Stearman](https://www.findagrave.com/memorial/44187178/cynthia-susan-stearman), 8 Nov 2009 (age 51, b. 1958)
-- [Lisa Ann Manzano](https://starksfuneral.com/obituary/lisa-ann-manzano/), 30 Apr 2009 (age 47, b. 1961; U of U cheerleader)
 - [Paula Jean Dimond](https://www.legacy.com/us/obituaries/deseretnews/name/paula-dimond-obituary?id=28655897), 8 Oct 2008 (age 51, b. 1957)
 - [Kelly C. McGinty Tafoya](https://www.deseret.com/2007/10/25/19760527/obituary-kelly-c-mcginty-tafoya/), 23 Oct 2007 (age 41, b. 1966)
 - [Janna Marie Welker Arnerich](https://www.deseret.com/2007/6/15/19758105/obituary-janna-marie-welker-arnerich), 8 Jun 2007 (age 39, b. 1967)
@@ -104,14 +102,11 @@ Obituaries say "attended" only, so they may not have graduated; some are known t
 - [Valerie Ann Leavitt Brand](https://www.legacy.com/us/obituaries/saltlaketribune/name/valerie-brand-obituary?id=18498489), Jul 2021 (b. 1982)
 - [Karen Shelton Brown](https://www.wingmortuary.com/obituary/karen-brown), 11 Aug 2019 (age 60, b. 1959)
 - [Teri Ann Nielsen](https://www.standard.net/announcements/obituaries/2018/dec/27/teri-ann-nielsen/), 22 Dec 2018 (age 44) — graduated from Valley High School
-- [Brent Alan Farr](https://www.dignitymemorial.com/obituaries/salt-lake-city-ut/brent-farr-7990218), 13 Sep 2018 (age 57, b. 1961)
 - [KaeLene "Kae" Miller Udy](https://www.springerturner.com/obituaries/kaelene-m-udy), 14 Mar 2018 (age 58)
-- [Gina Rae Charlesworth](https://www.mcdougalfuneralhomes.com/obituaries/gina-rae-charlesworth), 31 Oct 2017 (age 56, b. 1961) — a Facebook memorial post title includes her class year but it is truncated in search results
 - [Brendan Jack Seal](https://www.legacy.com/obituaries/name/brendan-seal-obituary?pid=185094304), 12 Apr 2017 (age 51, b. 1965)
 - [Jess Darron Hansen](https://www.russonmortuary.com/obituaries/jess-darron-hansen), 8 Aug 2016 (age 52) — graduated from Taylorsville High School
 - [Aaron Ronald Case](https://www.legacy.com/us/obituaries/legacyremembers/aaron-case-obituary?id=21516824), 12 Dec 2015 (age 42, b. 1973) — standout tennis player
 - [Ronald Kim Hudson](https://www.memorialutah.com/obituaries/ronald-hudson), 10 Apr 2015 (age 58, b. 1956)
-- [Larraine Slack McCrea](https://www.wingmortuary.com/obituary/3014772), 20 Mar 2015 (age 54, b. 1961)
 - [Rochelle "Sissy" Reaveley](https://www.dignitymemorial.com/obituaries/riverton-ut/rochelle-reaveley-6320083), 7 Feb 2015 (age 52, b. 1962)
 - [Allyson "Ally" Jensen Fritcher](https://www.legacy.com/obituaries/saltlaketribune/obituary.aspx?n=allyson-fritcher&pid=174048421), 1 Feb 2015 (age 31, b. 1983)
 - [Candace Marie Davey](https://www.memorialutah.com/obituaries/candace-davey), 23 Oct 2014 (age 49, b. 1965)
@@ -164,11 +159,9 @@ Obituaries known or believed to exist whose text could not be read (Legacy.com a
 - [Joan Gibb Nielson](https://jenkins-soffe.com/obituaries/joan-nielson), d. 17 Oct 2019 (age 78)
 - [Troy Jon Breur](https://www.jenkins-soffe.com/obituaries/Troy-Jon-Breur?obId=3887031), d. 3 Dec 2018 (age 51)
 - [Terri Lynn Smith Mead](https://www.jenkins-soffe.com/obituaries/terri-mead), d. 1 Mar 2018 (age 43)
-- [Robert Lee Jenson](https://www.premierfuneral.com/obituaries/Robert-Jenson-2/), d. 13 Oct 2023 (age 62)
 - [Stephen Burton](https://www.premierfuneral.com/obituaries/Stephen-Burton-2/), d. 1 May 2023 (age 66)
 - [Ryan Fox](https://jenkins-soffe.com/obituaries/ryan-fox), d. 26 Jan 2023 (age 50)
 - Brent Todd Mitchell, d. 12 Dec 2022 (age 61, Huntington, NY) — Legacy-only obituary (pid 203458601)
-- Linda Jean Neale James, d. 7 Mar 2022 (age 61) — obituary mirrors removed
 - [Ryan Christen Petersen](https://www.legacy.com/us/obituaries/deseretnews/name/ryan-petersen-obituary?id=14448126), d. ~Mar 2021 (b. 1973)
 - Chad Ray Moore, d. 12 Jul 2021 (age 44) — Jenkins-Soffe obituary, exact link not captured
 - [Dale L. Rindlisbacher](https://www.jenkins-soffe.com/obituaries/dale-rindlisbacher), d. 18 Dec 2020 (age 78)
@@ -176,9 +169,7 @@ Obituaries known or believed to exist whose text could not be read (Legacy.com a
 - [Ann Hancock Stephenson](https://tatemortuary.com/obituaries/ann-stephenson), d. 1 Jul 2010 (age 51)
 - [Sherry Kay Snyder Halverson](https://jenkins-soffe.com/obituaries/sherry-halverson), d. 13 Jul 2009 (age 52)
 - [Christie Carlson Toone](https://www.jenkins-soffe.com/obituaries/christie-toone), d. 13 Jun 2009 (age 49)
-- [Susan Jane Bailey Webster](https://jenkins-soffe.com/obituaries/susan-webster), d. 23 Sep 2008 (age 47)
 - [Lisa Ann Marsh Sawyer](https://www.jenkins-soffe.com/obituaries/lisa-sawyer), d. 13 Feb 2008 (age 47)
-- [Brad Jay Carlson](https://jenkins-soffe.com/obituaries/brad-carlson), d. 23 May 2007 (age 46)
 - [Tamra Anne Johnson](https://www.legacy.com/us/obituaries/deseretnews/name/tamra-johnson-obituary?id=28885940), d. 11 Mar 2007 (age 49)
 - Stevan Lazelle Millet, d. 19 Oct 2014 (age 59) — Legacy-only obituary (pid 173051978)
 - Maria "Mia" Tassainer Sorensen, d. 13 Mar 2005 (age 35) — Legacy-only obituary
