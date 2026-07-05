@@ -10,7 +10,6 @@ Where an obituary implies a cohort (birth year, "graduated ~30 years ago", etc.)
 - [Frank Lorenzo Connolly](https://www.deseret.com/2011/1/23/20712606/obituary-connolly-frank), 19 Jan 2011 (age 71) — obituary says "graduated from Cottonwood High School in 1957," but the school did not open until 1958. Either a different Cottonwood High or an obituary error.
 - [John Carlisle Berger](https://www.legacy.com/us/obituaries/saltlaketribune/name/john-berger-obituary?id=53070450), 17 Jul 2023 (age 58) — one rendering of the obituary says he "graduated 40 years ago" (~1983), another omits it; unreliable.
 - [Misha Himmelberger Morgan](https://www.larkinmortuary.com/obituary/view/misha-himmelberger-morgan-/), 4 Jun 2023 (age 47) — graduated "nearly 30 years before" per obituary (~1993/94); she was also the CTE coordinator at Cottonwood at her passing.
-- [Steven Frank Foote](https://www.larkinmortuary.com/obituary/view/steven-frank-foote/), 8 Dec 2024 (age 64) — retired South Salt Lake fire chief; elected student body president in 1978, implying class of ~1979.
 - [Gordon Kelly Woodland](https://www.findagrave.com/memorial/31436017/gordon-kelly-woodland), 6 Nov 2008 (age 51) — "attended Cottonwood High School until 1975"; not stated as a graduate.
 - [Robert Ray Porter](https://www.dignitymemorial.com/obituaries/millcreek-ut/robert-porter-11206046), 13 Mar 2023 (age 62) — a search snippet said "graduated from Cottonwood High School," but the fetchable obituary has no school mention.
 - [Kelli D. Timmerman Jensen](https://www.legacy.com/us/obituaries/saltlaketribune/name/kelli-jensen-obituary?id=16222509), 15 Jul 2011 (age 56) — graduated, no year; born 1955 and maiden name Timmerman, plausibly class of ~1973 and related to Randy Timmerman ('73).
@@ -94,7 +93,6 @@ Obituaries say "attended" only, so they may not have graduated; some are known t
 - [Lenise Ward Herman](https://www.andersonmortuary.com/obituaries/lenise-herman), 30 Nov 2025 (age 69) — pep club
 - [William "Bill" Archie Hurst](https://www.legacy.com/us/obituaries/saltlaketribune/name/william-hurst-obituary?id=59934587), 28 Oct 2025 (age 71) — also attended Olympus High
 - [Mark Ginn](https://jenkins-soffe.com/obituaries/mark-ginn), 29 Oct 2025 (age 69, b. ~1956)
-- [Robert Wayne Will II](https://www.legacy.com/us/obituaries/name/robert-will-obituary?id=57560841), 27 Jan 2025 (age 64, b. 1960)
 - [Janus Tuli Wily-Afo](https://www.serenityfhs.com/obituaries/Janus-Wily-Afo/), 28 Sep 2023 (age 37, b. 1986)
 - [Eric Christopher Johnston](https://www.russonmortuary.com/obituaries/eric-johnston), 6 Sep 2023 (age 61, b. 1962) — cheerleader, jazz band
 - [Kent Donald Burrell](https://www.serenityfhs.com/obituaries/Kent-Burrell/), 30 Jun 2023 (age 66, b. 1957) — played Tevye in Fiddler on the Roof at CHS
