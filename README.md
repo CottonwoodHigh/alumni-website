@@ -160,7 +160,7 @@ That creates `src/content/docs/classes/1995.mdx` with this frontmatter:
 
 ```mdx
 ---
-title: '1995'
+title: 'Class of 1995'
 description: 'Class page for the graduating class of 1995 of Cottonwood High School.'
 ---
 ```
