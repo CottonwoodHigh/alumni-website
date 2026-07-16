@@ -182,3 +182,455 @@ Obituaries known or believed to exist whose text could not be read (Legacy.com a
 - Kathryn Ellefsen Wretberg, d. 2023 (b. 1966) — Legacy community tag; Starks Funeral Parlor obituary walled, exact link not captured
 - Garff "Bart" Barton Collard, d. 17 Nov 2020 (age 66) — obituary says "After graduating from Cottonwood High School" with no year; source link not captured
 - Gary Morrison Garrick, d. 9 Oct 2024 (age 67, b. 1957) — Premier Funeral obituary confirms Cottonwood, no year; source link not captured
+
+## Cottonwood High Memorial Page Information
+
+Links and information pulled until August 11, 2019 in https://www.facebook.com/groups/128550207156302/.
+
+- https://www.dignitymemorial.com/obituaries/millcreek-ut/bradford-lauro-12827685, class of 2000
+- https://www.russonmortuary.com/obituaries/david-christopher-peterson, class of 1990
+- https://www.legacy.com/us/obituaries/deseretnews/name/clay-egan-obituary?id=61901675, class of 1990
+- https://www.dignitymemorial.com/obituaries/millcreek-ut/lynn-lehmann-12936484, class unknown
+- https://www.legacy.com/person/Nathan-Lee-Reddoor-61729662, class of 1995
+- https://www.legacy.com/us/obituaries/name/julie-keeney-obituary?id=60575305, class of 1973
+- https://www.memorialutah.com/obituaries/laurinda-kuwahara?shem=rimspwouohc, class of 1976
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/hydee-smith-obituary?id=14511471, class of 1984
+- https://www.legacy.com/us/obituaries/name/cori-nunley-obituary?id=61480716, class of 1989
+- https://www.legacy.com/us/obituaries/deseretnews/name/paula-dimond-obituary?id=28655897, class of 1975
+- https://www.legacyfunerals.com/obituaries/craig-strom?ttm_pid=211386788&ttm_affiliate=legacypro&ttm_affiliatetype=standard&ttm_campaign=legacy, class of 1972
+- https://www.deseret.com/1991/9/9/18940238/death-gary-maes/, class of 1988
+- https://starksfuneral.com/obituary/steven-douglas-lester/, class of 1974
+- https://www.myers-mortuary.com/obituaries/brent-wolf, class of 1976
+- https://www.legacy.com/us/obituaries/name/jon-marzo-obituary?id=61505644, class of 1988
+- https://www.legacy.com/us/obituaries/name/jon-marzo-obituary?id=61505644, class of 1988
+- https://jenkins-soffe.com/obituaries/frank-bilanzich?cta=fh-website, class of 1977
+- All of the following in 1982
+  - https://www.findagrave.com/memorial/127078248/glenn-martin-schmidt?fbclid=IwAR286fXvDH-PgM3l2U7Yu0ilzrT3VaYr4kc0YNX-U89T_Um5hG5KbeoexjY
+  - https://www.findagrave.com/memorial/201952809/john-david-marler
+  - https://www.findagrave.com/memorial/176548/thomas-j-nikas
+  - https://billiongraves.com/grave/JAMES-G-FIREBAUGH/709255
+  - https://billiongraves.com/grave/Danette-Fenn/5397012
+  - https://www.deseret.com/1990/4/22/18857984/death-james-e-wach
+  - https://www.deseret.com/1991/8/12/18935762/death-kenneth-p-tinkham
+  - https://www.deseret.com/1991/6/10/18925724/death-todd-r-mitchell
+  - https://www.deseret.com/1996/6/26/19250992/death-shauna-ann-sundblom
+  - https://www.deseret.com/1998/5/29/19382504/death-lori-ann-bogedahl-and-donald-t-buddy-kitchen-photographs-of-lori-ann-bogedahl-and-donald-t-bud
+  - https://www.deseret.com/2001/11/10/19627260/obituary-barry-spencer-nunley
+  - https://www.legacy.com/us/obituaries/saltlaketribune/name/catherine-woolf-obituary?id=29365360&fbclid=IwAR18NPPkXOdfzmQjIjsBdWAoGWNiJrdJtkRb0G_wYAWUMmvDRsGtCz20dXc
+  - https://www.legacy.com/us/obituaries/saltlaketribune/name/marci-wilder-obituary?id=29181983
+  - https://www.jenkins-soffe.com/obituaries/nancy-finch
+  - https://www.legacy.com/us/obituaries/deseretnews/name/ron-hoogveldt-obituary?id=28631896
+  - https://www.legacy.com/us/obituaries/deseretnews/name/brian-schmitt-obituary?id=27224404&fbclid=IwAR19urbaT4RK-lZhSXXAFgfWbOBzhW3bVlZMkRMdE1NwW0NqoxqOlxZh0pY
+  - https://www.legacy.com/us/obituaries/saltlaketribune/name/michelle-marchant-obituary?id=15401394
+  - https://www.deseret.com/2011/1/9/20711742/obituary-wilcox-scott
+  - https://somd.com/announcements/obits/name/6516-Matt-Jared-Alberico.html
+  - https://www.legacy.com/us/obituaries/deseretnews/name/ryan-pendley-obituary?id=24070138
+  - https://www.legacy.com/us/obituaries/deseretnews/name/bradley-knight-obituary?id=22748124&fbclid=IwAR1VlqMWbyx9-s8bUYD5r1AhcSvSIRM7HFgHhKJFVjWEceV0qquqI7svfxw
+  - https://www.legacy.com/us/obituaries/saltlaketribune/name/heidi-johnson-obituary?id=22562339
+  - https://www.premierfuneral.com/obituaries/Jim-Rudy-23208/#!/Obituary
+  - https://www.legacy.com/us/obituaries/deseretnews/name/kenneth-reaveley-obituary?id=22916478
+  - https://www.jenkins-soffe.com/obituaries/kirsten-procter
+  - https://www.tributearchive.com/obituaries/1938593/Shawnie-Ann-Allred-Sellers
+  - https://www.legacy.com/us/obituaries/saltlaketribune/name/barbara-conway-obituary?id=21593229&fbclid=IwAR286fXvDH-PgM3l2U7Yu0ilzrT3VaYr4kc0YNX-U89T_Um5hG5KbeoexjY
+  - https://www.jenkins-soffe.com/obituaries/lori-moss?fbclid=IwAR1VlqMWbyx9-s8bUYD5r1AhcSvSIRM7HFgHhKJFVjWEceV0qquqI7svfxw
+  - https://www.legacy.com/us/obituaries/saltlaketribune/name/pattie-borden-obituary?id=21380525
+  - https://www.russonmortuary.com/obituaries/troy-l-merrill/9897/
+  - https://www.legacy.com/us/obituaries/saltlaketribune/name/kristine-simsich-obituary?id=1648538
+  - https://www.legacy.com/us/obituaries/saltlaketribune/name/mark-smith-obituary?id=2068118
+  - https://www.jenkins-soffe.com/obituaries/kristy-briggs
+  - https://www.legacy.com/us/obituaries/saltlaketribune/name/margaret-morrison-obituary?id=9768261
+  - https://www.facebook.com/cindy.jones.566/posts/pfbid02x69a3kGN1jnoYYT7TkWQja2diUi9uCDQbFDu7A4DLvAGQV5B8otHY8yRpVEzP7V7l
+  - https://www.legacy.com/us/obituaries/deseretnews/name/mark-babcock-obituary?id=32892261
+  - https://daltonhoopes.com/john-e-miller/
+  - https://www.legacy.com/us/obituaries/deseretnews/name/steven-rasmussen-obituary?id=34120738
+  - https://www.legacy.com/us/obituaries/name/kelly-seeley-obituary?id=35727876
+  - https://www.andersonmortuary.com/obituaries/laurie-decker
+  - https://www.legacy.com/us/obituaries/name/jeffrey-vincent-obituary?id=54048436&utm_source=webshareapi&utm_medium=share_button&utm_campaign=wsapimobile_beta
+  - https://www.larkinmortuary.com/obituary/view/roger-sims-/?fbclid=IwZXh0bgNhZW0CMTEAAR2YKtN8cuP-yC0QCY9NWkcoKQsjod35nxeaBtJs9UZaiPRM3r94qg4Lsic_aem_AcLkObYqc8rRUQrtlXCtnDKd42TgD4LvySz946Ts3-cBveRT8M71ctlu05QheUtq5BkFuXJtS5gfuo7BedEB4ahQ
+  - https://www.dignitymemorial.com/obituaries/millcreek-ut/mark-olsen-12326025
+  - https://www.dignitymemorial.com/obituaries/millcreek-ut/linda-ronne-12419480?fbclid=IwY2xjawLQIkpleHRuA2FlbQIxMQABHnh_m2OoVY1PdL3JeTv8bKGjv1ZBou7GCQmqwYH6WENHyzHIr8OApAjoaBDB_aem_7_2qQShdCjIaZwLTePhWcA
+  - https://www.legacy.com/us/obituaries/saltlaketribune/name/fred-eby-obituary?id=28144275&utm_source=webshareapi&utm_medium=share_button&utm_campaign=wsapimobile_beta&fbclid=IwY2xjawRbTQdleHRuA2FlbQIxMQBzcnRjBmFwcF9pZAo2NjI4NTY4Mzc5AAEe_u-vcBzsN-Gse_yp3MQLony0sMJdHVzWKkXh1T7ZvpW7eZuwbPl2WS8c-C0_aem_fNfL7-jb7P-st_MQ0nOBsQ
+- https://www.legacy.com/us/obituaries/name/mario-palacios-obituary?id=61367911, class of 2014
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/jonathan-tobey-obituary?id=13365409, class of 2007
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/todd-peyton-obituary?id=28227377, class of 1983
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/fred-eby-obituary?id=28144275, class of 1982
+- https://www.legacy.com/us/obituaries/name/kevin-wilde-obituary?id=60904338, class of 1976
+- https://www.mcdougalfuneralhomes.com/obituaries/robin-quinn, class of 1984
+- https://tatemortuary.com/obituaries/brett-deweese, class of 1991
+- https://www.utahvalleyfuneral.com/obituaries/Phillip-John-Chipping?obId=48117942, class of 1994
+- https://www.dignitymemorial.com/obituaries/millcreek-ut/bradford-lauro-12827685, class of 2000
+- https://www.legacy.com/us/obituaries/name/marlon-rhodehouse-obituary?id=61185349, class of 1975
+- https://www.legacy.com/us/obituaries/name/dixie-lawrence-obituary?id=61198431, class of 1996
+- https://www.legacy.com/us/obituaries/name/chris-forbes-obituary?id=61116067, class of 1973
+- https://www.memorialutah.com/obituaries/collin-sprague, class of 1983
+- https://www.legacy.com/person/Ronald-Lynn-Jackson-60996902, class of 1971
+- https://www.redrosefuneral.com/obituaries/jack-fuller, class of 1980
+- https://www.legacy.com/us/obituaries/deseretnews/name/lorilee-coverston-obituary?id=28082611, class of 1990
+- https://www.independentfuneralservices.com/obituaries/victor-healy, class of 1977
+- https://www.legacy.com/us/obituaries/deseretnews/name/valerie-williams-obituary, class of 1975
+- https://www.serenitystg.com/obituaries/carrie-morrell/#!/Obituary, class of 1975
+- https://www.probstfamilyfunerals.com/obituaries/arthur-beard, class of 1988
+- https://www.after.com/obituaries/steven-james-pratt, class of 1973
+- https://ipscrematory.com/tribute/details/745, class of 1999
+- https://www.premierfuneral.com/obituaries/gary-ricks-3/obituary, class of 1980
+- https://www.echovita.com/us/obituaries/az/scottsdale/nathan-lindman-12144394?brid=RSTXgX0N3Y6mKVzWxX5O9Q, class of 1996
+- https://www.legacy.com/us/obituaries/deseretnews/name/camille-call-garcia-obituary?id=27754712, class of 1996
+- https://www.memorialutah.com/obituaries/linda-lindeman, class of 1974
+- https://www.lindquistmortuary.com/obituaries/amber-bartlett, class of 1992
+- https://www.mcdougalfuneralhomes.com/obituaries/florence-bedont, class of 1975
+- https://www.andersonmortuary.com/obituaries/lenise-herman, class of 1974
+- https://www.legacy.com/us/obituaries/deseretnews/name/rochelle-perschon-obituary?id=60089222, class of 1987
+- https://www.mcdougalfuneralhomes.com/obituaries/florence-bedont, class of 1975
+- https://www.legacy.com/us/obituaries/name/jennifer-timms-obituary?id=60175122, class of 1993
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/david-lowry-obituary?id=60043169, class of 1973
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/jordan-wheelwright-obituary?id=59139282, class of 2003
+- https://www.oconnormortuary.com/obituaries/david-buchanan, class of 1989
+- https://www.legacy.com/us/obituaries/name/terry-carlson-obituary?id=59805508, class of 1983
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/dot-gray-obituary?id=59744668, class of 1981
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/ronald-papanikolas-obituary?id=27303462, class of 1997
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/michael-westegaard-obituary?id=27188426, class of 1980
+- https://www.aaronsmortuary.com/obituaries/bret-halling, class of 1984
+- https://www.utahsimplecremations.com/obituaries/view/187/, class of 1975
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/steven-langlois-obituary?id=26937468, class of 1977
+- https://www.larkinmortuary.com/obituary/view/dawnell--valdez/, class of 1997
+- https://www.mcdougalfuneralhomes.com/obituaries/cathy-avila, class of 1975
+- https://jenkins-soffe.com/obituaries/erin-magleby?cta=fh-website, class of 1976
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/richard-zito-obituary?id=59192373, class of 1979
+- https://www.premierfuneral.com/obituaries/duane-atkinson/obituary, class of 1976
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/collette-miller-obituary?id=59105429, class of 1975
+- https://www.dignitymemorial.com/obituaries/west-valley-city-ut/gregory-beecher-12475869, class of 1976
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/carrie-johnson-obituary, class of 1974
+- https://www.larkinmortuary.com/obituary/view/brooke-pitcher-denton-/, class of 1998
+- https://starksfuneral.com/obituary/kevin-charles-facemyer/, class of 1985
+- https://www.larkinmortuary.com/obituary/view/jordan-west-wheelwright/, class of 2003
+- https://everloved.com/life-of/geoffrey-hayes/, class of 2002
+- https://www.dignitymemorial.com/obituaries/millcreek-ut/florence-higgins-12447362, class of 1975
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/julie-anderson-obituary?id=26193838, class of 1980
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/justin-herbert-obituary?id=2174293, class of 2005
+- https://www.kramerfamilyfuneralhome.com/obituaries/sean-nicholas-heaps-1987-2022, class of 2005
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/terrie-rasmussen-obituary?id=26061216, class of 1974
+- https://www.russonmortuary.com/obituaries/clark-burton, class of 2007
+- https://www.dignitymemorial.com/obituaries/millcreek-ut/linda-ronne-12419480, class of 1982
+- https://www.castlevalleyfunerals.com/obituaries/sherrie-salee, class of 1975
+- https://www.legacy.com/us/obituaries/deseretnews/name/genevieve-martinez-obituary?id=17660507, class of 1975
+- https://nelsonmortuary.com/obituaries/david-may-2025, class of 1988
+- https://www.dignitymemorial.com/obituaries/millcreek-ut/linda-ronne-12419480, class of 1982
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/dix-waddell-obituary?id=25801748, class of 1985
+- https://www.hoyfuneral.com/obituaries/delanie-eley, class of 1977
+- https://www.legacy.com/us/obituaries/idahostatesman/name/thad-broadhead-obituary?id=58551691, class of 1985
+- https://www.memorialutah.com/obituaries/verna-caldwell-jensen, class of 1977
+- https://www.walker-mortuary.com/obituaries/michael-moore, class of 1981
+- https://www.legacy.com/us/obituaries/name/jerry-hatch-obituary?id=58372953, class of 1972
+- https://www.memorialutah.com/obituaries/cary-hill, class of 1977
+- https://www.legacy.com/us/obituaries/legacyremembers/constance-lockhart-obituary?id=58199990, class of 1973
+- https://www.legacy.com/us/obituaries/deseretnews/name/randy-moore-obituary?id=16286656, class of 1972
+- https://www.peelfuneralhome.com/obituaries/robert-groves, class of 1976
+- https://www.dignitymemorial.com/obituaries/millcreek-ut/mark-olsen-12326025, class of 1982
+- https://www.myers-mortuary.com/obituaries/troy-day-2025?cta=fh-website, class of 1988
+- https://www.memorialutah.com/obituaries/daniel-novotny, class of 1986
+- https://www.serenicare.com/obituaries/boyd-gerber, class of 1975
+- https://www.premierfuneral.com/obituaries/nathan-knowles/events, class of 2015
+- https://jenkins-soffe.com/obituaries/brian-andersen-2025, class of 1981
+- https://www.cannonmortuary.com/obituaries/laura-phillips, class of 1973
+- https://jenkins-soffe.com/obituaries/randall-ninow, class of 1977
+- https://www.springerturner.com/obituaries/jon-rasband, class of 1977
+- https://www.legacy.com/us/obituaries/name/robert-will-obituary?id=57560841, class of 1978
+- https://www.ksl.com/article/51250574/remains-from-starvation-reservoir-confirmed-to-be-salt-lake-man-missing-since-2004, Steven Anderson, class of 1976
+- https://www.legacy.com/us/obituaries/name/steven-borg-obituary?id=57474558, class of 1974
+- https://www.larkinmortuary.com/obituary/view/john-chapman/, class of 1999
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/joseph-palmer-obituary?id=57382584, class of 1977
+- https://www.legacy.com/us/obituaries/deseretnews/name/brent-law-obituary?id=57304341, class of 1979
+- https://www.memorialutah.com/obituaries/brook-radcliffe, class of 1997
+- https://www.dignitymemorial.com/obituaries/west-valley-city-ut/rodney-mitchell-12155884, class of 1976
+- https://www.memorialutah.com/obituaries/kenneth-worley, class of 1974
+- https://www.larkinmortuary.com/obituary/view/steven-frank-foote/, class of 1978
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/teri-hudson-obituary?id=22183334, class of 1981
+- https://www.dignitymemorial.com/obituaries/millcreek-ut/patrick-moyes-12108141, class of 96
+- https://www.larkinmortuary.com/obituary/view/yvette-marie-gardner-cox-fairbanks/, class of 1989
+- https://starksfuneral.com/obituary/melanie-boren-dern/, class of 1973
+- https://daltonhoopes.com/obituaries/sherrie-ivie/, class of 1973
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/james-clayton-obituary?id=25666137, class of 1977
+- https://www.russonmortuary.com/obituaries/danuel-zismer, class of 1976
+- https://www.stgeorgeutah.com/obituaries/brooklin-clair-moffitt-andrews/article_c39238d4-98a9-11ef-8969-9755be53b2f6.html, class of 1990
+- https://www.legacy.com/us/obituaries/legacyremembers/linda-mclaughlin-obituary?id=56595202&env=10e12e0a4368910f3d070b0041b8ff5b3808b277f7e9c0919b5c5bc8025e82d0, class of 1979
+- https://www.larkinmortuary.com/obituary/view/gale-ann-reynolds/, class of 1975
+- https://www.serenicare.com/obituaries/jenny-jp-palosky, class of 1975
+- https://www.legacy.com/us/obituaries/name/cheryl-perkins-obituary?id=56530498, class of 1973
+- https://www.legacy.com/us/obituaries/name/gary-garrick-obituary?id=56530363, class of 1975
+- https://www.thememories.com/obituary/cheryl-perkins/50305, class of 1973
+- https://www.legacy.com/us/obituaries/deseretnews/name/garrett-slack-obituary?id=25591471, class of 1999
+- https://helenafuneralhome.com/obituaries/melanie-spotz-heinitz-age-61-of-helena/, class of 1981
+- https://www.vistafh.com/obituaries/brandon-kennedy, class of 1992
+- https://www.mcdougalfuneralhomes.com/obituaries/gillian-james, class of 1992
+- https://www.legacy.com/us/obituaries/legacyremembers/monica-ezzell-obituary?id=56286694, class of 1984
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/marnie-llewellyn-obituary?id=1960581, class of 1984
+- https://www.premierfuneral.com/obituaries/george-peterson-12/obituary, class of 1997
+- https://www.independentfuneralservices.com/obituaries/randy-mcelhaney, class of 1973
+- https://www.legacy.com/us/obituaries/deseretnews/name/daniel-appel-obituary?id=28625906, class of 1984
+- https://jenkins-soffe.com/obituaries/joann-bahr, class of 1971
+- https://www.legacy.com/us/obituaries/deseretnews/name/scott-petersen-obituary?id=56090425, class of 1995
+- https://www.mcdougalfuneralhomes.com/obituaries/todd-rupp, class of 1975
+- https://www.lindquistmortuary.com/obituaries/robert-miller-jr, class of 1988
+- https://www.memorialutah.com/obituaries/ann-marie-dunton, class of 1974
+- https://www.premierfuneral.com/obituaries/samuel-kalm/obituary, class of 1976
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/anne-warburton-obituary?id=55856389, class of 1974
+- https://www.legacy.com/us/obituaries/legacyremembers/craig-deverall-obituary?id=55852197, class of 1972
+- https://www.serenityfhs.com/obituaries/Kevin-Condra/#!/Obituary, class of 1984
+- https://www.legacy.com/us/obituaries/deseretnews/name/dona-allen-wilson-obituary?id=25475185, class of 1980
+- https://www.legacy.com/us/obituaries/idahopress/name/michael-schrank-obituary?id=36459987, class of 1977
+- https://www.dignitymemorial.com/obituaries/hughson-ca/david-smith-11568614, class of 1975
+- https://www.visaliatimesdelta.com/obituaries/pyrk0699662, class of 1977
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/brandon-gonzales-obituary?id=25329636, class of 1995
+- https://www.legacy.com/us/obituaries/deseretnews/name/jeffrey-kinder-obituary?id=16219545, class of 1993
+- https://starksfuneral.com/obituary/christopher-dennis-horman/, class of 1989
+- https://www.serenityfhs.com/obituaries/Michael-Harp-6/#!/Obituary, class of 1988
+- https://www.legacy.com/us/obituaries/deseretnews/name/heather-probst-obituary?id=25127694, class of 2013
+- https://www.legacy.com/us/obituaries/tucson/name/mary-wiggins-obituary?id=20131588, class of 1978
+- https://www.legacy.com/us/obituaries/deseretnews/name/carol-dewsnup-obituary?id=25053022, class of 1977
+- https://www.legacy.com/us/obituaries/hjnews/name/kimberly-milligan-obituary?id=24968343 class of 1998
+- https://www.legacy.com/us/obituaries/deseretnews/name/jennica-jarvis-obituary?id=24562638, class of 2005
+- https://www.dignitymemorial.com/obituaries/mission-viejo-ca/d-kirk-davis-11845554, class of 1974
+- https://www.mcdougalfuneralhomes.com/obituaries/nikki-knight-park, class of 1981
+- https://www.legacy.com/us/obituaries/deseretnews/name/megan-cole-obituary?id=21313997, class of 1994
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/matthew-metcalf-obituary?id=24388711, class of 1994
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/gary-ellefsen-obituary?id=55198042, class of 1974
+- https://www.legacy.com/us/obituaries/name/tiffanie-jessop-obituary?id=55149830, class of 1995
+- https://www.legacy.com/us/obituaries/name/melissa-lissa-longton-obituary?id=55112754, class of 1975
+- https://www.aaronsmortuary.com/obituaries/robert-monson, class of 1990
+- https://jenkins-soffe.com/obituaries/jacob-cameron, class of 2008
+- https://www.larkinmortuary.com/obituary/view/roger-sims-/, class of 1982
+- https://www.findagrave.com/memorial/118455495/jodi-lush, class of 1975
+- https://www.larkinmortuary.com/obituary/view/nicholas-michael-hampton-35/, class of 2015
+- https://www.deseret.com/1998/8/17/19396883/death-jeffrey-clark/, class of 1987
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/omar-mendez-obituary?id=24383550, class of 1978
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/danielle-hanson-obituary?id=24334856, class of 2006
+- https://www.legacy.com/us/obituaries/deseretnews/name/marilyn-ursenbach-obituary?id=16216604, class of 1977
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/jeanette-worsencroft-obituary?id=24093836, class of 1977
+- https://www.legacy.com/us/obituaries/name/kristy-carpenter-walker-obituary?id=54955506, class of 1975
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/darren-pyper-obituary?id=54936234, class of 1977
+- https://www.memorialutah.com/obituaries/clarence-girard-sorensen, class of 1976
+- https://www.legacy.com/us/obituaries/name/carolyn-nordgren-obituary?id=54402190, class of 1979
+- https://www.foxfh.com/obituaries/jeff-pedersen, class of 1980
+- https://walkermemorials.com/obituary/steven-john-eatchel/, class of 2003
+- https://www.legacy.com/us/obituaries/name/shauna-hall-obituary?id=54908683, class of 1981
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/candance-davey-obituary?id=22728790, class of 1983
+- https://www.legacy.com/funeral-homes/obituaries/name/name-name-obituary?pid=206590033&v=batesville&view=guestbook, class of 1975
+- https://www.legacy.com/us/obituaries/deseretnews/name/suzanne-heaps-obituary?id=17551912, class of 1978
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/amanda-fullerton-obituary?id=23800387, class of 1990
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/darrell-weekes-obituary?id=23741513, class of 1973
+- https://www.legacy.com/us/obituaries/deseretnews/name/daniel-nelson-obituary?id=23453836, class of 2002
+- https://www.legacy.com/us/obituaries/deseretnews/name/terry-shirts-obituary?id=23417137, class of 1981
+- https://www.legacy.com/us/obituaries/deseretnews/name/michele-cunningham-obituary?id=54697729, class of 1988
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/bryn-norman-obituary?id=54676531, class of 1976
+- https://www.tatemortuary.com/obituaries/mark-ackles?cta=fh-website, class of 1974
+- https://www.legacy.com/us/obituaries/deseretnews/name/stevan-millet-obituary?id=22698426, class of 1973
+- https://www.legacy.com/us/obituaries/deseretnews/name/colleen-hill-obituary?id=16227425, class of 1971
+- https://www.legacy.com/us/obituaries/deseretnews/name/ronald-hudson-obituary?id=22220551, class of 1975
+- https://www.legacy.com/us/obituaries/deseretnews/name/jeff-meadows-obituary?id=22151975, class of 1977
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/jeffrey-kelsey-obituary?id=22108326, class of 1989
+- https://www.legacy.com/us/obituaries/name/michael-duvall-obituary?id=54091642, class of 1985
+- https://www.legacy.com/us/obituaries/name/suzanne-boyer-obituary?id=54091808, class of 1976
+- https://www.larkinmortuary.com/obituary/view/alan-roy-fereday-/, class of 1980
+- https://www.dignitymemorial.com/obituaries/millcreek-ut/jeffrey-vincent-11616536, class of 1982
+- https://moabsunnews.com/2023/12/14/obituary-wendy-lynn-wuthrich/, class of 1990
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/randy-johnson-obituary?id=16277006, class of 1977
+- https://www.legacy.com/us/obituaries/name/david-barfuss-obituary?id=1074815, class of 1973
+- https://www.legacy.com/obituaries/name/wach, class of 1973
+- https://www.legacy.com/us/obituaries/name/jess-hansen-obituary?id=31403132, class of 1982
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/kamen-reaveley-obituary?id=20853159, class of 2009
+- https://www.legacy.com/us/obituaries/deseretnews/name/nichole-clark-obituary?id=20820567, class of 1995
+- https://www.legacy.com/us/obituaries/deseretnews/name/jeremy-goodfellow-obituary?id=20678754, class of 1998
+- https://www.legacy.com/us/obituaries/deseretnews/name/bryce-nelson-obituary?id=20532801, class of 2007
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/christopher-wilson-obituary?id=16197448, class of 1985
+- https://www.legacy.com/us/obituaries/name/becky-wiser-obituary?id=53707384, class of 1975
+- https://www.legacy.com/us/obituaries/name/donald-ball-obituary?id=53688889, class of 2001
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/mark-adams-obituary?id=53552172, class of 1972
+- https://www.premierfuneral.com/obituaries/robert-jenson-2/obituary, class of 1979
+- https://www.legacy.com/us/obituaries/name/donna-turnley-obituary?id=53492511, class of 1982
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/kathryn-wretberg-obituary?id=53497957, class of 1984
+- https://www.larkinmortuary.com/obituary/view/luke-scott-perry-/, class of 1996
+- https://www.legacy.com/obituaries/name/lee/geoffrey, class of 2007
+- https://www.legacy.com/us/obituaries/deseretnews/name/jana-cook-obituary?id=1668394, class of 1976
+- https://www.legacy.com/us/obituaries/deseretnews/name/samuel-sandberg-obituary?id=2061659, class of 2016
+- https://www.legacy.com/us/obituaries/name/janus-wily-afo-obituary?id=53333026, class of 2004
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/michael-sanchez-obituary?id=53248311, class of 1972
+- https://www.memorialutah.com/obituaries/patricia-lynne-kiel, class of 1979
+- https://www.legacy.com/us/obituaries/name/gregory-gore-jr-obituary?id=53141597#obituary, class of 2007
+- https://www.legacy.com/us/obituaries/name/eric-johnston-obituary?id=53071569, class of 1980
+- https://www.lindquistmortuary.com/obituaries/debra-barlow, class of 1975
+- https://www.mcdougalfuneralhomes.com/obituaries/kalynn-ninow, class of 1977
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/danney-cruz-obituary?id=17546320, class of 1976
+- https://www.legacy.com/us/obituaries/deseretnews/name/terri-mead-obituary?id=1631791, class of 1992
+- https://www.legacy.com/us/obituaries/deseretnews/name/dane-westmoreland-obituary?id=1632373, class of 2003
+- https://www.legacy.com/us/obituaries/name/jeffrey-weight-obituary?id=52685814, class of 1978
+- https://www.legacy.com/us/obituaries/deseretnews/name/curtis-gutke-obituary, class of 2016
+- https://www.mcdougalfuneralhomes.com/obituaries/terry-mackay, class of 1974
+- https://www.larkinmortuary.com/obituary/view/andrew-rossman/, class of 1997
+- https://www.legacy.com/us/obituaries/name/natasha-davis-obituary?id=31388627, class of 2008
+- https://www.andersonmortuary.com/obituaries/laurie-decker, class of 1982
+- https://www.memorialutah.com/obituaries/robert-andersen, class of 1990
+- https://www.premierfuneral.com/obituaries/elray-lee, class of 1990
+- https://www.legacy.com/us/obituaries/name/karen-malone-obituary?id=52409550, class of 1978
+- https://www.deseret.com/1992/9/4/19003068/death-michelle-lynn-pinto/, class of 1986
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/rick-harrison-obituary?id=52432628, class of 1973
+- https://www.legacy.com/us/obituaries/name/kent-burrell-obituary?id=52372480, class of 1975
+- https://www.dignitymemorial.com/obituaries/millcreek-ut/scott-petersen-8027773, class of 1977
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/ned-tilson-obituary, class of 1972
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/hugh-johnson-obituary, class of 1981
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/rodney-salm-obituary?id=52181509&referrer=0&preview=True, class of 1993
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/misha-morgan-obituary?id=52181219&referrer=0&preview=True, class of 1993
+- https://www.legacy.com/us/obituaries/name/joseph-bott-obituary?id=52156930, class of 1972
+- https://www.larkinmortuary.com/obituary/view/jess-eric-howard/, class of 1978
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/debbie-cheadle-obituary?id=34901665, class of 1975
+- https://www.legacy.com/us/obituaries/deseretnews/name/rebecca-stover-obituary?id=51799409, class of 1975
+- https://www.russonmortuary.com/obituaries/wendel-burt, class of 1972
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/cindy-clark-obituary?id=51510309, class of 1974
+- https://ancestors.familysearch.org/en/G3N4-P6V/steven-paul-petersen-1964-2021, class of 1982
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/debra-osborne-obituary?n=debra-osborne&pid=204184786&fhid=19573, class of 1976
+- https://www.dignitymemorial.com/obituaries/millcreek-ut/robert-porter-11206046, class of 1978
+- https://jenkins-soffe.com/obituaries/sarah-bradham, class of 2004
+- https://www.legacy.com/us/obituaries/name/brad-barker-obituary?id=42232836, class of 1983
+- https://www.memorialutah.com/obituaries/jeri-johns, class of 1979
+- https://www.mcdougalfuneralhomes.com/obituaries/kenneth-darwin-stone, class of 1972
+- https://www.larkinmortuary.com/obituary/view/luke-scott-perry-/, class of 1996
+- https://starksfuneral.com/obituary/tracy-smith/, class of 1980
+- https://www.premierfuneral.com/obituaries/daniel-millet-2, class of 1974
+- https://www.larkinmortuary.com/obituary/view/kenneth-kenny-paul-anderson-/, class of 1989
+- https://jenkins-soffe.com/obituaries/stewart-poore, class of 1974
+- https://www.premierfuneral.com/obituaries/suzanne-kind-shupe/obituary, class of 1972
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/gregory-florez-obituary?id=38514923, class of 1976
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/gordon-naffziger-obituary?id=36703619, class of 1972
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/brent-mitchell-obituary?n=brent-mitchell&pid=203458601, class of 1980
+- https://www.jenkins-soffe.com/obituaries/jack-hofeling, class of 1972
+- https://www.legacy.com/us/obituaries/name/curtis-wilde-obituary?id=38321689, class of 1981
+- https://www.legacy.com/us/obituaries/name/jacqueline-grant-obituary?id=38279260, class of 1976
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/norman-sackett-obituary?id=38055175, class of 1973
+- https://www.dignitymemorial.com/obituaries/millcreek-ut/carl-heaps-10448438, class of 1985
+- https://www.memorialutah.com/obituaries/scott-marti, class of 1973
+- https://www.deseret.com/2011/2/24/20714502/obituary-mccormick-roxayne/, class of 1974
+- https://www.lindquistmortuary.com/obituaries/russell-woodward, class of 1974
+- https://www.legacy.com/us/obituaries/deseretnews/name/sherry-halverson-obituary?id=16234862, class of 1975
+- https://www.legacy.com/us/obituaries/deseretnews/name/randy-farnsworth-obituary?id=29397937, class of 1974
+- https://www.memorialutah.com/obituaries/diane-gremlich, class of 1974
+- https://www.deseret.com/1997/11/8/19344715/death-jason-bruce-campbell/, class of 1994
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/margaret-danielson-alexander-obituary?id=36888210, class of 1973
+- https://www.memorialutah.com/obituaries/karen-margaret-sutphin, class of 1982
+- https://www.broomheadfuneralhome.com/obituary/laura-reisner, class of 1971
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/kile-bigelow-obituary?id=36627277, class of 1974
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/john-young-obituary?id=36486319, class of 1971
+- https://www.findagrave.com/memorial/138766798/david-gary-cleveland, class of 1982
+- https://www.legacy.com/us/obituaries/deseretnews/name/ron-hoogveldt-obituary?id=28631896, class of 1982
+- https://ancestors.familysearch.org/en/KWX9-8N4/douglas-paul-simpson-1962-1986, class of 1981
+- https://billiongraves.com/grave/MICHELE-RENEE-McCOLLIN/714187, class of 1973
+- https://www.deseret.com/1991/7/30/18933268/death-tracy-t-mccollin/, class of 1975
+- https://www.jenkins-soffe.com/obituaries/katelyn-cheshire, class of 2011
+- https://www.deseret.com/2002/3/14/19643094/obituary-billy-carroll-rogers/, class of 1979
+- https://www.deseret.com/1999/4/20/19441130/obituary-kay-lynn-lambert-woodford/, class of 1980
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/tamra-johnson-obituary?pid=86785864&env=59f59aed83dd41f2c001f182d17b234ce93548200159e7679fc57d7f5b38752d, class of 1976
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/debra-gray-obituary?pid=138764028&env=59f59aed83dd41f2c001f182d17b234ce93548200159e7679fc57d7f5b38752d, class of 1974
+- https://www.bunkerfuneral.com/obituaries/todd-and-brenda-edwards/, Todd Edwards only, class of 1985
+- https://www.dignitymemorial.com/obituaries/west-valley-city-ut/michael-schaaf-10894036, class of 1988
+- https://jenkins-soffe.com/obituaries/kelly-tafoya, class of 1984
+- https://www.legacy.com/us/obituaries/name/schuyler-olsen-obituary?id=36296453, class of 1977
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/kellie-robertson-obituary?id=35272894, class of 1979
+- https://www.legacy.com/us/obituaries/deseretnews/name/mary-bartell-obituary?id=12482203, class of 1978
+- https://www.legacy.com/us/obituaries/name/cindy-stearman-obituary?pid=178285176, class of 1977
+- https://www.legacy.com/us/obituaries/deseretnews/name/kit-lindsey-obituary?id=28118232, class of 1990
+- https://www.weremember.com/gerri-martin/3j3z/memories, class of 1976
+- https://www.legacy.com/us/obituaries/deseretnews/name/ron-hoogveldt-obituary?id=28631896, class of 1982
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/pattie-borden-obituary?id=21380525, class of 1982
+- https://www.findagrave.com/memorial/127078248/glenn-martin-schmidt, class of 1982
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/barbara-conway-obituary?id=21593229, class of 1982
+- https://www.legacy.com/us/obituaries/name/kelly-seeley-obituary?id=35727876, class of 1982
+- https://www.legacy.com/us/obituaries/legacyremembers/christine-smartt-obituary?id=52866407, class of 1989
+- https://www.dignitymemorial.com/obituaries/millcreek-ut/susan-oconnor-9953954, class of 1974
+- https://somd.com/announcements/obits/name/6516-Matt-Jared-Alberico.html, class of 1982
+- https://www.goffmortuary.com/obituaries/Trent-Newbold/Memories, class of 1978
+- https://www.legacy.com/us/obituaries/name/vickie-johnson-obituary?id=36063078#obituary, class of 1973
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/steven-adams-obituary?id=29386800, class of 1984
+- https://www.dignitymemorial.com/obituaries/west-valley-city-ut/jeffrey-nordgren-9931372, class of 1972
+- https://www.legacy.com/us/obituaries/deseretnews/name/rustyn-opperman-obituary?id=34993357, class of 2020
+- https://www.broomheadfuneralhome.com/obituary/joseph-joe-cutler, class of 1990
+- https://www.mcdougalfuneralhomes.com/obituaries/katrina-webber, class of 1976
+- https://www.independentfuneralservices.com/obituaries/danielle-hammond, class of 2007
+- https://www.cannonmortuary.com/obituaries/John-Stover, class of 1980
+- https://www.aaronsmortuary.com/obituaries/christine-williams, class of 1995
+- https://www.deseret.com/2007/2/23/19756000/obituary-hydee-martha-vanroosendaal-smith/?_amp=true, class of 1984
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/amy-smith-obituary?pid=166398365, class of 1987
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/randall-jorgensen-obituary?id=34282656, class of 1972
+- https://www.broomheadfuneralhome.com/obituary/carl-sorensen, class of 1975
+- https://www.legacy.com/us/obituaries/deseretnews/name/david-crosby-obituary?id=29448320, class of 1978
+- https://www.newspapers.com/article/the-salt-lake-tribune-charles-albertus/99240712/, class of 1972
+- https://www.findagrave.com/memorial/133684805/christy-lynn-deaton, class of 1972
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/deborah-butterfield-obituary?id=28807123, class of 1972
+- https://www.findagrave.com/memorial/48125855/douglas-james-bowden, class of 1972
+- https://www.legacy.com/us/obituaries/deseretnews/name/mark-babcock-obituary?id=32892261, class of 1982
+- https://www.cannonmortuary.com/obituaries/Sarah-Jackman, class of 2001
+- https://www.legacy.com/us/obituaries/deseretnews/name/terry-larsen-obituary?id=1652789, class of 1972
+- https://www.larkinmortuary.com/obituary/view/brooke-jeppesen-varner-35/, class of 2000
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/john-marks-obituary?id=31987936, class of 1975
+- https://www.legacy.com/us/obituaries/deseretnews/name/johnathan-albretsen-obituary?n=johnathan-albretsen&pid=200787567, class of 2001
+- https://www.legacy.com/us/obituaries/deseretnews/name/shirley-zeisloft-obituary?id=2130127, class of 1972
+- https://www.legacy.com/us/obituaries/deseretnews/name/evelyn-ellett-obituary?id=20215941, class of 1972
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/dan-johnson-obituary?n=dan-johnson&pid=200610200, class of 1976
+- https://www.findagrave.com/memorial/52706884/joseph-edward-asay, class of 1972
+- https://www.findagrave.com/memorial/123908502/clinton-knight-gustavson, class of 1981
+- https://www.legacy.com/us/obituaries/deseretnews/name/nathan-lance-obituary?id=31548241, class of 2018
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/riquel-wynn-obituary?id=2032189, class of 1989
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/tracy-white-obituary?id=14866282, class of 1990
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/steven-fankhauser-obituary?id=29253782, class of 1989
+- https://www.legacy.com/us/obituaries/deseretnews/name/cary-thornton-obituary?pid=159194321, class of 1975
+- https://www.findagrave.com/memorial/86038721/randy-l.-moore, class of 1972
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/terrence-niederhauser-obituary?id=1958853, class of 1972
+- https://www.findagrave.com/memorial/41470783/r.-bryan-norton, class of 1972
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/melissa-soltis-obituary?pid=126420135, class of 1993
+- https://www.legacy.com/us/obituaries/deseretnews/name/william-sullivan-obituary?id=20784636, class of 1993
+- https://www.legacy.com/us/obituaries/deseretnews/name/shannon-flynn-obituary?id=31230658, class of 1976
+- https://www.legacy.com/us/obituaries/name/alicia-kuhre-obituary?id=31414328, class of 1981
+- https://www.legacy.com/us/obituaries/deseretnews/name/wendy-herbert-obituary?pid=105038602, class of 1985
+- https://www.mcdougalfuneralhomes.com/obituaries/richard-wells, class of 1976
+- https://www.deseret.com/2001/4/9/19579545/obituary-cloris-van-watts/, class of 1976
+- https://www.legacy.com/us/obituaries/deseretnews/name/ryan-petersen-obituary?pid=199624524, class of 1991
+- https://www.legacy.com/us/obituaries/deseretnews/name/roger-salazar-obituary?id=2004973, class of 1972
+- https://www.legacy.com/us/obituaries/deseretnews/name/chad-moore-obituary?n=chad-moore&pid=199455085, class of 1995
+- https://www.lindquistmortuary.com/obituaries/Derek-Yano, class of 1985
+- https://www.legacy.com/us/obituaries/deseretnews/name/william-roberts-obituary?pid=157779785, class of 1985
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/scott-mitchell-obituary?n=scott-mitchell&pid=144988860, class of 1985
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/thomas-odom-obituary?id=21291196, class of 1986
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/myron-milgrom-obituary?id=28548437, class of 1981
+- https://www.legacy.com/us/obituaries/deseretnews/name/lindsey-lay-obituary?id=29103576, class of 1997
+- https://www.jenkins-soffe.com/obituaries/ryan-thompson#/obituaryInfo, class of 1986
+- https://www.owensandbrumley.com/obituary/robert-beard, class of 1996
+- https://www.kramerfamilyfuneralhome.com/obituaries/curtis-john-coleman, class of 1975
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/cheryll-thomas-obituary?id=8129746, class of 1980
+- https://www.legacy.com/us/obituaries/deseretnews/name/mark-mccune-obituary?id=26543313, class of 1977
+- https://www.memorialutah.com/obituaries/bert-mathews, class of 1973
+- https://www.memorialutah.com/obituaries/suzanne-dee-smith, class of 1986
+- https://www.legacy.com/us/obituaries/deseretnews/name/genevieve-martinez-obituary?id=17660507, class of 1995
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/taylor-robbins-obituary?id=19955349, class of 1976
+- https://www.deseret.com/1999/7/27/19457736/obituary-bradley-boyd-hansen/, class of 1978
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/susan-o-connor-obituary?id=12773461, class of 1974
+- https://www.legacy.com/us/obituaries/azcentral/name/kevin-campos-obituary?id=7026029, class of 1977
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/brian-green-obituary?id=12831628, class of 1974
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/kit-ginn-obituary?id=12483764, class of 1974
+- https://www.tributearchive.com/obituaries/19096284/Marni-Marie-Clark/Salt-Lake-City/Utah/Holbrook-Mortuary, class of 1994
+- https://www.memorialutah.com/obituaries/jodee-smith, class of 1978
+- https://www.goffmortuary.com/obituaries/Nikki-Green, class of 1976
+- https://www.legacy.com/us/obituaries/deseretnews/name/jeffrey-freebairn-obituary?id=13014611, class of 1989
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/jennifer-hanger-obituary?id=2187875, class of 1987
+- https://www.broomheadfuneralhome.com/obituary/kenneth-newman?lud=804E5D889CDD740AFBFF0B2FC5130A77, class of 1980
+- https://www.legacy.com/us/obituaries/deseretnews/name/argel-jewell-obituary?id=2139038, class of 1974
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/neil-scovil-obituary?id=2136700, class of 1974
+- https://www.plfryandson.com/obituaries/Darrel-Lee-Foster?obId=42834524, class of 1975
+- https://www.deseret.com/1991/7/30/18933268/death-tracy-t-mccollin/, class of 1975
+- https://www.deseret.com/1996/5/29/19245240/death-william-cleveland-cleve-parker/, class of 1975
+- https://www.legacy.com/us/obituaries/deseretnews/name/ryan-peterson-obituary?id=24354652, class of 2007
+- https://www.jenkins-soffe.com/obituaries/thomas-lemmon, class of 1974
+- https://www.legacy.com/us/obituaries/name/russell-walbom-obituary?pid=194725888, class of 1989
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/ronald-banks-behrens-lynn-obituary?id=2093228, class of 1976
+- https://www.jenkins-soffe.com/obituaries/lynn-thomas, class of 1975
+- https://www.legacy.com/us/obituaries/azcentral/name/deena-kay-jackson-obituary?id=18753387, class of 1974
+- https://www.legacy.com/us/obituaries/deseretnews/name/michael-borich-obituary?id=21153428, class of 1975
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/jana-middlebrook-obituary?id=28961710, class of 1976
+- https://www.legacy.com/us/obituaries/saltlaketribune/name/elizabeth-fausett-obituary?id=2072854, class of 1974
+- https://www.legacy.com/us/obituaries/deseretnews/name/tara-wells-obituary?id=2053386, Bret Wells, Class of 1977
