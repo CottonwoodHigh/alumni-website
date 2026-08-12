@@ -22,14 +22,15 @@ jobs:
       pull-requests: write # open and update the release pull request
     outputs:
       published: ${{ steps.changesets.outputs.published }}
-      publishedPackages: ${{ steps.changesets.outputs.publishedPackages }}
+      published-packages: ${{ steps.changesets.outputs.published-packages }}
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
           fetch-depth: 0
-          # changesets/action@v1.9.0 pushes tags and the release branch using the
-          # credentials persisted by checkout, so they must stay available here.
-          persist-credentials: true # zizmor: ignore[artipacked]
+          # changesets/action@v2 pushes the release commit and tags through the
+          # GitHub API (authenticated by its github-token input), so no git
+          # credentials need to persist in the checkout.
+          persist-credentials: false
       - uses: pnpm/action-setup@0ebf47130e4866e96fce0953f49152a61190b271 # v6.0.9
         with:
           version: latest
@@ -40,11 +41,13 @@ jobs:
       - run: just install
       - name: Create Release Pull Request or Tag
         id: changesets
-        uses: changesets/action@a45c4d594aa4e2c509dc14a9f2b3b67ba3780d0d # v1.9.0
+        uses: changesets/action@22ccf9aa43179fe9e27dc62e575971d28cce197c # v2.0.0
         with:
-          version: just version
-          publish: pnpm changeset publish
-          commit: "chore(release): bump version"
-          title: "chore(release): bump version"
+          version-script: just version
+          publish-script: pnpm changeset publish
+          commit-message: "chore(release): bump version"
+          pr-title: "chore(release): bump version"
         env:
+          # @changesets/changelog-github reads this to fetch PR metadata while
+          # `changeset version` generates changelog entries.
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
