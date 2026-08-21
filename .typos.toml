@@ -7,3 +7,11 @@ extend-ignore-re = ["\\w{51,}"]
 [default.extend-words]
 alumi = "alumni"
 conttonwood = "cottonwood"
+
+# Surnames and given names of alumni, not typos.
+[default.extend-identifiers]
+Dimond = "Dimond"
+KaeLene = "KaeLene"
+Ned = "Ned"
+Sprinkel = "Sprinkel"
+Toom = "Toom"
