@@ -8,6 +8,24 @@ _list:
 typos:
     typos 
 
+# Lint prose with vale
+[group('linting')]
+vale *FLAGS: _vale-sync
+    vale --glob='*.{md,mdx}' {{FLAGS}} README.md contrib/ src/content/
+
+# Download the vale style packages listed in .vale.ini
+[group('linting')]
+vale-sync:
+    vale sync
+
+_vale-sync:
+    #!/usr/bin/env bash
+    set -euo pipefail
+
+    if [ ! -d .vale/styles ]; then
+        just vale-sync
+    fi
+
 # Run a lychee-based link check
 [group('linting')]
 link-check *FLAGS:

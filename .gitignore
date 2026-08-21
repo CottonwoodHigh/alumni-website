@@ -14,6 +14,9 @@ pnpm-debug.log*
 
 .lycheecache
 
+# vale style packages, restored with `just vale-sync`
+.vale/styles/
+
 # environment variables
 .env
 .env.production

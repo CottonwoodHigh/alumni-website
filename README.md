@@ -56,6 +56,7 @@ Content lives in `src/content/docs/` and gets compiled to static HTML.
 | [Changesets](https://github.com/changesets/changesets)                    | Versioning & changelog   |
 | [typos](https://github.com/crate-ci/typos)                                | Spell checking           |
 | [lychee](https://github.com/lycheeverse/lychee)                           | Broken link checking     |
+| [vale](https://vale.sh)                                                   | Prose linting            |
 
 ## Prerequisites
 
@@ -65,6 +66,7 @@ Install these before you start.
 - [just](https://github.com/casey/just): the task runner
 - [typos](https://github.com/crate-ci/typos): spell checking
 - [lychee](https://github.com/lycheeverse/lychee): link checking (optional locally, runs in CI)
+- [vale](https://vale.sh): prose linting
 
 Once `mise` is installed:
 
@@ -143,6 +145,8 @@ Available recipes:
     [linting]
     link-check *FLAGS # Run a lychee-based link check
     typos             # Check for typos
+    vale *FLAGS       # Lint prose with vale
+    vale-sync         # Download the vale style packages listed in .vale.ini
 
     [release]
     changeset *args   # Interactively create a changeset.
@@ -178,6 +182,16 @@ See the [Starlight docs](https://starlight.astro.build/guides/authoring-content/
 ```sh
 just typos
 ```
+
+#### Prose linting
+
+[`vale`](https://vale.sh) checks prose style against the [write-good](https://github.com/btford/write-good), [proselint](https://github.com/amperser/proselint), and [alex](https://github.com/get-alex/alex) rule sets.
+
+```sh
+just vale
+```
+
+Style packages download into `.vale/styles/`, which is gitignored. The first `just vale` fetches them; `just vale-sync` refreshes them after editing the package list. Rules that misfire on this content are disabled in `.vale.ini`, each with a comment explaining why.
 
 #### Link checking
 
