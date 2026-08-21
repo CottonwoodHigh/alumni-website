@@ -1,16 +1,16 @@
 # Unplaced in memoriam candidates
 
-These people are confirmed by their obituaries to have attended or graduated from Cottonwood High School (Murray, UT), but no source states their graduating class, so they cannot yet be added to a class page.
+Their obituaries confirm that these people attended or graduated from Cottonwood High School (Murray, UT), but no source states their graduating class, so we cannot yet place them on a class page.
 The list comes from a July 2026 sweep of the [Legacy.com Cottonwood High School memorial community](https://www.legacy.com/us/communities/cottonwood-high-school-salt-lake-city-utah) (all 404 entries dispositioned) plus obituary verification.
 To place someone, find their class year in a yearbook, a reunion roster, or the [Cottonwood High School Memorial Page](https://www.facebook.com/groups/128550207156302/) Facebook group, then move them to the class page in the standard format.
-Where an obituary implies a cohort (birth year, "graduated ~30 years ago", etc.), the hint is noted; hints are not sufficient evidence to place someone.
+Where an obituary implies a cohort (birth year, "graduated ~30 years ago", etc.), this list records the hint; hints alone cannot place someone.
 
 ## Needs review (conflicting or partial evidence)
 
 - [Frank Lorenzo Connolly](https://www.deseret.com/2011/1/23/20712606/obituary-connolly-frank), 19 Jan 2011 (age 71) — obituary says "graduated from Cottonwood High School in 1957," but the school did not open until 1958. Either a different Cottonwood High or an obituary error.
 - [John Carlisle Berger](https://www.legacy.com/us/obituaries/saltlaketribune/name/john-berger-obituary?id=53070450), 17 Jul 2023 (age 58) — one rendering of the obituary says he "graduated 40 years ago" (~1983), another omits it; unreliable.
 - [Gordon Kelly Woodland](https://www.findagrave.com/memorial/31436017/gordon-kelly-woodland), 6 Nov 2008 (age 51) — "attended Cottonwood High School until 1975"; not stated as a graduate.
-- [Kelli D. Timmerman Jensen](https://www.legacy.com/us/obituaries/saltlaketribune/name/kelli-jensen-obituary?id=16222509), 15 Jul 2011 (age 56) — graduated, no year; born 1955 and maiden name Timmerman, plausibly class of ~1973 and related to Randy Timmerman ('73).
+- [Kelli D. Timmerman Jensen](https://www.legacy.com/us/obituaries/saltlaketribune/name/kelli-jensen-obituary?id=16222509), 15 Jul 2011 (age 56) — graduated, no year; born 1955, née Timmerman, plausibly class of ~1973 and related to Randy Timmerman ('73).
 
 ## Graduated from Cottonwood, class year not stated
 
@@ -48,7 +48,7 @@ Where an obituary implies a cohort (birth year, "graduated ~30 years ago", etc.)
 
 ## Attended Cottonwood (graduation not stated)
 
-Obituaries say "attended" only, so they may not have graduated; some are known to have finished elsewhere.
+Obituaries say "attended" only, so they may not have graduated; records show some finished elsewhere.
 
 - [William "Bill" Archie Hurst](https://www.legacy.com/us/obituaries/saltlaketribune/name/william-hurst-obituary?id=59934587), 28 Oct 2025 (age 71) — also attended Olympus High
 - [Mark Ginn](https://jenkins-soffe.com/obituaries/mark-ginn), 29 Oct 2025 (age 69, b. ~1956)
@@ -84,7 +84,7 @@ Obituaries say "attended" only, so they may not have graduated; some are known t
 
 Memorialized in the Legacy community but confirmed by their obituaries to not be Cottonwood graduates. Listed here so they are not re-researched or mistakenly added to class pages.
 
-- [Helen-Louise Hancey](https://www.legacy.com/us/obituaries/deseretnews/name/helen-louise-hancey-obituary?id=2077108), d. 2019 — taught at Cottonwood among several schools
+- [Helen-Louise Hancey](https://www.legacy.com/us/obituaries/deseretnews/name/helen-louise-hancey-obituary?id=2077108), d. 2019 — taught at Cottonwood among other schools
 - [Dennis Olney Doyle](https://www.memorialutah.com/obituaries/dennis-olney-doyle), d. 2019 — taught English and French at Cottonwood
 - [Karen Rager Nieto](https://www.goffmortuary.com/obituaries/karen-nieto), d. 2018 — taught at Cottonwood; Jordan High class of 1980
 - [Randall Warner Stevens](https://www.deseretnews.com/article/1295038/Obituary-Randall-W-Stevens.html?pg=all), d. 2004 — 17 years teaching at Cottonwood; Olympus High graduate
@@ -100,7 +100,7 @@ Memorialized in the Legacy community but confirmed by their obituaries to not be
 
 ## Walled or unverifiable leads
 
-Obituaries known or believed to exist whose text could not be read (Legacy.com and several funeral homes block fetching); Cottonwood connection unconfirmed. Tips: Legacy pages return full text to `curl` with a browser User-Agent, and jenkins-soffe.com text is present in the raw HTML.
+Obituaries known or believed to exist whose text we could not read (Legacy.com and some funeral homes block fetching); Cottonwood connection unconfirmed. Tips: Legacy pages return full text to `curl` with a browser User-Agent, and jenkins-soffe.com text is present in the raw HTML.
 
 - [Joan Gibb Nielson](https://jenkins-soffe.com/obituaries/joan-nielson), d. 17 Oct 2019 (age 78)
 - [Troy Jon Breur](https://www.jenkins-soffe.com/obituaries/Troy-Jon-Breur?obId=3887031), d. 3 Dec 2018 (age 51)

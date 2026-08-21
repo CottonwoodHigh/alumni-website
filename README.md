@@ -42,7 +42,7 @@ If you're here, you probably want to add a class page, fix something, or figure 
 
 ## Project overview
 
-The site is built with [Astro](https://astro.build) and [Starlight](https://starlight.astro.build), a documentation-focused framework where pages are authored in Markdown or MDX.
+The site runs on [Astro](https://astro.build) and [Starlight](https://starlight.astro.build), a documentation-focused framework where you author pages in Markdown or MDX.
 Content lives in `src/content/docs/` and gets compiled to static HTML.
 
 ## Tech stack
@@ -68,7 +68,7 @@ Install these before you start.
 - [lychee](https://github.com/lycheeverse/lychee): link checking (optional locally, runs in CI)
 - [vale](https://vale.sh): prose linting
 
-Once `mise` is installed:
+Once you install `mise`:
 
 ```bash
 mise trust
@@ -191,11 +191,11 @@ just typos
 just vale
 ```
 
-Style packages download into `.vale/styles/`, which is gitignored. The first `just vale` fetches them; `just vale-sync` refreshes them after editing the package list. Rules that misfire on this content are disabled in `.vale.ini`, each with a comment explaining why.
+Style packages download into `.vale/styles/`, which `.gitignore` excludes. The first `just vale` fetches them; `just vale-sync` refreshes them after editing the package list. `.vale.ini` turns off rules that misfire on this content, each with a comment explaining why, and skips blockquotes so that verbatim posts from alumni stay as written.
 
 #### Link checking
 
-[`lychee`](https://github.com/lycheeverse/lychee) builds the full site and crawls every HTML file for broken links. Known-bad URLs are excluded via `.lycheeignore` and `lychee.toml`.
+[`lychee`](https://github.com/lycheeverse/lychee) builds the full site and crawls every HTML file for broken links. `.lycheeignore` and `lychee.toml` exclude known-bad URLs.
 
 ```sh
 just link-check
@@ -203,7 +203,7 @@ just link-check
 
 ### Releases
 
-Versioning is handled with [Changesets](https://github.com/changesets/changesets).
+[Changesets](https://github.com/changesets/changesets) handles versioning.
 
 #### Record your change
 
