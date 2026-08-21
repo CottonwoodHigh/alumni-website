@@ -46,15 +46,17 @@ upgrade:
     pnpm install
     
 # Serve the site locally for development
+[continue]
 [group('editing')]
 watch *FLAGS:
-    pnpm run dev {{FLAGS}}
+    @trap 'exit 0' INT; pnpm exec astro dev {{FLAGS}}
 
 # Preview a production build of the site
+[continue]
 [group('editing')]
 preview:
     pnpm build
-    pnpm preview
+    @trap 'exit 0' INT; pnpm exec astro preview
 
 # Create a new class page
 [group('editing')]
