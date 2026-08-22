@@ -11,7 +11,13 @@ typos:
 # Lint prose with vale
 [group('linting')]
 vale *FLAGS: _vale-sync
-    vale --glob='*.{md,mdx}' {{FLAGS}} README.md contrib/ src/content/
+    @# --no-global: a user-level vale config (~/.config/vale/.vale.ini) is
+    @# merged into every run, and its [*] section then governs any file the
+    @# [*.{md,mdx}] section here does not cover, linting it with whatever
+    @# styles that contributor happens to have. The --glob below is what
+    @# keeps such files out today; this flag makes the run hermetic even if
+    @# the glob is ever loosened.
+    vale --no-global --glob='*.{md,mdx}' {{FLAGS}} README.md contrib/ src/content/
 
 # Download the vale style packages listed in .vale.ini
 [group('linting')]
@@ -22,9 +28,15 @@ _vale-sync:
     #!/usr/bin/env bash
     set -euo pipefail
 
-    if [ ! -d .vale/styles ]; then
-        just vale-sync
-    fi
+    # The checked dirs mirror Packages in .vale.ini and must be updated with
+    # it; if they drift, the lint fails loudly (E100: style does not exist
+    # on StylesPath) rather than passing silently.
+    for pkg in write-good proselint alex; do
+        if [ ! -d ".vale/styles/$pkg" ]; then
+            just vale-sync
+            break
+        fi
+    done
 
 # Run a lychee-based link check
 [group('linting')]
