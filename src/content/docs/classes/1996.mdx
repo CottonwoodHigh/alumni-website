@@ -6,6 +6,7 @@ description: 'Class page for the graduating class of 1996 of Cottonwood High Sch
 ## Links
 
 import { CardGrid, LinkButton, LinkCard } from '@astrojs/starlight/components';
+import YouTubeGrid from '../../../components/youtube-grid.astro';
 
 <CardGrid>
   <LinkCard
@@ -54,6 +55,15 @@ We can't wait to see you all again!
 We honor the memories of our classmates who have passed away.
 Each name had a unique story, impactful relationships, and meaningful contributions to our world.
 Let us celebrate their lives and the joy they especially brought to our community.
+
+<YouTubeGrid
+	videos={[
+		{
+			href: 'ilGbzWi3ZY0',
+			title: "Cottonwood High School Class of 1996 In Memoriam",
+		},
+	]}
+/>
 
 * [Dixie Lee Lawrence](https://www.larkinmortuary.com/obituary/view/dixie-lee-lawrence-/), 4 Apr 2026 (age 47)
 * [Patrick Woodruff Moyes](https://www.dignitymemorial.com/obituaries/millcreek-ut/patrick-moyes-12108141), 26 Nov 2024 (age 47)
