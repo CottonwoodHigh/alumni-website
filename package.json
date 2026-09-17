@@ -13,13 +13,13 @@
   "dependencies": {
     "@astro-community/astro-embed-vimeo": "^0.3.12",
     "@astro-community/astro-embed-youtube": "^0.5.10",
-    "@astrojs/starlight": "^0.42.0",
-    "astro": "^7.3.1",
+    "@astrojs/starlight": "^0.42.1",
+    "astro": "^7.3.3",
     "sharp": "^0.35.4",
     "starlight-image-zoom": "^0.16.0"
   },
   "devDependencies": {
     "@changesets/changelog-github": "^1.0.1",
-    "@changesets/cli": "^3.0.2"
+    "@changesets/cli": "^3.0.3"
   }
 }
