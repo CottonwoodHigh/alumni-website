@@ -3,6 +3,9 @@ title: 'Class of 2026'
 description: 'Class page for the graduating class of 2026 of Cottonwood High School.'
 ---
 
+import { CardGrid, LinkCard } from '@astrojs/starlight/components';
+import YouTubeGrid from '../../../components/youtube-grid.astro';
+
 ## Class Officers
 
 - **President**: Rekha Mawi
@@ -13,3 +16,32 @@ description: 'Class page for the graduating class of 2026 of Cottonwood High Sch
 - **Artist**: Ashley Tlaxca
 - **Stampede Officer**: Carley Caton
 - **Dance Officer**: Jacob Rodriguez
+
+## Media
+
+<YouTubeGrid
+	videos={[
+		{
+			href: 'NWH59lCMiks',
+			title: "Historian's Assembly",
+			description: "Class of 2026",
+		},
+	]}
+/>
+
+<CardGrid>
+  <LinkCard
+    title="Senior Last Events"
+    href="https://photos.app.goo.gl/J3831oFUix7zDePWA"
+    target="_blank"
+    rel="noopener"
+    description="Google Photos album of the class of 2026's senior last events."
+  />
+  <LinkCard
+    title="Prom"
+    href="https://photos.app.goo.gl/DT7Tqm5PC1PxGLvXA"
+    target="_blank"
+    rel="noopener"
+    description="Google Photos album of the class of 2026's prom."
+  />
+</CardGrid>
