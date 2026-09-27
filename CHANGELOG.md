@@ -1,5 +1,19 @@
 # cottonwood-alumni
 
+## 0.1.2
+
+### Patch Changes
+
+- [`bcaca19`](https://github.com/CottonwoodHigh/alumni-website/commit/bcaca19fbc6aed180972c9414dbb42d3daa150f0) - **feature**: add VideoGrid component so YouTube and Vimeo videos can share a single grid.
+
+<pre>
+$ git-stats v0.1.1..v0.1.2
+Author           Commits  Changed Files  Insertions  Deletions  Net Δ
+Luke Hsiao            72            415       +5983      -6338   -355
+dependabot[bot]        9             12         +12        -12      0
+Total                 81            427       +5995      -6350   -355
+</pre>
+
 ## 0.1.1
 
 ### Patch Changes
