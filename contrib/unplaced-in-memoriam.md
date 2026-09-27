@@ -11,6 +11,7 @@ Where an obituary implies a cohort (birth year, "graduated ~30 years ago", etc.)
 - [John Carlisle Berger](https://www.legacy.com/us/obituaries/saltlaketribune/name/john-berger-obituary?id=53070450), 17 Jul 2023 (age 58) — one rendering of the obituary says he "graduated 40 years ago" (~1983), another omits it; unreliable.
 - [Gordon Kelly Woodland](https://www.findagrave.com/memorial/31436017/gordon-kelly-woodland), 6 Nov 2008 (age 51) — "attended Cottonwood High School until 1975"; not stated as a graduate.
 - [Kelli D. Timmerman Jensen](https://www.legacy.com/us/obituaries/saltlaketribune/name/kelli-jensen-obituary?id=16222509), 15 Jul 2011 (age 56) — graduated, no year; born 1955, née Timmerman, plausibly class of ~1973 and related to Randy Timmerman ('73).
+- [James John "Jim" Brown](https://www.legacy.com/us/obituaries/deseretnews/name/james-brown-obituary?id=29140917), 18 Jun 2005 (age 52) — obituary says he "graduated from Cottonwood High School in 1970," but the school first opened in fall 1970 ([Deseret News, 8 Apr 1970, p. 31](https://newspapers.lib.utah.edu/details?id=26298273)), so its first class graduated in 1971. Born 1 Nov 1952, which also fits the class of 1971; either the year or the school in the obituary is wrong.
 
 ## Graduated from Cottonwood, class year not stated
 

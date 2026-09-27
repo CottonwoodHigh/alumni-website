@@ -73,7 +73,6 @@ export default defineConfig({
               	label: '1970s',
               	collapsed: true,
 								items: [
-									{ label: "1970", slug: "classes/1970" },
 									{ label: "1971", slug: "classes/1971" },
 									{ label: "1972", slug: "classes/1972" },
 									{ label: "1973", slug: "classes/1973" },
