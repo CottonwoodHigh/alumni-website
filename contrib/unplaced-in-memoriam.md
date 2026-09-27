@@ -7,7 +7,6 @@ Where an obituary implies a cohort (birth year, "graduated ~30 years ago", etc.)
 
 ## Needs review (conflicting or partial evidence)
 
-- [Frank Lorenzo Connolly](https://www.deseret.com/2011/1/23/20712606/obituary-connolly-frank), 19 Jan 2011 (age 71) — obituary says "graduated from Cottonwood High School in 1957," but the school did not open until 1958. Either a different Cottonwood High or an obituary error.
 - [John Carlisle Berger](https://www.legacy.com/us/obituaries/saltlaketribune/name/john-berger-obituary?id=53070450), 17 Jul 2023 (age 58) — one rendering of the obituary says he "graduated 40 years ago" (~1983), another omits it; unreliable.
 - [Gordon Kelly Woodland](https://www.findagrave.com/memorial/31436017/gordon-kelly-woodland), 6 Nov 2008 (age 51) — "attended Cottonwood High School until 1975"; not stated as a graduate.
 - [Kelli D. Timmerman Jensen](https://www.legacy.com/us/obituaries/saltlaketribune/name/kelli-jensen-obituary?id=16222509), 15 Jul 2011 (age 56) — graduated, no year; born 1955, née Timmerman, plausibly class of ~1973 and related to Randy Timmerman ('73).
@@ -97,22 +96,23 @@ Memorialized in the Legacy community but confirmed by their obituaries to not be
 - Mary Ellen Thomas, d. 2023 — Cottonwood English teacher; Judge Memorial class of 1985
 - [Linda Jean Wallace Taylor](https://jenkins-soffe.com/obituaries/linda-taylor-2021), d. 2021 — finished a 20-year teaching career at Cottonwood; whether she was also an alumna is unknown (obituary is JS-walled)
 - [Richard Lynn Hampton](https://jenkins-soffe.com/obituaries/richard-hampton), d. 2023 — guestbook comments suggest he was a school police officer at Cottonwood, not an alum (obituary is JS-walled)
+- [Joan Gibb Nielson](https://jenkins-soffe.com/obituaries/joan-nielson), d. 2019 — special education assistant at Cottonwood; Highland High class of 1959
+- [Dale L. Rindlisbacher](https://www.jenkins-soffe.com/obituaries/dale-rindlisbacher), d. 2020 — taught music at Cottonwood; attended Cyprus High
+- [Patricia Woodruff Palfreyman](https://www.legacy.com/us/obituaries/saltlaketribune/name/patricia-palfreyman-obituary?id=12872101), d. 2020 — worked with special education students at Cottonwood; attended Skyline High
+- [Alan Bruce Holyoak](https://www.legacy.com/us/obituaries/deseretnews/name/alan-holyoak-obituary?id=29033859), d. 2006 — Cottonwood parent (all six children graduated from CHS); Burley High graduate, taught at Eastmont Middle School
+- [Frank Lorenzo Connolly](https://www.deseret.com/2011/1/23/20712606/obituary-connolly-frank), d. 2011 — "graduated from Cottonwood High School in 1957" after growing up in Arizona; that was Cottonwood High in Cottonwood, Arizona, which merged into Mingus Union High in 1958
 
 ## Walled or unverifiable leads
 
 Obituaries known or believed to exist whose text we could not read (Legacy.com and some funeral homes block fetching); Cottonwood connection unconfirmed. Tips: Legacy pages return full text to `curl` with a browser User-Agent, and jenkins-soffe.com text is present in the raw HTML.
 
-- [Joan Gibb Nielson](https://jenkins-soffe.com/obituaries/joan-nielson), d. 17 Oct 2019 (age 78)
 - [Troy Jon Breur](https://www.jenkins-soffe.com/obituaries/Troy-Jon-Breur?obId=3887031), d. 3 Dec 2018 (age 51)
 - [Stephen Burton](https://www.premierfuneral.com/obituaries/Stephen-Burton-2/), d. 1 May 2023 (age 66)
 - [Ryan Fox](https://jenkins-soffe.com/obituaries/ryan-fox), d. 26 Jan 2023 (age 50)
-- [Dale L. Rindlisbacher](https://www.jenkins-soffe.com/obituaries/dale-rindlisbacher), d. 18 Dec 2020 (age 78)
-- Patricia Woodruff Palfreyman, d. 5 Dec 2020 (age 74) — Legacy-only obituary (pid 197263390)
 - [Ann Hancock Stephenson](https://tatemortuary.com/obituaries/ann-stephenson), d. 1 Jul 2010 (age 51)
 - [Christie Carlson Toone](https://www.jenkins-soffe.com/obituaries/christie-toone), d. 13 Jun 2009 (age 49)
 - [Lisa Ann Marsh Sawyer](https://www.jenkins-soffe.com/obituaries/lisa-sawyer), d. 13 Feb 2008 (age 47)
 - Maria "Mia" Tassainer Sorensen, d. 13 Mar 2005 (age 35) — Legacy-only obituary
 - Blaine Warren Hopkins, d. 24 Dec 2002 (age 30) — Legacy-only obituary (Deseret News id 29497123)
-- [Alan Bruce Holyoak](https://www.legacy.com/us/obituaries/deseretnews/name/alan-holyoak-obituary?id=29033859), d. 15 Mar 2006 (age 76) — probably faculty or a Cottonwood parent (six children graduated from CHS); career music teacher
 - [Kelly Frank Binkerd Sr.](https://www.legacy.com/us/obituaries/saltlaketribune/name/kelly-binkered-obituary?pid=161819278), d. 14 Dec 2012 — alumniclass.com lists a "Kelly Binkerd" under class of 1976; obituary walled
 - Garff "Bart" Barton Collard, d. 17 Nov 2020 (age 66) — obituary says "After graduating from Cottonwood High School" with no year; source link not captured
