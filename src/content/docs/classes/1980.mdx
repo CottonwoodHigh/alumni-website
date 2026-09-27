@@ -62,26 +62,24 @@ From [Facebook](https://www.facebook.com/groups/319956576583/permalink/101639442
 
 ## Media
 
-import YouTubeGrid from '../../../components/youtube-grid.astro';
+import VideoGrid from '../../../components/video-grid.astro';
 
-<YouTubeGrid
+<VideoGrid
   videos={[
     {
+      provider: 'youtube',
       href: 'VUJOyry6Gzw',
       title: "Cottonwood High School Choir",
       description: "1980 choir album, directed by Morris F. Lee",
     },
     {
+      provider: 'youtube',
       href: 'NtQJPhrTrPo',
       title: "See How They Run",
       description: "Act 3 of the spring play, March 1980",
     },
-  ]}
-/>
-
-<VimeoGrid
-  videos={[
     {
+      provider: 'vimeo',
       href: '16032519',
       title: "CHSClass1980 - uncut video",
       description: "Drill team, assemblies, TNT, and jazz band footage.",
