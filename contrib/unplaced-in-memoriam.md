@@ -7,7 +7,7 @@ Where an obituary implies a cohort (birth year, "graduated ~30 years ago", etc.)
 
 ## Needs review (conflicting or partial evidence)
 
-- [John Carlisle Berger](https://www.legacy.com/us/obituaries/saltlaketribune/name/john-berger-obituary?id=53070450), 17 Jul 2023 (age 58) — one rendering of the obituary says he "graduated 40 years ago" (~1983), another omits it; unreliable.
+- [John Carlisle Berger](https://www.legacy.com/us/obituaries/saltlaketribune/name/john-berger-obituary?id=53070450), 17 Jul 2023 (age 58) — the obituary says he "graduated 40 years ago" (~1983; born 3 May 1965) but gives no year; a relative, rounded span is a hint, not a placement.
 - [Gordon Kelly Woodland](https://www.findagrave.com/memorial/31436017/gordon-kelly-woodland), 6 Nov 2008 (age 51) — "attended Cottonwood High School until 1975"; not stated as a graduate.
 - [Kelli D. Timmerman Jensen](https://www.legacy.com/us/obituaries/saltlaketribune/name/kelli-jensen-obituary?id=16222509), 15 Jul 2011 (age 56) — graduated, no year; born 1955, née Timmerman, plausibly class of ~1973 and related to Randy Timmerman ('73).
 - [James John "Jim" Brown](https://www.legacy.com/us/obituaries/deseretnews/name/james-brown-obituary?id=29140917), 18 Jun 2005 (age 52) — obituary says he "graduated from Cottonwood High School in 1970," but the school first opened in fall 1970 ([Deseret News, 8 Apr 1970, p. 31](https://newspapers.lib.utah.edu/details?id=26298273)), so its first class graduated in 1971. Born 1 Nov 1952, which also fits the class of 1971; either the year or the school in the obituary is wrong.
@@ -27,19 +27,13 @@ Where an obituary implies a cohort (birth year, "graduated ~30 years ago", etc.)
 - [Terry Lynn Mitchell](https://www.legacy.com/obituaries/name/terry-mitchell-obituary?pid=185958741), 20 Jun 2017 (age 59)
 - [Tracy James Burton](https://starksfuneral.com/obituary/tracy-james-burton/), 15 May 2017 (age 45, b. 1972, Sterling Scholar for Art, ~1990)
 - [Brent Andrew Robinson](https://www.hawkerfuneralhome.com/obituaries/Brent-Andrew-Robinson?obId=32921213), 10 Oct 2016 (age 49)
-- [Jeffrey David Wach](https://jenkins-soffe.com/obituaries/jeffrey-wach), 8 Jul 2016 (age 61)
 - [Russell Reed "Rusty" Jacobs](https://www.larkinmortuary.com/obituary/view/8pQYX4XV3nRdFHolyqvGut1nnHxEnKarchive/), 29 Oct 2015 (age 47)
 - [Rachel Amanda Case](https://mcdougalfuneralhomes.com/obituary/rachel-amanda-case), 9 Jul 2015 (age 43)
-- [Robert Allen Morrill](https://www.memorialutah.com/obituaries/robert-morrill), 8 Apr 2015 (age 44, b. 1970)
-- [Jonathan Lee Stowers](https://www.larkinmortuary.com/obituary/view/Vp3hkyx5ZrstPHX6ObERXBIcyx1aMKarchive/), 26 Dec 2014 (age 57)
 - [Franklin Shad LeFevre](https://www.legacy.com/us/obituaries/saltlaketribune/name/franklin-lefevre-obituary?id=22617919), 18 Nov 2014 (age 40, b. 1974, ~'92/'93)
 - [Sarah Ella Van Wagenen](https://www.deseret.com/2014/3/7/20725600/obituary-vanwagenen-sarah/), 1 Mar 2014 (age 40, b. 1973; cheerleader, violin)
-- [Troy Wayne Gasser](https://www.dignitymemorial.com/obituaries/west-valley-city-ut/troy-gasser-5699627), 14 Oct 2013 (age 43, b. 1970)
-- [Deidre Jo Hoar Smith](https://www.deseretnews.com/article/700167102/Obituary-SMITH-DEIDRE.html), 25 Jul 2011 (age 49, b. 1961)
 - [Janna Marie Welker Arnerich](https://www.deseret.com/2007/6/15/19758105/obituary-janna-marie-welker-arnerich), 8 Jun 2007 (age 39, b. 1967)
 - [Kelly Lynn Nunley](https://www.deseret.com/2006/3/27/19749919/obituary-kelly-lynn-nunley), 24 Mar 2006 (age 46, b. 1959)
 - [Andrew Michael Kiss-Illes](https://www.legacy.com/obituaries/saltlaketribune/obituary.aspx?n=andrew-michael-kiss-illes&pid=16729647), 12 Feb 2006 (age 32, b. 1973)
-- [Jackie Yvonne Halls](https://www.findagrave.com/memorial/15660983/jackie-yvonne-halls), 8 Oct 2005 (age 50, b. 1954)
 - [Michael Leon Vega](https://www.legacy.com/us/obituaries/deseretnews/name/michael-vega-obituary?id=29153565), 21 May 2005 (age 22, b. 1983, ~2001)
 - [Kathryn Eldredge Firth](https://www.deseret.com/2003/11/11/19747074/obituary-kathryn-eldredge-firth), 9 Nov 2003 (age 47, b. 1956)
 - [Tara Adele Rogers](https://www.deseret.com/2003/10/7/19746382/obituary-tara-adele-rogers), 6 Oct 2003 (age 26, b. 1977, ~'95/'96)
@@ -49,7 +43,6 @@ Where an obituary implies a cohort (birth year, "graduated ~30 years ago", etc.)
 
 Obituaries say "attended" only, so they may not have graduated; records show some finished elsewhere.
 
-- [William "Bill" Archie Hurst](https://www.legacy.com/us/obituaries/saltlaketribune/name/william-hurst-obituary?id=59934587), 28 Oct 2025 (age 71) — also attended Olympus High
 - [Mark Ginn](https://jenkins-soffe.com/obituaries/mark-ginn), 29 Oct 2025 (age 69, b. ~1956)
 - [Ray Earl Larsen](https://www.legacy.com/us/obituaries/legacyremembers/ray-larsen-obituary?id=36995568), 28 Oct 2022 (age 34, b. 1987)
 - [Valerie Ann Leavitt Brand](https://www.legacy.com/us/obituaries/saltlaketribune/name/valerie-brand-obituary?id=18498489), Jul 2021 (b. 1982)
@@ -62,14 +55,11 @@ Obituaries say "attended" only, so they may not have graduated; records show som
 - [Rochelle "Sissy" Reaveley](https://www.dignitymemorial.com/obituaries/riverton-ut/rochelle-reaveley-6320083), 7 Feb 2015 (age 52, b. 1962)
 - [Allyson "Ally" Jensen Fritcher](https://www.legacy.com/obituaries/saltlaketribune/obituary.aspx?n=allyson-fritcher&pid=174048421), 1 Feb 2015 (age 31, b. 1983)
 - [James Alan "Jim" Schmachtenberger](https://www.legacy.com/us/obituaries/saltlaketribune/name/james-schmachtenberger-obituary?id=26407975), 15 Aug 2011 (age 54, b. 1956)
-- [Gregory William Sprinkel](https://www.dignitymemorial.com/obituaries/millcreek-ut/gregory-sprinkel-4653529), 26 Apr 2011 (age 57, b. 1954)
 - [Glen E. Orvin](https://www.findagrave.com/memorial/20607323/glen-e-orvin), 23 Jun 2007 (age 39, b. 1968)
-- [Bryan C. Thornley](https://www.deseret.com/2007/6/14/19758069/obituary-bryan-c-thornley/), 12 Jun 2007 (age 33, b. 1974)
 - [Corey Joel Williamson](https://www.legacy.com/us/obituaries/saltlaketribune/name/corey-williamson-obituary?id=28877486), 31 Mar 2007 (age 31, b. 1975) — wrestling, Madrigals
 - [Michael William Ronan](https://www.deseret.com/2007/1/11/19755117/obituary-michael-william-ronan), 8 Jan 2007 (age 42, b. 1964)
 - [Scott Lee Jewkes](https://www.legacy.com/us/obituaries/deseretnews/name/scott-jewkes-obituary?id=28958180), 30 Sep 2006 (age 53, b. 1953)
 - [Michael L. Walker](https://www.legacy.com/us/obituaries/saltlaketribune/name/michael-walker-obituary?id=29015661), 10 Aug 2006 (age 29, b. 1977)
-- [David Kevin Smartt](https://www.deseret.com/2005/1/10/19772661/obituary-david-kevin-smartt), 7 Jan 2005 (age 45, b. 1959) — led the baseball team to two state championships
 - [David Ralph Starr](https://www.legacy.com/us/obituaries/saltlaketribune/name/david-starr-obituary?id=29284829), 4 Jul 2004 (age 23, b. 1981)
 - [Jill Pappadakis](https://www.legacy.com/us/obituaries/saltlaketribune/name/jill-pappadakis-obituary?id=29430129), 11 Jul 2003 (age 32, b. 1971)
 - [Sherry "Sheshe" Ann Hall](https://www.legacy.com/us/obituaries/saltlaketribune/name/sherry-hall-obituary?id=16270581), 19 Sep 2002 (age 35, b. 1967)
@@ -109,10 +99,5 @@ Obituaries known or believed to exist whose text we could not read (Legacy.com a
 - [Troy Jon Breur](https://www.jenkins-soffe.com/obituaries/Troy-Jon-Breur?obId=3887031), d. 3 Dec 2018 (age 51)
 - [Stephen Burton](https://www.premierfuneral.com/obituaries/Stephen-Burton-2/), d. 1 May 2023 (age 66)
 - [Ryan Fox](https://jenkins-soffe.com/obituaries/ryan-fox), d. 26 Jan 2023 (age 50)
-- [Ann Hancock Stephenson](https://tatemortuary.com/obituaries/ann-stephenson), d. 1 Jul 2010 (age 51)
-- [Christie Carlson Toone](https://www.jenkins-soffe.com/obituaries/christie-toone), d. 13 Jun 2009 (age 49)
 - [Lisa Ann Marsh Sawyer](https://www.jenkins-soffe.com/obituaries/lisa-sawyer), d. 13 Feb 2008 (age 47)
-- Maria "Mia" Tassainer Sorensen, d. 13 Mar 2005 (age 35) — Legacy-only obituary
 - Blaine Warren Hopkins, d. 24 Dec 2002 (age 30) — Legacy-only obituary (Deseret News id 29497123)
-- [Kelly Frank Binkerd Sr.](https://www.legacy.com/us/obituaries/saltlaketribune/name/kelly-binkered-obituary?pid=161819278), d. 14 Dec 2012 — alumniclass.com lists a "Kelly Binkerd" under class of 1976; obituary walled
-- Garff "Bart" Barton Collard, d. 17 Nov 2020 (age 66) — obituary says "After graduating from Cottonwood High School" with no year; source link not captured
