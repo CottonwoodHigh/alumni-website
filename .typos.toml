@@ -2,7 +2,8 @@
 extend-exclude = ["*.svg"]
 
 [default]
-extend-ignore-re = ["\\w{51,}"]
+# YouTube and Vimeo video IDs in grid `href` props are random strings.
+extend-ignore-re = ["\\w{51,}", "href: ['\"][\\w-]+['\"]"]
 
 [default.extend-words]
 alumi = "alumni"
