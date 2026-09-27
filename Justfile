@@ -73,7 +73,7 @@ preview:
 # Create a new class page
 [group('editing')]
 new-class YEAR:
-    echo -e "---\ntitle: '{{YEAR}}'\ndescription: 'Class page for the graduating class of {{YEAR}} of Cottonwood High School.'\n---" > src/content/docs/classes/{{YEAR}}.mdx
+    echo -e "---\ntitle: 'Class of {{YEAR}}'\ndescription: 'Class page for the graduating class of {{YEAR}} of Cottonwood High School.'\n---" > src/content/docs/classes/{{YEAR}}.mdx
 
 # Interactively create a changeset.
 [group('release')]
