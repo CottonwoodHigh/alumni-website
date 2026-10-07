@@ -14,7 +14,7 @@
     "@astro-community/astro-embed-vimeo": "^0.3.12",
     "@astro-community/astro-embed-youtube": "^0.5.10",
     "@astrojs/starlight": "0.42.5",
-    "astro": "^7.3.5",
+    "astro": "7.3.6",
     "sharp": "^0.35.5",
     "starlight-image-zoom": "^0.16.0"
   },
