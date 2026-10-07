@@ -42,7 +42,13 @@ _vale-sync:
 [group('linting')]
 link-check *FLAGS:
     pnpm run build
-    -lychee {{FLAGS}} 'dist/**/*.html'
+    @# Absolute links to our own domain are checked against the fresh build
+    @# instead of the live site. That still catches broken internal links,
+    @# but stays offline and fast, and Cloudflare's bot rules can't get in
+    @# the way. The remap lives here rather than in lychee.toml because
+    @# lychee only accepts an absolute file:// target, and the config file
+    @# has no way to express "relative to this checkout".
+    -lychee --remap '^https://alumni\.cottonwoodhigh\.school/(.*)$ file://{{justfile_directory()}}/dist/$1' {{FLAGS}} 'dist/**/*.html'
     rm -r dist/
 
 # Install all dependencies

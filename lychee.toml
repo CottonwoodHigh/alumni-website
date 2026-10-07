@@ -3,7 +3,14 @@ archive = "wayback"
 cache_exclude_status = "401,403,404,429"
 cache = true
 exclude_all_private = true
+# Hosts serve /foo/ from foo.html when there is no foo/index.html. Astro's
+# 404.html declares its canonical URL as /404/, so this mirrors that lookup.
+fallback_extensions = ["html"]
 host_concurrency = 1
+include_fragments = "anchor-only"
+# A directory link only works on a static host if it holds an index.html.
+# Without this, lychee accepts any directory that exists in dist/.
+index_files = ["index.html"]
 insecure = true
 max_cache_age = "7d"
 root_dir = "./dist"

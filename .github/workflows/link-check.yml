@@ -50,7 +50,12 @@ jobs:
         uses: lycheeverse/lychee-action@e7477775783ea5526144ba13e8db5eec57747ce8 # v2.9.0
         with:
           fail: true
-          args: --insecure -E --cache --max-cache-age 1d --no-progress 'dist/**/*.html'
+          # Check links to our own domain against the build, not the live
+          # site, which sits behind Cloudflare bot rules. See `just link-check`.
+          args: >-
+            --insecure -E --cache --max-cache-age 1d --no-progress
+            --remap '^https://alumni\.cottonwoodhigh\.school/(.*)$ file://${{ github.workspace }}/dist/$1'
+            'dist/**/*.html'
         env:
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
