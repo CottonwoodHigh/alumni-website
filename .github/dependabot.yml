@@ -7,10 +7,18 @@ updates:
       cooldown:
           default-days: 7
       commit-message:
-        prefix: "ci(deps)"
+          prefix: "ci(deps)"
+      groups:
+          ci:
+              patterns: ["*"]
+    # Grouped into one PR to mirror `just upgrade`. Major bumps are included
+    # because `pnpm dlx @astrojs/upgrade` takes those too.
     - package-ecosystem: "npm"
       directory: "/"
       schedule:
           interval: "monthly"
       cooldown:
           default-days: 7
+      groups:
+          npm:
+              patterns: ["*"]
