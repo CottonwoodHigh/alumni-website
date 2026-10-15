@@ -16,7 +16,7 @@
     "@astrojs/starlight": "0.42.6",
     "astro": "7.3.8",
     "sharp": "^0.35.5",
-    "starlight-image-zoom": "^0.16.1"
+    "starlight-image-zoom": "^0.16.2"
   },
   "devDependencies": {
     "@changesets/changelog-github": "^1.0.1",
