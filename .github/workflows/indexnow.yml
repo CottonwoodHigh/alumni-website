@@ -1,0 +1,67 @@
+name: IndexNow
+
+# Cloudflare Pages has no post-deploy hook that can start a GitHub workflow,
+# and it creates no GitHub deployments to trigger on. It does post a
+# "Cloudflare Pages" check run that completes once the deploy is live, so
+# this workflow runs when that check run completes.
+# GitHub only runs check_run workflows from the default branch.
+on:
+  check_run:
+    types: [completed]
+  workflow_dispatch:
+
+# The group is the deployed commit. A rerun for the same deploy replaces the
+# older ping, and pings for different deploys never cancel each other.
+concurrency:
+  group: ${{ github.workflow }}-${{ github.event.check_run.head_sha || github.sha }}
+  cancel-in-progress: true
+
+permissions: {}
+
+jobs:
+  indexnow:
+    name: Ping IndexNow
+    # Skip preview deploys and check runs from other apps. A manual run must
+    # target main, because IndexNow checks the key against the live site.
+    if: >-
+      (github.event_name == 'check_run'
+        && github.event.check_run.app.slug == 'cloudflare-workers-and-pages'
+        && github.event.check_run.name == 'Cloudflare Pages'
+        && github.event.check_run.conclusion == 'success'
+        && github.event.check_run.check_suite.head_branch == 'main')
+      || (github.event_name == 'workflow_dispatch' && github.ref == 'refs/heads/main')
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    # Install, build, and ping take about a minute, so 10 leaves room for a
+    # slow runner without letting a hung job run for six hours.
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          # On check_run, GITHUB_SHA is the default branch head, which can be
+          # newer than the commit that Pages just deployed.
+          ref: ${{ github.event.check_run.head_sha || github.sha }}
+          persist-credentials: false
+
+      - name: Setup PNPM
+        uses: pnpm/action-setup@ea17c68df8912ef543352723c149a84f56e3d413 # v6.1.0
+        with:
+          version: latest
+
+      - name: Setup Node
+        uses: actions/setup-node@820762786026740c76f36085b0efc47a31fe5020 # v7.0.0
+        with:
+          node-version: 'lts/*'
+          cache: 'pnpm'
+
+      - name: Install Dependencies
+        run: pnpm i
+
+      # The sitemap and the key file come from the same commit that Pages
+      # deployed, so the ping matches the live site.
+      - name: Build Site
+        run: pnpm run build
+
+      - name: Ping IndexNow
+        run: node scripts/indexnow.mjs

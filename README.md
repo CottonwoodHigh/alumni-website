@@ -36,6 +36,7 @@ If you're here, you probably want to add a class page, fix something, or figure 
   - [Adding a new class page](#adding-a-new-class-page)
   - [Linting](#linting)
   - [Releases](#releases)
+- [Deploying](#deploying)
 - [License](#license)
 
 ---
@@ -103,6 +104,7 @@ The site will be at `http://localhost:4321`.
 ├── .github/             # GitHub Actions workflows
 ├── contrib/             # Contributor resources / assets
 ├── public/              # Static assets (favicons, etc.)
+├── scripts/             # Deploy helpers (IndexNow ping)
 ├── src/
 │   ├── assets/          # Images referenced in Markdown (e.g. colt.png)
 │   └── content/
@@ -216,6 +218,23 @@ just changeset
 You'll get an interactive prompt for the change type (patch/minor/major) and a short description.
 The result is a small Markdown file in `.changeset/`.
 Commit this alongside your code.
+
+## Deploying
+
+[Cloudflare Pages](https://developers.cloudflare.com/pages/) builds and deploys the site through its GitHub integration.
+Pushes to `main` deploy to the live site.
+The site stays on Pages, not Workers, because it relies on Cloudflare's email address obfuscation.
+
+After each production deploy, the `IndexNow` workflow sends every URL in the sitemap to [IndexNow](https://www.indexnow.org), so Bing and the engines that share its feed recrawl them soon.
+Google ignores IndexNow, so this does nothing for Google.
+Pages has no post-deploy hook that can start a GitHub workflow, so the workflow runs when the `Cloudflare Pages` check run on a `main` commit succeeds.
+It builds that commit and runs `scripts/indexnow.mjs`.
+To run it by hand, start the `IndexNow` workflow on `main` from the Actions tab.
+
+IndexNow checks each request against the key file in `public/`, which must stay at the site root and contain only the key, with no trailing newline.
+A failed ping fails the workflow run but leaves the site alone, because the site is already live.
+HTTP 202 means IndexNow has yet to fetch and check the key; HTTP 200 means it did.
+To see whether pings arrive, check the workflow run log, or the IndexNow report in [Bing Webmaster Tools](https://www.bing.com/webmasters).
 
 ## License
 
