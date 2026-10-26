@@ -61,9 +61,6 @@ export default defineConfig({
 				themes: ['catppuccin-mocha', 'catppuccin-latte'],
 		    styleOverrides: { borderRadius: '0.5rem' },
 			},
-			components: {
-				Header: './src/components/Header.astro',
-			},
 			customCss: [
 				'./src/styles/custom.css',
 				'./src/fonts/font-face.css',
