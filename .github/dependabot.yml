@@ -1,7 +1,9 @@
 version: 2
 updates:
     - package-ecosystem: "github-actions"
-      directory: "/"
+      # Dependabot reads only .github/workflows from "/", so the shared
+      # composite actions need their own entry.
+      directories: ["/", "/.github/actions/*"]
       schedule:
           interval: "monthly"
       cooldown:

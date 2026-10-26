@@ -101,7 +101,7 @@ The site will be at `http://localhost:4321`.
 ```
 .
 ├── .changeset/          # Pending changeset files for versioning
-├── .github/             # GitHub Actions workflows
+├── .github/             # GitHub Actions workflows and shared actions
 ├── contrib/             # Contributor resources / assets
 ├── public/              # Static assets (favicons, etc.)
 ├── scripts/             # Deploy helpers (IndexNow ping)
