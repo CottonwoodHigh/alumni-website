@@ -4,7 +4,7 @@ description: 'Class page for the graduating class of 1980 of Cottonwood High Sch
 ---
 
 import { LinkCard, CardGrid } from '@astrojs/starlight/components';
-import VimeoGrid from '../../../components/vimeo-grid.astro';
+import VideoGrid from '../../../components/video-grid.astro';
 
 ## Contact
 
@@ -50,10 +50,10 @@ From [Facebook](https://www.facebook.com/groups/319956576583/permalink/101639442
 
 ### 2010 (30-year)
 
-<VimeoGrid
+<VideoGrid
   videos={[
     {
-      href: '16042626',
+      href: 'https://vimeo.com/16042626',
       title: "CHD Class of 1980 30th Reunion Slideshow",
       description: "This is the slideshow that was played at the Cottonwood High School 30th Reunion, August 2010.",
     },
@@ -62,25 +62,20 @@ From [Facebook](https://www.facebook.com/groups/319956576583/permalink/101639442
 
 ## Media
 
-import VideoGrid from '../../../components/video-grid.astro';
-
 <VideoGrid
   videos={[
     {
-      provider: 'youtube',
-      href: 'VUJOyry6Gzw',
+      href: 'https://www.youtube.com/watch?v=VUJOyry6Gzw',
       title: "Cottonwood High School Choir",
       description: "1980 choir album, directed by Morris F. Lee",
     },
     {
-      provider: 'youtube',
-      href: 'NtQJPhrTrPo',
+      href: 'https://www.youtube.com/watch?v=NtQJPhrTrPo',
       title: "See How They Run",
       description: "Act 3 of the spring play, March 1980",
     },
     {
-      provider: 'vimeo',
-      href: '16032519',
+      href: 'https://vimeo.com/16032519',
       title: "CHSClass1980 - uncut video",
       description: "Drill team, assemblies, TNT, and jazz band footage.",
     },

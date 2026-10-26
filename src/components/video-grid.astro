@@ -1,19 +1,111 @@
 ---
-import FluidGrid from './fluid-grid.astro';
-import VimeoCard, { type Props as VimeoProps } from './vimeo-card.astro';
-import YoutubeCard, { type Props as YoutubeProps } from './youtube-card.astro';
-
-type Video = ({ provider: 'youtube' } & YoutubeProps) | ({ provider: 'vimeo' } & VimeoProps);
+import { Vimeo } from '@astro-community/astro-embed-vimeo';
+import { YouTube } from '@astro-community/astro-embed-youtube';
 
 interface Props {
-	videos: Video[];
+	videos: {
+		/** The video's YouTube or Vimeo URL. */
+		href: string;
+		title: string;
+		description?: string;
+	}[];
 }
+
+// YouTube video IDs are always 11 characters from the URL-safe base64 alphabet.
+const YOUTUBE_ID = /^[A-Za-z0-9_-]{11}$/;
+const VIMEO_ID = /^\d+$/;
+
+// The embed packages also accept URLs, but they know fewer URL forms.
+// When they cannot read a URL, they render a broken embed with no error.
+// So this module finds the ID itself and fails the build on an unknown URL.
+function findVideo(href: string): { provider: 'youtube' | 'vimeo'; id: string } {
+	const url = URL.parse(href);
+	const path = url?.pathname.split('/').filter(Boolean) ?? [];
+	let provider: 'youtube' | 'vimeo' | undefined;
+	let id: string | null | undefined;
+	switch (url?.hostname) {
+		case 'youtube.com':
+		case 'www.youtube.com':
+		case 'm.youtube.com':
+			provider = 'youtube';
+			if (path.length === 1 && path[0] === 'watch') id = url.searchParams.get('v');
+			else if (path.length === 2 && (path[0] === 'embed' || path[0] === 'shorts')) id = path[1];
+			break;
+		case 'youtu.be':
+			provider = 'youtube';
+			if (path.length === 1) id = path[0];
+			break;
+		case 'vimeo.com':
+			provider = 'vimeo';
+			if (path.length === 1) id = path[0];
+			break;
+		case 'player.vimeo.com':
+			provider = 'vimeo';
+			if (path.length === 2 && path[0] === 'video') id = path[1];
+			break;
+	}
+	if (provider && id && (provider === 'youtube' ? YOUTUBE_ID : VIMEO_ID).test(id)) {
+		return { provider, id };
+	}
+	throw new Error(`VideoGrid cannot find a YouTube or Vimeo video in "${href}".`);
+}
+
+const videos = Astro.props.videos.map((video) => ({ ...video, ...findVideo(video.href) }));
 ---
 
-<FluidGrid minColumnWidth="16rem">
+<ul class="video-grid">
 	{
-		Astro.props.videos.map(({ provider, ...video }) =>
-			provider === 'vimeo' ? <VimeoCard {...video} /> : <YoutubeCard {...video} />,
-		)
+		videos.map(({ provider, id, title, description }) => (
+			<li class="not-content sl-flex">
+				<div class="card sl-flex">
+					<div class="media">{provider === 'vimeo' ? <Vimeo id={id} /> : <YouTube id={id} />}</div>
+					<div class="meta sl-flex">
+						<p class="title">{title}</p>
+						{description && <p class="description">{description}</p>}
+					</div>
+				</div>
+			</li>
+		))
 	}
-</FluidGrid>
+</ul>
+
+<style>
+	.video-grid {
+		display: grid;
+		/* 16rem keeps an embed and its caption readable; narrower screens get one column. */
+		grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr));
+		gap: 1rem;
+		list-style: none;
+		padding: 0;
+	}
+	.video-grid > li {
+		/* Starlight puts a top margin between list items in page content. */
+		margin-top: 0 !important;
+	}
+	.card {
+		flex-direction: column;
+		border: 1px solid var(--sl-color-gray-5);
+		border-radius: 0.5rem;
+		overflow: hidden;
+		box-shadow: var(--sl-shadow-sm);
+		width: 100%;
+	}
+	.media {
+		border-bottom: 1px solid var(--sl-color-gray-5);
+	}
+	.meta {
+		padding: 1rem;
+		flex-direction: column;
+		gap: 0.5rem;
+	}
+	.title {
+		color: var(--sl-color-white);
+		font-size: var(--sl-text-lg);
+		font-weight: 600;
+		line-height: var(--sl-line-height-headings);
+	}
+	.description {
+		color: var(--sl-color-gray-3);
+		line-height: 1.5;
+	}
+</style>
