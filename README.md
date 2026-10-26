@@ -171,6 +171,10 @@ description: 'Class page for the graduating class of 1995 of Cottonwood High Sch
 ---
 ```
 
+It stops with an error if that class page already exists.
+The new year shows up in the sidebar under its decade with no other edit.
+The sidebar is built when the dev server starts, so restart `just watch` if it is running.
+
 Open the file and add whatever you have: reunion details, photos, a list of names.
 MDX supports standard Markdown plus JSX components if you need them.
 See the [Starlight docs](https://starlight.astro.build/guides/authoring-content/) for a guide to writing in Markdown.

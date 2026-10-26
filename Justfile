@@ -79,6 +79,7 @@ preview:
 # Create a new class page
 [group('editing')]
 new-class YEAR:
+    @test ! -e src/content/docs/classes/{{YEAR}}.mdx || { echo "src/content/docs/classes/{{YEAR}}.mdx already exists" >&2; exit 1; }
     echo -e "---\ntitle: 'Class of {{YEAR}}'\ndescription: 'Class page for the graduating class of {{YEAR}} of Cottonwood High School.'\n---" > src/content/docs/classes/{{YEAR}}.mdx
 
 # Interactively create a changeset.
