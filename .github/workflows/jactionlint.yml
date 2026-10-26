@@ -1,0 +1,37 @@
+name: jactionlint
+
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["**"]
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions: {}
+
+jobs:
+  jactionlint:
+    name: Run jactionlint
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read # check out the repository being checked
+      security-events: write # upload the SARIF results to code scanning
+    # The check takes seconds, so 10 only guards against a hung download.
+    timeout-minutes: 10
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: Run jactionlint
+        uses: jdx/jactionlint@a65ab044e916760429068fe5794b8306abdfcbb9 # v2.3.0
+        with:
+          advanced-security: true
+          # The online checks ask the GitHub API about each action that a
+          # workflow uses, for example whether a pinned commit belongs to
+          # that action's repository.
+          online: true
