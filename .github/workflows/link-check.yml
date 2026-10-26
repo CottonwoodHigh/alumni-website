@@ -15,6 +15,10 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: read
+    # Recent successful runs took 30 s to 3.5 min, mostly waiting on
+    # external links. 15 leaves room for slow hosts without letting a hung
+    # job run for six hours.
+    timeout-minutes: 15
 
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1

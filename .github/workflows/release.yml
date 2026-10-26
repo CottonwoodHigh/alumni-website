@@ -20,6 +20,9 @@ jobs:
     permissions:
       contents: write # push the release commit and version tags
       pull-requests: write # open and update the release pull request
+    # Recent successful runs took under 40 s, so 10 leaves room for a slow
+    # runner without letting a hung job run for six hours.
+    timeout-minutes: 10
     steps:
       - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
         with:
