@@ -13,7 +13,9 @@ const classYears = readdirSync(new URL('./src/content/docs/classes/', import.met
 	.map((file) => {
 		const year = /^(\d{4})\.mdx$/.exec(file)?.[1];
 		if (!year) {
-			throw new Error(`src/content/docs/classes/${file} is not a Class page. Name Class pages YYYY.mdx.`);
+			throw new Error(
+				`src/content/docs/classes/${file} is not a Class page. Name Class pages YYYY.mdx.`,
+			);
 		}
 		return year;
 	})
@@ -26,24 +28,24 @@ const classDecades = [...Map.groupBy(classYears, (year) => `${year.slice(0, 3)}0
 	}),
 );
 
-const googleAnalyticsId = 'G-7HX3RTN97F'
+const googleAnalyticsId = 'G-7HX3RTN97F';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://alumni.cottonwoodhigh.school',
 	integrations: [
 		starlight({
 			title: 'Cottonwood Alumni',
-		  logo: {
-		    light: './src/assets/light-logo.svg',
-		    dark: './src/assets/dark-logo.svg',
-		    replacesTitle: true,
-		  },
+			logo: {
+				light: './src/assets/light-logo.svg',
+				dark: './src/assets/dark-logo.svg',
+				replacesTitle: true,
+			},
 			head: [
 				{
 					tag: 'script',
 					attrs: {
 						src: `https://www.googletagmanager.com/gtag/js?id=${googleAnalyticsId}`,
-						async: true
+						async: true,
 					},
 				},
 				{
@@ -55,23 +57,24 @@ export default defineConfig({
 
 				  gtag('config', '${googleAnalyticsId}');
 					`,
-				}
+				},
 			],
 			expressiveCode: {
 				themes: ['catppuccin-mocha', 'catppuccin-latte'],
-		    styleOverrides: { borderRadius: '0.5rem' },
+				styleOverrides: { borderRadius: '0.5rem' },
 			},
-			customCss: [
-				'./src/styles/custom.css',
-				'./src/fonts/font-face.css',
-			],
+			customCss: ['./src/styles/custom.css', './src/fonts/font-face.css'],
 			social: [
-				{ icon: 'x.com', label: 'x.com', href: 'https://x.com/cwoodcolts'},
-				{ icon: 'instagram', label: 'Instagram', href: 'https://www.instagram.com/CWOODCOLTS/'},
-				{ icon: 'facebook', label: 'Facebook', href: 'https://www.facebook.com/cwoodcolts'},
-				{ icon: 'linkedin', label: 'LinkedIn', href: 'https://www.linkedin.com/groups/13573495/'},
-				{ icon: 'email', label: 'Email', href: 'mailto:admin@cottonwoodhigh.school'},
-				{ icon: 'github', label: 'GitHub', href: 'https://github.com/CottonwoodHigh/alumni-website'},
+				{ icon: 'x.com', label: 'x.com', href: 'https://x.com/cwoodcolts' },
+				{ icon: 'instagram', label: 'Instagram', href: 'https://www.instagram.com/CWOODCOLTS/' },
+				{ icon: 'facebook', label: 'Facebook', href: 'https://www.facebook.com/cwoodcolts' },
+				{ icon: 'linkedin', label: 'LinkedIn', href: 'https://www.linkedin.com/groups/13573495/' },
+				{ icon: 'email', label: 'Email', href: 'mailto:admin@cottonwoodhigh.school' },
+				{
+					icon: 'github',
+					label: 'GitHub',
+					href: 'https://github.com/CottonwoodHigh/alumni-website',
+				},
 			],
 			editLink: {
 				baseUrl: 'https://github.com/CottonwoodHigh/alumni-website/edit/main/',
@@ -81,26 +84,26 @@ export default defineConfig({
 			sidebar: [
 				{
 					label: 'Start Here',
-          items: [
-              // Each item here is one entry in the navigation menu.
-              { label: 'Introduction', slug: 'introduction' },
-          ],
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{ label: 'Introduction', slug: 'introduction' },
+					],
 				},
 				{
 					label: 'Class Pages',
-          items: classDecades,
+					items: classDecades,
 				},
 				{
 					label: 'Guides',
-          items: [
-              {
-              		label: 'Authoring Content in Markdown',
-              		link: 'https://starlight.astro.build/guides/authoring-content/',
-              		attrs: { class: 'external-link' },
-              },
-              'guides/booking-cottonwood',
-              'guides/create-a-page',
-          ],
+					items: [
+						{
+							label: 'Authoring Content in Markdown',
+							link: 'https://starlight.astro.build/guides/authoring-content/',
+							attrs: { class: 'external-link' },
+						},
+						'guides/booking-cottonwood',
+						'guides/create-a-page',
+					],
 				},
 				{
 					label: 'Reference',
@@ -108,15 +111,15 @@ export default defineConfig({
 				},
 				{
 					label: 'Resources',
-          items: [
-              'resources/alumni-connections',
-              'resources/sponsor',
-              {
-              		label: 'Student Government Website',
-              		link: 'https://www.cwoodstampede.com/',
-              		attrs: { class: 'external-link' },
-              },
-          ],
+					items: [
+						'resources/alumni-connections',
+						'resources/sponsor',
+						{
+							label: 'Student Government Website',
+							link: 'https://www.cwoodstampede.com/',
+							attrs: { class: 'external-link' },
+						},
+					],
 				},
 			],
 			lastUpdated: true,
