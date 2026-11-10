@@ -13,8 +13,8 @@
   "dependencies": {
     "@astro-community/astro-embed-vimeo": "^0.3.12",
     "@astro-community/astro-embed-youtube": "^0.5.10",
-    "@astrojs/starlight": "0.42.9",
-    "astro": "7.4.7",
+    "@astrojs/starlight": "0.42.10",
+    "astro": "7.4.8",
     "sharp": "^0.35.5",
     "starlight-image-zoom": "^0.16.2"
   },
